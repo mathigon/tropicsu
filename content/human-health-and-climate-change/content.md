@@ -158,23 +158,30 @@ Use the tools and the concepts learned so far to discuss and determine answers t
 4. Recommend specific actions/policies that can help in mitigating the spread of vector-borne diseases caused by a rise in average global temperature, increase in sea-levels, and growth in population.
 
 
---
+---
 
 ## Resources and credits
+> section: resources
+> id: resources
+
 ::: .theorem
 If you or your students would like to explore the topic further, these additional resources will be useful.
 :::
 
-1 	Text. [“Climate Change and Infectious Diseases”](http://www.who.int/globalchange/environment/en/chapter6.pdf), from the World Health Organization (WHO)
+### Additional resources
+1. Text. [“Climate Change and Infectious Diseases”](http://www.who.int/globalchange/environment/en/chapter6.pdf), from the World Health Organization (WHO)
 
-2 	Video [“What is the role of climate change in disease emergence?”](https://www.coursera.org/lecture/epidemics/what-is-the-role-of-climate-change-in-disease-emergence-2EXqq), from the course, “Epidemics – the Dynamics of Infectious Diseases”, by the Pennsylvania State University:
+2. Video [“What is the role of climate change in disease emergence?”](https://www.coursera.org/lecture/epidemics/what-is-the-role-of-climate-change-in-disease-emergence-2EXqq), from the course, “Epidemics – the Dynamics of Infectious Diseases”, by the Pennsylvania State University:
+
+### Credits
+
+1. Reading, “Vector-borne diseases 	World Health Organization (WHO)
+2. Video, “Human Health, Vector-Borne Diseases, and Climate Change” 	UCARConnect, Mary Hayden and Andy Monaghan from the National Center for Atmospheric Research
+3. Classroom/Laboratory activity, “Beyond the Bite: Mosquitoes and Malaria” 	Institute for Global Environmental Strategies
+4. Game (computer-based), “Climate Health Impact” 	Big Picture/Playgen
+5. Additional Resources 	World Health Organization; Coursera (course by The Pennsylvania State University)
 
 
-1 	Reading, “Vector-borne diseases 	World Health Organization (WHO)
-2 	Video, “Human Health, Vector-Borne Diseases, and Climate Change” 	UCARConnect, Mary Hayden and Andy Monaghan from the National Center for Atmospheric Research
-3 	Classroom/Laboratory activity, “Beyond the Bite: Mosquitoes and Malaria” 	Institute for Global Environmental Strategies
-4 	Game (computer-based), “Climate Health Impact” 	Big Picture/Playgen
-5 	Additional Resources 	World Health Organization; Coursera (course by The Pennsylvania State University)
-6 	Images 	https://www.strategies.org/wp-content/uploads/2011/12/Mosquitoes_May02.pdf
+<font size="2">
 All the teaching tools and images  in our collated list are owned by the corresponding creators/authors/organizations as  listed on their websites. Please view the individual copyright and ownership details for each tool by following the individual links provided. We have selected and analyzed the tools that align with the overall objective of our project and have provided the corresponding links. We do not claim ownership of or responsibility/liability for any of the listed tools. 
-
+</font>

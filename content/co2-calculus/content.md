@@ -6,7 +6,7 @@
 
 ::: .theorem
 
-This lesson allows students to perform polynomial differentiation and solve
+This! lesson allows students to perform polynomial differentiation and solve
 tangent line problems using climate data such as atmospheric `CO_2`
 concentrations data since 1950.
 
@@ -97,16 +97,50 @@ Download the material in the project [Mauna Loa Yearly Average CO2](http://susta
 
 :::
 
+* Solve the exercises 1-6 on this sheet: [Exercises](http://sustainabilitymath.org/word/Mauna-Loa-CO2.docx)
+* You will need this data: [Excel file](http://sustainabilitymath.org/excel/Mauna-Loa-CO2.xlsx)
+
+
 ---
 
 ## Questions and Assignments
 > section: exercises
 > id: exercises
 
-Use this lesson plan to help your students find answers to:
+::: .theorem
+Propose the following questions to your students and help them to find some answers.
+:::
+
+Use the tools and the concepts learned so far to discuss and determine answers to the following questions:
 
 1. Plot a graph and find the polynomial equation to model the average yearly
    atmospheric CO2 levels from 1950 to 2017 (using data records provided).
 2. Compare and analyze the rate of change of atmospheric CO2 levels by applying
    Polynomial Differentiation.
 3. Based on observed trends, what will the atmospheric CO2 level be in 2100?
+
+
+---
+
+## Resources and credits
+> section: resources
+> id: resources
+
+::: .theorem
+If you or your students would like to explore the topic further, these additional resources will be useful.
+:::
+
+### Additional resources
+
+1. Interactive visualization, [“Interactive Graph showing Differentiation of a Polynomial Function”](https://www.intmath.com/differentiation/derivative-graphs.php) from Interactive Mathematics.
+
+### Credits
+
+1. Reading, “Derivatives of Polynomials” 	[World Web Math, Massachusetts Institute of Technology](http://web.mit.edu/wwmath/index.html)
+2. Micro-lecture (video), “Differentiating polynomials” 	[Khan Academy](https://www.khanacademy.org/)
+3. Classroom/Laboratory Activity , “Mauna Loa Yearly Average CO2” 	 Thomas J. Pfaff, [Sustainability Math](http://sustainabilitymath.org/)
+
+ 
+<font size="2">
+All the teaching tools and images  in our collated list are owned by the corresponding creators/authors/organizations as  listed on their websites. Please view the individual copyright and ownership details for each tool by following the individual links provided. We have selected and analyzed the tools that align with the overall objective of our project and have provided the corresponding links. We do not claim ownership of or responsibility/liability for any of the listed tools. 
+</font>
