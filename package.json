@@ -1,10 +1,9 @@
 {
-  "name": "@mathigon/textbooks",
-  "version": "0.2.3",
-  "description": "Mathigon Textbooks",
-  "homepage": "https://mathigon.org/",
-  "repository": "mathigon/textbooks",
-  "license": "CC-BY-NC-ND-4.0",
+  "name": "@mathigon/tropicsu",
+  "version": "0.0.1",
+  "description": "Tropicsu Lesson Plans",
+  "homepage": "https://tropicsu.org/",
+  "repository": "mathigon/tropicsu",
   "scripts": {
     "server": "node server/app.js --use-strict & grunt concurrent",
     "start": "grunt && npm run server",

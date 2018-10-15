@@ -1,0 +1,20 @@
+# ==============================================================================
+# Tropicsu Lesson Plans
+# ==============================================================================
+
+
+
+co2-calculus:
+  name: Calculus and CO2 Emissions
+  description: xxx
+  color: ccc
+
+human-health:
+  name: Human Health and Climate Change
+  description: xxx
+  color: ccc
+
+tragedy-of-commons:
+  name: Tragedy of the Commons
+  description: xxx
+  color: ccc
