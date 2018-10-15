@@ -1,12 +1,10 @@
-# Human health and climate change
+# Malaria and Human Health
 
 ## Introduction
 > section: intro
 > id: intro
 
 ::: .theorem
-
-
 
 The tools in this lesson plan will enable students to:
 
@@ -97,7 +95,7 @@ __Classroom/Laboratory activities (60-90 min)__
 
 Explore the topic in an engaging manner by conducting the activity, “Beyond the Bite: Mosquitoes & Malaria”, developed by Institute for Global Environmental Strategies.
 
-* Download the activity “Beyond the Bite: Mosquitoes & Malaria” from [the source](https://www.strategies.org/wp-content/uploads/2011/12/Mosquitoes_May02.pdf)
+* Download the activity [“Beyond the Bite: Mosquitoes & Malaria”](/resources/human-health/downloads/mosquitoes-and-malaria.pdf).
 
 * Print the maps and other data sheets for your students.
 

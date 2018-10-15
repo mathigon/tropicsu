@@ -6,7 +6,7 @@
 
 ::: .theorem
 
-This! lesson allows students to perform polynomial differentiation and solve
+This lesson allows students to perform polynomial differentiation and solve
 tangent line problems using climate data such as atmospheric `CO_2`
 concentrations data since 1950.
 

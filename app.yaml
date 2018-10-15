@@ -12,5 +12,5 @@ handlers:
 - url: /.*
   script: server/app.js
 
-automatic_scaling:
-  max_num_instances: 1
+manual_scaling:
+  instances: 1
