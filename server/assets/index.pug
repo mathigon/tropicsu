@@ -1,23 +1,53 @@
+mixin course(id)
+  a.lesson-plan(href="/course/" + id style="background: #" + courses[id].color)
+    .lesson-plan-img(style="background-image: url(/resources/" + id + "/hero.jpg)")
+    h2= courses[id].title
+    p= courses[id].description
+    p #{courses[id].grade} &nbsp;•&nbsp; #{courses[id].time}
+
+
 doctype html
 html
   head
     meta(charset="utf-8")
     title Mathigon Development Server
     meta(name="viewport", content="width=device-width, initial-scale=1, user-scalable=no")
-    // link(href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,300,400italic', rel='stylesheet', type='text/css')
+    link(href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,300,400italic', rel='stylesheet', type='text/css')
+    link(href='/course.css', rel='stylesheet')
 
     style.
-      html, body { margin: 0; height: 100%; width: 100%; display: flex; background: #242436; justify-content: center; align-items: center; font-family: "Source Sans Pro", sans-serif; color: white; text-align: center; }
-      svg { margin: 0 auto; display: block; }
-      h1 { font-size: 44px; }
-      h2 { font-size: 32px; margin-top: -24px; font-weight: 400; opacity: 0.6; }
-      a { display: inline-block; background: #ccc; border-radius: 4px; padding: 8px 12px; color: #242436; }
-      a:hover { background: #aaa; }
+      header { background: #002b2a; }
+      .hero { background: url(/images/hero.jpg) center; background-size: cover; margin-top: 44px; }
+      .lesson-plan { display: block; width: 265px; border-radius: 8px; padding: 0 18px; margin: 16px; }
+      .lesson-plan-img { height: 160px; background: center; background-size: cover; border-radius: 8px 8px 0 0; margin: 0 -18px; }
+      .lesson-plan h2 { color: white; font-size: 22px; margin: 12px 0 12px; }
+      .lesson-plan p { color: rgba(255,255,255,0.8); font-size: 16px; margin: 0 0 14px; }
+      footer { height: auto; }
 
   body
-    #body
-      svg(viewBox="0 0 180 180", class="icon", width=180, height=180)
-        use(xlink:href="/icons.svg#logo")
-      h1 Mathigon
-      h2 Development Server
-      p: a(href="https://github.com/mathigon/textbooks" target="_blank") Documentation
+    header
+      a#logo(href="/")
+        include images/logo.svg
+
+    .hero
+      .hero-shadow
+      .container: .hero-title
+        h1 Learn about Climate Change
+
+    .container
+      .row
+        +course('co2-calculus')
+        +course('human-health')
+        +course('tragedy-of-commons')
+        +course('microbial-life')
+        +course('phenology')
+
+    .container
+      footer.global-footer
+        .footer-left
+          a(href='https://council.science/') International Science Council
+          span.dot •
+          a(href='https://imaginary.org/') Imaginary
+          span.dot •
+          a(href='https://mathigon.org') Mathigon
+        .footer-right © TROP ICSO

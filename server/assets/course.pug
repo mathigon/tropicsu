@@ -15,16 +15,14 @@ html
 
   body
     include components.html
-
     header
-      #logo
-        +icon('logo', 36)
-        +icon('title', 100, 36)
+      a#logo(href="/"): include images/logo.svg
 
     .body
       x-course(id=course.id)
-        .sidebar
+        .sidebar(style="background: #" + course.color)
           .sidebar-hero(style=`background-image: url(/resources/${course.id}/hero.jpg)`)
+            .sidebar-hero-gradient
             .sidebar-title= course.title
 
           .sidebar-body
@@ -39,6 +37,7 @@ html
                   x-progress(r=10 p=0)
                   | #{s.title}
                   .connection
+          .sidebar-footer Hosted by #[a(href="https://mathigon.org" target="_blank") Mathigon]
 
         .sidebar-shadow
         .sidebar-toggle: +icon('progress', 24)

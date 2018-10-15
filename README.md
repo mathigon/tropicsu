@@ -18,9 +18,9 @@ Sciences.
 After forking and cloning this repository, install all dependencies using
 `npm install`.
 
-Now you can start a local development server by running `npm start`. Wait for
-the assets to be compiled and then open [localhost:5000](http://localhost:5000).
-The server will automatically watch for file changes.
+Now you can start a local development server by running `npm run local`. Wait
+for a few seconds and then open [localhost:5000](http://localhost:5000). The
+server will automatically watch for file changes and update.
 
 Every lesson plan is a subfolder in the [content](content) directory. The URL of
 the [CO2 and Calculus course](content/co2-calculus), for example, will be

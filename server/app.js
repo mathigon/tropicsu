@@ -7,12 +7,15 @@
 const fs = require('fs');
 const path = require('path');
 const express = require('express');
+const yaml = require('js-yaml');
 
 
 // -----------------------------------------------------------------------------
 // Course Class
 
 const COURSE_PATH = path.join(__dirname, 'assets/resources/');
+const COURSE_YAML = yaml.safeLoad(
+    fs.readFileSync(path.join(__dirname, '../lesson-plans.yaml')));
 
 class Course {
 
@@ -21,6 +24,8 @@ class Course {
     this.id = id;
     this.sections = data.sections;
     this.title = data.title;
+    this.color = COURSE_YAML[id].color;
+    this.description = COURSE_YAML[id].description;
   }
 
   readFile(name) {
@@ -41,10 +46,9 @@ class Course {
   getSectionHTML(section) { return this.readFile(`sections/${section}.html`); }
 }
 
-const Courses = {};
-const courseIds = fs.readdirSync(COURSE_PATH).filter(f => f !== 'shared')
-    .filter(f => fs.statSync(COURSE_PATH + '/' + f).isDirectory());
-for (let c of courseIds) Courses[c] = new Course(c);
+const courses = {};
+const courseIds = fs.readdirSync(COURSE_PATH).filter(f => f in COURSE_YAML);
+for (let c of courseIds) courses[c] = new Course(c);
 
 
 // -----------------------------------------------------------------------------
@@ -61,18 +65,17 @@ app.use('/resources', express.static(path.join(__dirname, '../content')));
 app.use('/images/emoji', express.static(path.join(
     __dirname, '../node_modules/emojione-assets/png/64')));
 
-app.get('/', function(req, res) {
-  res.render('index');
-});
+app.get('/', (req, res) => res.render('index', {courses: COURSE_YAML}));
+app.get('/_ah/health', (req, res) => res.status(200).send('ok'));
 
 app.get('/course/:course', function(req, res, next) {
-  const course = Courses[req.params.course];
+  const course = courses[req.params.course];
   if (!course) return next();
   res.redirect(`/course/${course.id}/${course.sections[0].id}`);
 });
 
 app.get('/course/:course/:section', function(req, res, next) {
-  const course = Courses[req.params.course];
+  const course = courses[req.params.course];
   if (!course) return next();
 
   const section = course.getSection(req.params.section);

@@ -1,0 +1,16 @@
+# see https://cloud.google.com/appengine/docs/flexible/nodejs/configuring-your-app-with-app-yaml
+
+runtime: nodejs
+env: flex
+
+skip_files:
+- ^node_modules$
+- ^.git$
+- ^.idea$
+
+handlers:
+- url: /.*
+  script: server/app.js
+
+automatic_scaling:
+  max_num_instances: 1

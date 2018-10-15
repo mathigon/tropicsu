@@ -1,8 +1,5 @@
 // =============================================================================
-// TropicsU Calculus CO2
+// Tragedy of the Commons
 // (c) Mathigon
 // =============================================================================
 
-
-@import "styles/variables";
-@import "styles/tropics-shared";

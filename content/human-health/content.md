@@ -58,7 +58,7 @@ Introduce the topic with the help of a reading
 
 
 Read some facts about Vector-borne diseases on this page from the World Health Organization (WHO).
-* [Text](./resources/Vector-borne-diseases.pdf)
+* [Text](/resources/human-health/downloads/vector-borne-diseases.pdf)
 * [Source](http://www.who.int/news-room/fact-sheets/detail/vector-borne-diseases)
 
 
