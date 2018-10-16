@@ -29,7 +29,11 @@ The tools in this lesson plan will enable students to:
 
 :::
 
+Malaria is a disease caused by _Plasmodium_ protozoa, and it is transmitted by the bite of the female _Anopheles_ mosquito. This illness affects the human liver and blood and kills one-to-two million people every year.
 
+Many factors limit the spread of the disease, foremost of which may be the temperature. Malaria generally spreads into regions where minimum temperatures fall no lower than 16° C (61° F).
+
+Global changes in the climate and temperature affect the risks of spreading Malaria in different regions.
 
 
 ---
@@ -55,10 +59,14 @@ Introduce the topic with the help of a reading
 :::
 
 
-Read some facts about Vector-borne diseases on this page from the World Health Organization (WHO).
-* [Text](/resources/human-health/downloads/vector-borne-diseases.pdf)
-* [Source](http://www.who.int/news-room/fact-sheets/detail/vector-borne-diseases)
+Read some facts about Vector-borne diseases from the World Health Organization (WHO) in this 
+[text](/resources/human-health/downloads/vector-borne-diseases.pdf).
 
+
+<font size="2">
+__Credits__ : 
+[Vector-borne diseases](http://www.who.int/news-room/fact-sheets/detail/vector-borne-diseases), from the [World Health Organization](http://www.who.int).
+</font>
 
 
 
@@ -78,10 +86,16 @@ Play the video "Human Health, Vector-Borne Diseases, and Climate Change", which 
 In this video, "Human Health, Vector-Borne Diseases, and Climate Change", Mary Hayden and Andy Monaghan from the National Center for Atmospheric Research discuss the role of weather and climate as one of the factors that could impact the spread of diseases, thus potentially affecting human health outcomes.
 
     .video-wrap
-      iframe(width="560" height="315" src="https://www.youtube.com/watch?v=jDueuwB3Tcs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen)
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/jDueuwB3Tcs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen)
+      
+	
+
+<font size="2">
+__Credits__ : 
+[Human Health, Vector-Borne Diseases, and Climate Change](https://www.youtube.com/watch?v=jDueuwB3Tcs)
+</font>
 
 
-[Source](https://www.youtube.com/watch?v=jDueuwB3Tcs)
 
 ---
 
@@ -104,34 +118,16 @@ downloaded file.
 
 :::
 
-
-[Source](https://www.strategies.org/wp-content/uploads/2011/12/Mosquitoes_May02.pdf)
-
+The activity [“Beyond the Bite: Mosquitoes & Malaria”](/resources/human-health/downloads/mosquitoes-and-malaria.pdf) explores how changes in the minimum temperatures of some regions can affect the transmission of Malaria.
 
 
 
----
+<font size="2">
+__Credits__ : 
+[“Beyond the Bite: Mosquitoes & Malaria”](https://www.strategies.org/wp-content/uploads/2011/12/Mosquitoes_May02.pdf), from the [Institute for Global Environmental Strategies](https://www.strategies.org).
+</font>
 
 
-## Game
-> section: game
-> id: game
-
-::: .theorem
-__Game (60 min)__
-
-Students can play the computer-based game “Climate Health Impact”, from Big Picture/Playgen, for an interactive experience. This game will enable students to understand the possible effects of climate change on human health in different regions of the world, to identify diseases from their symptoms, and to explore measures (specifically, policies) for adaptation and mitigation:
-
-* Download the resources for teachers (including an introduction and a homework sheet) from 
-[the source](https://bigpictureeducation.com/climate-health-impact-game).
-
-* Conduct [the game](http://playgen.com/play/climate-health-impact/) by using the guidelines in the “Teacher Notes”.
-
-Note: This game requires a Flash player; therefore, it may not play in some browsers. The game works in Firefox
-
-:::
-
-[Game](http://playgen.com/play/climate-health-impact/)
 
 
 

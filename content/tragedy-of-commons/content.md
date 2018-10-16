@@ -49,10 +49,9 @@ Play the video "The tragedy of the commons", which can be used as a  micro-lectu
 
 What does it mean for you the expression "the tragedy of the commons"? Watch the following video and give examples to explain the terms “tragedy” and “commons”.
 
-<!--
     .video-wrap
-      iframe(width="560" height="315" src="https://www.youtube.com/watch?v=jDueuwB3Tcs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen)
--->
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/0b2Tl0x-niw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen)
+
 
 [Source](https://www.coursera.org/lecture/sustainability/tragedy-of-the-commons-MtxUU)
 
@@ -142,5 +141,7 @@ If you or your students would like to explore the topic further, these additiona
 3. Reading, [“Climate Change: The Ultimate Tragedy of the Commons”](https://www.lincolninst.edu/sites/default/files/pubfiles/climate-change_0.pdf), by Jouni Paavola in “Property in Land and Other Resources”, edited by Daniel H. Cole and Elinor Ostrom, Cambridge, MA: Lincoln Institute of Land Policy, pp. 417-433; 
 
  
-
+<font size="2">
+All the teaching tools and images  in our collated list are owned by the corresponding creators/authors/organizations as  listed on their websites. Please view the individual copyright and ownership details for each tool by following the individual links provided. We have selected and analyzed the tools that align with the overall objective of our project and have provided the corresponding links. We do not claim ownership of or responsibility/liability for any of the listed tools. 
+</font>
 

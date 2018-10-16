@@ -52,6 +52,10 @@ function-graph:
   text: We can plot mathematical functions of the form `f(x)` in a coordinate
     system. The result is called the __graph__ of the function.
 
+derivative:
+  title: Derivative of a function
+  text: The __derivative__ of a function of a real variable measures the sensitivity to change of the function value (output value) with respect to a change in its argument (input value). The derivative of a function of a single variable at a chosen input value, when it exists, is the slope of the tangent line to the graph of the function at that point.
+
 sequence:
   title: Sequence
   text: A __sequence__ is an ordered list of numbers of elements that are
