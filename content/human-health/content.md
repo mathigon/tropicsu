@@ -1,10 +1,23 @@
 # Malaria and Human Health
 
-## Introduction
-> section: intro
-> id: intro
+## Lesson Plan
+> section: overview
 
-::: .theorem
+This lesson plan allows students to study the geographical distribution and spread of diseases. Further, students can explore how climate change could impact the spread of vector-borne diseases (specifically, malaria) and could consequently affect human health outcomes. The activity will also help students to identify policies for adapting to and mitigating the spread of diseases.
+
+Thus, the use of this lesson plan allows you to integrate the teaching of a climate science topic with a core topic in the Biological Sciences.
+
+
+__Grade Level__: High School  
+__Discipline__:	 Biological Sciences, Environmental Sciences  
+__Topic(s) in Discipline__:	Protozoa, Vectors, Vector-borne Diseases, Malaria, Climate Change and the Spread of Malaria, Climate Change and Human Health  
+__Climate Topic__ : Climate and Health  
+__Location__: Global, USA  
+__Languages__: English  
+__Access__: Online (some material can be downloaded for offline use)  
+__Approximate Time Required__: 150-190 min  
+
+### Learning outcomes
 
 The tools in this lesson plan will enable students to:
 
@@ -12,39 +25,17 @@ The tools in this lesson plan will enable students to:
 * discuss the causes for the spread of vector-borne diseases
 * explain the possible link between climate change and the distribution/spread of infectious vector-borne diseases
 * discuss climate change-related actions and policies that will help in adapting to and mitigating the spread of vector-borne diseases
-:::
-
-
-::: .theorem
-|    |    |
-|:------------------|:-------------|
-| __Grade Level__ 	| High School |
-| __Discipline__		| Biological Sciences, Environmental Sciences |
-| __Topic(s) in Discipline__	| Protozoa, Vectors, Vector-borne Diseases, Malaria, Climate Change and the Spread of Malaria, Climate Change and Human Health |
-| __Climate Topic__ 	| Climate and Health |
-| __Location__		| Global, USA |
-| __Languages__ 		| English |
-| __Access__  		| Online (some material can be downloaded for offline use) |
-| __Approximate Time Required__	| 	150-190 min |
-
-:::
-
-Malaria is a disease caused by _Plasmodium_ protozoa, and it is transmitted by the bite of the female _Anopheles_ mosquito. This illness affects the human liver and blood and kills one-to-two million people every year.
-
-Many factors limit the spread of the disease, foremost of which may be the temperature. Malaria generally spreads into regions where minimum temperatures fall no lower than 16° C (61° F).
-
-Global changes in the climate and temperature affect the risks of spreading Malaria in different regions.
-
 
 ---
 
-## Reading
-> section: reading
+## Introduction to Malaria
+> section: intro
 > id: reading
+> format: Reading
+> duration: 20–30 min
 
-::: .theorem
 
-__Reading (20-30 min)__
+::: .teaching-notes
 
 Introduce the topic with the help of a reading
 
@@ -59,27 +50,32 @@ Introduce the topic with the help of a reading
 :::
 
 
-Read some facts about Vector-borne diseases from the World Health Organization (WHO) in this 
-[text](/resources/human-health/downloads/vector-borne-diseases.pdf).
+Malaria is a disease caused by _Plasmodium_ protozoa, and it is transmitted by the bite of the female _Anopheles_ mosquito. This illness affects the human liver and blood and kills one-to-two million people every year.
+
+Many factors limit the spread of the disease, foremost of which may be the temperature. Malaria generally spreads into regions where minimum temperatures fall no lower than 16° C (61° F).
+
+Global changes in the climate and temperature affect the risks of spreading Malaria in different regions.
 
 
-<font size="2">
-__Credits__ : 
+Read some facts about Vector-borne diseases from the World Health Organization (WHO):
+
+{div.large-link} [Vector-borne diseases](/resources/human-health/downloads/vector-borne-diseases.pdf)
+
+
+{div.credit}
 [Vector-borne diseases](http://www.who.int/news-room/fact-sheets/detail/vector-borne-diseases), from the [World Health Organization](http://www.who.int).
-</font>
-
 
 
 
 ---
 
-## Video Lesson
+## The role of weather and climate on the spread of diseases
 > section: video
 > id: video
+> format: Video
+> duration: 8 min
 
-::: .theorem
-__Video (8 min)__
-
+::: .teaching-notes
 Play the video "Human Health, Vector-Borne Diseases, and Climate Change", which can be used as a  micro-lecture.
 :::
 
@@ -89,43 +85,53 @@ In this video, "Human Health, Vector-Borne Diseases, and Climate Change", Mary H
       iframe(width="560" height="315" src="https://www.youtube.com/embed/jDueuwB3Tcs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen)
       
 	
-
-<font size="2">
-__Credits__ : 
-[Human Health, Vector-Borne Diseases, and Climate Change](https://www.youtube.com/watch?v=jDueuwB3Tcs)
-</font>
+{div.credit} 
+[Human Health, Vector-Borne Diseases, and Climate Change](https://www.youtube.com/watch?v=jDueuwB3Tcs), by the National Center for Atmospheric Research (NCAR) and the Center for Disease Control (CDC). UCARConnect, Mary Hayden and Andy Monaghan from the National Center for Atmospheric Research.
 
 
 
 ---
 
 
-## Classroom Activities
+## Beyond the bite: Mosquitoes & Malaria
 > section: activities
 > id: activities
+> format: Activities
+> duration: 60-90 min
 
-::: .theorem
+
+::: .teaching-notes
 __Classroom/Laboratory activities (60-90 min)__
 
 Explore the topic in an engaging manner by conducting the activity, “Beyond the Bite: Mosquitoes & Malaria”, developed by Institute for Global Environmental Strategies.
 
-* Download the activity [“Beyond the Bite: Mosquitoes & Malaria”](/resources/human-health/downloads/mosquitoes-and-malaria.pdf).
+The full activity with teacher resources is the following:
 
+[“Beyond the Bite: Mosquitoes & Malaria”](/resources/human-health/downloads/mosquitoes-and-malaria.pdf) 
+
+Below the links point to the materials needed by the students.
+
+* Download the activity.
 * Print the maps and other data sheets for your students.
-
 * Conduct the activity in the classroom or laboratory by following the procedure described in the 
 downloaded file.
 
 :::
 
-The activity [“Beyond the Bite: Mosquitoes & Malaria”](/resources/human-health/downloads/mosquitoes-and-malaria.pdf) explores how changes in the minimum temperatures of some regions can affect the transmission of Malaria.
+The following activity explores how changes in the minimum temperatures of some regions can affect the transmission of Malaria.
+
+Use the following materials:
+* [Map of distribution of Malaria](/resources/human-health/downloads/malaria_003.png)
+
+* [Maps and temperatures of the Caribbean region](/resources/human-health/downloads/mosquitoes-and-malaria_appendixD.pdf) 
+
+to answer the following sheet:
+
+{div.large-link}[“Beyond the Bite: Mosquitoes & Malaria”](/resources/human-health/downloads/mosquitoes-and-malaria_activity.pdf) 
 
 
-
-<font size="2">
-__Credits__ : 
+{div.credit} 
 [“Beyond the Bite: Mosquitoes & Malaria”](https://www.strategies.org/wp-content/uploads/2011/12/Mosquitoes_May02.pdf), from the [Institute for Global Environmental Strategies](https://www.strategies.org).
-</font>
 
 
 
@@ -137,7 +143,7 @@ __Credits__ :
 > section: exercises
 > id: exercises
 
-::: .theorem
+::: .teaching-notes
 Propose the following questions to your students and help them to find some answers.
 :::
 
@@ -154,28 +160,18 @@ Use the tools and the concepts learned so far to discuss and determine answers t
 
 ---
 
-## Resources and credits
+## Additional resources
 > section: resources
 > id: resources
 
-::: .theorem
+::: .teaching-notes
 If you or your students would like to explore the topic further, these additional resources will be useful.
 :::
 
 ### Additional resources
-1. Text. [“Climate Change and Infectious Diseases”](http://www.who.int/globalchange/environment/en/chapter6.pdf), from the World Health Organization (WHO)
+1. [“Climate Change and Infectious Diseases”](http://www.who.int/globalchange/environment/en/chapter6.pdf) (text), from the World Health Organization (WHO)
 
-2. Video [“What is the role of climate change in disease emergence?”](https://www.coursera.org/lecture/epidemics/what-is-the-role-of-climate-change-in-disease-emergence-2EXqq), from the course, “Epidemics – the Dynamics of Infectious Diseases”, by the Pennsylvania State University:
-
-### Credits
-
-1. Reading, “Vector-borne diseases 	World Health Organization (WHO)
-2. Video, “Human Health, Vector-Borne Diseases, and Climate Change” 	UCARConnect, Mary Hayden and Andy Monaghan from the National Center for Atmospheric Research
-3. Classroom/Laboratory activity, “Beyond the Bite: Mosquitoes and Malaria” 	Institute for Global Environmental Strategies
-4. Game (computer-based), “Climate Health Impact” 	Big Picture/Playgen
-5. Additional Resources 	World Health Organization; Coursera (course by The Pennsylvania State University)
+2. [“What is the role of climate change in disease emergence?”](https://www.coursera.org/lecture/epidemics/what-is-the-role-of-climate-change-in-disease-emergence-2EXqq) (video), from the course, “Epidemics – the Dynamics of Infectious Diseases”, by the Pennsylvania State University:
 
 
-<font size="2">
-All the teaching tools and images  in our collated list are owned by the corresponding creators/authors/organizations as  listed on their websites. Please view the individual copyright and ownership details for each tool by following the individual links provided. We have selected and analyzed the tools that align with the overall objective of our project and have provided the corresponding links. We do not claim ownership of or responsibility/liability for any of the listed tools. 
-</font>
+
