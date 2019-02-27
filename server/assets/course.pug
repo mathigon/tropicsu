@@ -3,6 +3,17 @@ mixin icon(url, width, height)
   svg(viewBox="0 0 " + width + ' ' + height, class="icon", width=width, height=height)
     use(xlink:href="/icons.svg#" + url)
 
+mixin sidebarRow(s)
+  if s.title === 'Lesson Plan'
+    +icon('glossary', 24, 24)
+    | #{s.title}
+  else
+    x-progress(r=10 p=0)
+    | #{s.title}
+    if s.format && s.duration
+      .meta #{s.format} &nbsp;•&nbsp; #{s.duration}
+    .connection
+
 doctype html
 html
   head
@@ -11,7 +22,7 @@ html
     meta(name="viewport", content="width=device-width, initial-scale=1")
     link(href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,300,400italic' rel='stylesheet' type='text/css')
     link(href='/course.css', rel='stylesheet')
-    link(href='/resources/' + course.id + '/styles.css', rel='stylesheet')
+    link(href='/tropicsu.css', rel='stylesheet')
 
   body
     include components.html
@@ -29,14 +40,10 @@ html
             for s in course.sections
               if s.id === section.id
                 .sidebar-row.on
-                  x-progress(r=10 p=0)
-                  | #{s.title}
-                  .connection
+                  +sidebarRow(s)
               else
                 a.sidebar-row(href=`/course/${course.id}/${s.id}`)
-                  x-progress(r=10 p=0)
-                  | #{s.title}
-                  .connection
+                  +sidebarRow(s)
           .sidebar-footer Hosted by #[a(href="https://mathigon.org" target="_blank") Mathigon]
 
         .sidebar-shadow
@@ -47,19 +54,7 @@ html
             .page-background
           h1= section.title
           div!= course.getSectionHTML(section.id)
-
           footer
-            p.skip-step
-              | To reveal more content, you have to complete all the activities and exercises above.&nbsp;
-              br
-              strong Are you stuck? #[a.skip Skip to the next step]
-              svg(width=72 height=10): path(d="M1 1L36 9L71 1" fill="none" stroke="#aaa" stroke-width=2)
-
-            - var next = course.getNextLink(section.id)
-            if next
-              a.next-section(href=`/course/${course.id}/${next.id}` title=next.title)
-                .small Next up:
-                .title= next.title
 
         x-tutor
 

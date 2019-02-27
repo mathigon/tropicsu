@@ -1,0 +1,133 @@
+// =============================================================================
+// Tropics Shared CSS
+// (c) Mathigon
+// =============================================================================
+
+
+
+@red:    #b30469;
+@blue:   #1f7aff;
+@green:  #31b304;
+@yellow: #ff941f;
+@grey:   #181824;
+
+.fillParent() {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+header { background: #002b2a; }
+
+
+// -----------------------------------------------------------------------------
+// Homepage
+
+.hero { background: url(/images/hero.jpg) center; background-size: cover; margin-top: 44px; }
+.lesson-plan { display: block; width: 265px; border-radius: 8px; padding: 0 18px; margin: 16px; }
+.lesson-plan-img { height: 160px; background: center; background-size: cover; border-radius: 8px 8px 0 0; margin: 0 -18px; }
+.lesson-plan h2 { color: white; font-size: 22px; margin: 12px 0 12px; }
+.lesson-plan p { color: rgba(255,255,255,0.8); font-size: 16px; margin: 0 0 14px; }
+footer { height: auto; }
+
+.lesson-plan-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+// -----------------------------------------------------------------------------
+// Course Pages
+
+.sidebar-row .icon {
+  position: absolute;
+  fill: white;
+  left: 18px;
+  top: 10px;
+}
+
+.sidebar-row .meta {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  margin-top: 2px;
+  opacity: 0.6;
+}
+
+.sidebar-footer {
+  display: block;
+  text-align: center;
+  padding: 8px 0;
+  font-size: 14px;
+  color: fade(white, 60%);
+  a { color: white; text-decoration: underline; }
+}
+
+.objectives {
+  background: mix(@yellow, white);
+}
+
+x-step:first-child h2:first-child { margin-top: 1em; }
+x-tutor { display: none; }
+
+.video-wrap {
+  background: black;
+  position: relative;
+  height: 0;
+  padding-bottom: 56.25%;
+  iframe { .fillParent(); }
+}
+
+.large-link {
+  text-align: center;
+  a {
+    display: inline-block;
+    background: #029244;
+    border-radius: 6px;
+    font-size: 24px;
+    font-weight: 500;
+    color: white;
+    padding: 10px 28px;
+    transition: background .2s, transform .2s;
+    position: relative;
+    &:hover, &:focus { transform: scale(1.1); background: #08b959; }
+  }
+
+  a:after {
+    content: "";
+    display: block;
+    position: absolute;
+    border-top: 28px solid transparent;
+    border-bottom: 28px solid transparent;
+    border-left: 14px solid #029244;
+    right: -13px;
+    top: 2px;
+    transition: border .2s;
+  }
+  a:hover:after, a:focus:after { border-left-color: #08b959; }
+}
+
+.credit {
+  font-size: 80%;
+  color: #aaa;
+  border-top: 1px solid #aaa;
+  padding-top: 8px;
+  margin-top: 48px;
+  a { text-decoration: underline; transition: color .2s; }
+  a:hover, a:focus { color: #666; }
+  &:before { content: 'Credits: '; font-weight: 600; }
+}
+
+.teaching-notes {
+  background: mix(@red, white, 30%);
+  border-left: 6px solid @red;
+  border-radius: 2px 4px 4px 2px;
+  color: rgba(0,0,0,.75);
+  margin: 1.5em 0;
+  padding: .6em 1em;
+  &:before { content: 'Teaching Notes'; color: @red; font-weight: 600; }
+  > *:first-child { margin-top: 0; }
+  > *:last-child { margin-bottom: 0; }
+}

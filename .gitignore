@@ -27,3 +27,4 @@ nbproject
 # Folders to ignore
 node_modules
 server/assets/resources
+server/assets/tropicsu.css

@@ -45,28 +45,18 @@ grunt.initConfig({
 
   less: {
     options: {
-      rootpath: ['server/assets'],
-      paths: ['server/assets'],
       optimisation: 1,
-      banner: '/* (c) Mathigon */\n'
+      banner: '/* (c) Mathigon */\n',
+      compress: true
     },
     app: {
-      files: [{
-        expand: true,
-        cwd: 'content',
-        src: ['*/*.less', '!node_modules/**'],
-        dest: 'server/assets/resources',
-        ext: '.css'
-      }]
+      files: {'server/assets/tropicsu.css': 'server/assets/*.less'}
     }
   },
 
   autoprefixer: {
     app: {
-      files: [{
-        expand: true,
-        src: 'server/assets/resources/**/*.css'
-      }]
+      files: [{src: 'server/assets/tropicsu.css'}]
     }
   },
 
@@ -93,10 +83,6 @@ grunt.initConfig({
   },
 
   watch: {
-    css: {
-      files: ['content/**/*.less'],
-      tasks: ['less', 'autoprefixer']
-    },
     js: {
       files: ['content/**/*.js'],
       tasks: ['rollup']
@@ -108,8 +94,8 @@ grunt.initConfig({
   },
 
   concurrent: {
-    options: {limit: 3, logConcurrentOutput: true},
-    app: { tasks: ['watch:css', 'watch:js', 'watch:textbooks'] }
+    options: {limit: 2, logConcurrentOutput: true},
+    app: { tasks: ['watch:js', 'watch:textbooks'] }
   }
 });
 

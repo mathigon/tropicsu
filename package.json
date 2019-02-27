@@ -24,7 +24,7 @@
     "pug": "^2.0.3"
   },
   "devDependencies": {
-    "@mathigon/parser": "^0.2.7",
+    "@mathigon/parser": "^0.2.14",
     "eslint": "^5.4.0",
     "grunt": "^1.0.3",
     "grunt-autoprefixer": "^3.0.4",

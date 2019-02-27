@@ -20,17 +20,23 @@ const COURSE_YAML = yaml.safeLoad(
 class Course {
 
   constructor(id) {
-    const data = require(path.join(COURSE_PATH, id, 'data.json'));
+    const data = require(path.join(COURSE_PATH, id, 'en/data.json'));
     this.id = id;
     this.sections = data.sections;
     this.title = data.title;
     this.color = COURSE_YAML[id].color;
     this.description = COURSE_YAML[id].description;
+
+    for (let s of this.sections) {
+      const step = data.steps.find(step => step.section === s.id);
+      s.format = step.format;
+      s.duration = step.duration;
+    }
   }
 
   readFile(name) {
     try {
-      return fs.readFileSync(path.join(COURSE_PATH, this.id, name));
+      return fs.readFileSync(path.join(COURSE_PATH, this.id, 'en', name));
     } catch (e) {
       return null;
     }
