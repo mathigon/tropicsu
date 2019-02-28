@@ -7,6 +7,7 @@
 const fs = require('fs');
 const path = require('path');
 const express = require('express');
+const marked = require('marked');
 const yaml = require('js-yaml');
 
 
@@ -63,6 +64,21 @@ for (let c of COURSE_YAML) {
 
 
 // -----------------------------------------------------------------------------
+// Tools
+
+const toolsList = fs.readdirSync(path.join(__dirname, '../tools'))
+    .filter(t => t.endsWith('.yaml'));
+
+const tools = {};
+for (let t of toolsList) {
+  const tool = yaml.safeLoad(fs.readFileSync(path.join(__dirname, '../tools', t)));
+  tool.learningOutcomes = marked(tool.learningOutcomes);
+  const id = t.replace('.yaml', '');
+  tools[id] = tool;
+}
+
+
+// -----------------------------------------------------------------------------
 // Web Server
 
 const port = (+process.env.PORT) || 5000;
@@ -75,6 +91,7 @@ app.set('view engine', 'pug');
 
 app.use(express.static(path.join(__dirname, 'assets')));
 app.use('/resources', express.static(path.join(__dirname, '../content')));
+app.use('/tools/images', express.static(path.join(__dirname, '../tools/images')));
 app.use('/images/emoji', express.static(path.join(
     __dirname, '../node_modules/emojione-assets/png/64')));
 app.get('/_ah/health', (req, res) => res.status(200).send('ok'));
@@ -100,6 +117,12 @@ app.get('/course/:course/:section', function(req, res, next) {
   if (!section) return next();
 
   res.render('course', {course, section});
+});
+
+app.get('/tool/:tool', function(req, res, next) {
+  const tool = tools[req.params.tool];
+  if (!tool) return next();
+  res.render('tool', {tool});
 });
 
 app.post('/course/:course/ask', function(req, res) {

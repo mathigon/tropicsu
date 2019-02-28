@@ -1,0 +1,43 @@
+extends ./template
+
+block vars
+  - var title = tool.title
+
+block body
+  .hero.tool-hero
+    .hero-img(style=`background-image: url(/tools/images/${tool.img})`)
+    .hero-shadow
+    .container: .hero-title
+      h1= tool.title
+      .subtitle= tool.type
+
+  .container.tool
+    .row.padded
+      .grow(style="width: 400px")
+        p.b= tool.description
+        div!= tool.learningOutcomes
+        if tool.img
+          figure
+            img(src='/tools/images/'+tool.img)
+            p.caption(style="text-align: center")= tool.imgCredit
+        //- if tool.lessonPlans
+          p= tool.lessonPlans
+
+      .tool-sidebar
+        a.btn.btn-blue(href=tool.url target="_blank") Visit Tool
+        p By #{tool.credit}
+        p Hosted at #{tool.hosted}
+        hr
+        p #[strong Language: ] #{tool.language}
+        p #[strong Location: ] #{tool.location}
+        p #[strong Grade: ] #{tool.grade}
+        p #[strong Access: ] #{tool.access}
+        p #[strong Computer Skills: ] #{tool.computerSkills}
+        hr
+        p #[strong Discipline: ] #{tool.discipline}
+        p #[strong Discipline Topics: ] #{tool.disciplineTopics}
+        p #[strong Climate Topics: ] #{tool.climateTopics}
+
+
+  +footer()
+  script document.documentElement.classList.add('ready');

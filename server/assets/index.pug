@@ -12,6 +12,7 @@ block vars
 
 block body
   .hero
+    .hero-img(style="background-image: url(/images/hero.jpg)")
     .hero-shadow
     .container: .hero-title
       h1 Learn about Climate Change
@@ -21,12 +22,4 @@ block body
       for c in courses
         +course(c)
 
-  .container
-    footer.global-footer
-      .footer-left
-        a(href='https://council.science/') International Science Council
-        span.dot •
-        a(href='https://imaginary.org/') Imaginary
-        span.dot •
-        a(href='https://mathigon.org') Mathigon
-      .footer-right © TROP ICSU
+  +footer()

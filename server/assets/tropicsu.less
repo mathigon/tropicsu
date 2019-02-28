@@ -21,21 +21,20 @@
 
 header { background: #002b2a; }
 
+.hero { margin-top: 44px; }
+.hero-img { background-position: center; background-size: cover; .fillParent(); }
+.hero .subtitle { opacity: 0.6; font-size: 20px; margin-top: -10px; }
 
 // -----------------------------------------------------------------------------
 // Homepage
 
-.hero { background: url(/images/hero.jpg) center; background-size: cover; margin-top: 44px; }
+.lesson-plan-list { display: flex; flex-wrap: wrap; }
 .lesson-plan { display: block; width: 265px; border-radius: 8px; padding: 0 18px; margin: 16px; }
 .lesson-plan-img { height: 160px; background: center; background-size: cover; border-radius: 8px 8px 0 0; margin: 0 -18px; }
 .lesson-plan h2 { color: white; font-size: 22px; margin: 12px 0 12px; }
 .lesson-plan p { color: rgba(255,255,255,0.8); font-size: 16px; margin: 0 0 14px; }
-footer { height: auto; }
 
-.lesson-plan-list {
-  display: flex;
-  flex-wrap: wrap;
-}
+footer { height: auto; }
 
 
 // -----------------------------------------------------------------------------
@@ -131,3 +130,14 @@ x-tutor { display: none; }
   > *:first-child { margin-top: 0; }
   > *:last-child { margin-bottom: 0; }
 }
+
+
+// -----------------------------------------------------------------------------
+// Tools Pages
+
+.tool-hero .hero-img { filter: blur(10px); }
+.container.tool { user-select: text; }
+.tool a.btn { display: block; font-size: 28px; margin-bottom: 24px; }
+
+.tool-sidebar { width: 300px; }
+.tool-sidebar p { font-size: 15px; margin-bottom: 4px; }
