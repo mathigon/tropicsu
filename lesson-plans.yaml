@@ -11,15 +11,6 @@
   time: 120 min
   color: 2ea5cc
 
-- id: demo
-  title: Demo Lesson Plan
-  description: <demo>
-  color: cc0000
-  scripts:
-    - https://d3js.org/d3.v3.min.js
-    - https://d3js.org/d3.geo.projection.v0.min.js
-    - https://d3js.org/topojson.v1.min.js
-
 - id: human-health
   title: Malaria and Human Health
   description: Learn about Protozoa, vectors, vector-borne diseases, the Spread of Malaria and human health.
@@ -47,3 +38,12 @@
   grade: High School, Undergraduate
   time: 110 min
   color: b8270a
+
+- id: demo
+  title: Demo Lesson Plan
+  description: <demo>
+  color: cc0000
+  scripts:
+    - https://d3js.org/d3.v3.min.js
+    - https://d3js.org/d3.geo.projection.v0.min.js
+    - https://d3js.org/topojson.v1.min.js
