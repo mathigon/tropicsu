@@ -67,13 +67,14 @@ for (let c of COURSE_YAML) {
 // Tools
 
 const toolsList = fs.readdirSync(path.join(__dirname, '../tools'))
-    .filter(t => t.endsWith('.yaml'));
+    .filter(t => t.endsWith('.yaml') && !t.startsWith('_'));
 
 const tools = {};
 for (let t of toolsList) {
   const tool = yaml.safeLoad(fs.readFileSync(path.join(__dirname, '../tools', t)));
-  tool.learningOutcomes = marked(tool.learningOutcomes);
+  if (tool.learningOutcomes) tool.learningOutcomes = marked(tool.learningOutcomes);
   const id = t.replace('.yaml', '');
+  tool.id = id;
   tools[id] = tool;
 }
 
@@ -117,6 +118,10 @@ app.get('/course/:course/:section', function(req, res, next) {
   if (!section) return next();
 
   res.render('course', {course, section});
+});
+
+app.get('/tools', function(req, res) {
+  res.render('tool-list', {tools: Object.values(tools)});
 });
 
 app.get('/tool/:tool', function(req, res, next) {
