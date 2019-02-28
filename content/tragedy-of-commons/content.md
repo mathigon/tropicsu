@@ -1,16 +1,14 @@
 # Tragedy of the Commons
 
-## About Lesson Plan
+## Lesson Plan
 > section: overview
-::: .theorem
+
 As an undergraduate Economics teacher, you can use this set of computer-based tools to help you in teaching the concept of the tragedy of the commons.
 This lesson plan will help students to understand the concept of tragedy of the commons, and to identify the “commons” and the “tragedy” in some example problems. In the activity, students will examine climate change as a tragedy of the commons and will discuss possible economic solutions (policy, development) for the problem.
 
 Thus, the use of this lesson plan allows you to integrate the teaching of a climate science topic with a topic in Economics.
-:::
 
-
-::: .theorem
+::: .teaching-notes
 |    |    |
 |:------------------|:-------------|
 | __Grade Level__ 	| Undergraduate |
@@ -40,7 +38,7 @@ The tools in this lesson plan will enable students to :
 > format: Video
 > duration: 11 min
 
-::: .theorem
+::: .teaching-notes
 __Video (11 min)__
 
 Play the video "The tragedy of the commons", which can be used as a  micro-lecture.
@@ -69,7 +67,7 @@ What does it mean for you the expression "the tragedy of the commons"? Watch the
 > duration: 50 min
 
 
-::: .theorem
+::: .teaching-notes
 __Classroom/Laboratory activities (50 min)__
 
 
@@ -94,7 +92,7 @@ __Classroom/Laboratory activities (50 min)__
 > format: Reading
 > duration: 60 min
 
-::: .theorem
+::: .teaching-notes
 
 __Reading (60 min)__
 
@@ -118,7 +116,7 @@ __Reading (60 min)__
 > section: exercises
 > id: exercises
 
-::: .theorem
+::: .teaching-notes
 Propose the following questions to your students and help them to find some answers.
 :::
 
@@ -136,7 +134,7 @@ Use the tools and the concepts learned so far to discuss and determine answers t
 > section: Additional resources
 > id: resources
 
-::: .theorem
+::: .teaching-notes
 If you or your students would like to explore the topic further, these additional resources will be useful.
 :::
 
