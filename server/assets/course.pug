@@ -1,7 +1,4 @@
-mixin icon(url, width, height)
-  - height = height || width
-  svg(viewBox="0 0 " + width + ' ' + height, class="icon", width=width, height=height)
-    use(xlink:href="/icons.svg#" + url)
+extends ./template
 
 mixin sidebarRow(s)
   if s.title === 'Lesson Plan'
@@ -14,56 +11,53 @@ mixin sidebarRow(s)
       .meta #{s.format} &nbsp;•&nbsp; #{s.duration}
     .connection
 
-doctype html
-html
-  head
-    meta(charset="utf-8")
-    title= course.title
-    meta(name="viewport", content="width=device-width, initial-scale=1")
-    link(href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,300,400italic' rel='stylesheet' type='text/css')
-    link(href='/course.css', rel='stylesheet')
-    link(href='/tropicsu.css', rel='stylesheet')
+block vars
+  - var title = course.title
 
-  body
-    include components.html
-    header
-      a#logo(href="/"): include images/logo.svg
+block head
+  link(href='/resources/' + course.id + '/styles.css', rel='stylesheet')
 
-    .body
-      x-course(id=course.id)
-        .sidebar(style="background: #" + course.color)
-          .sidebar-hero(style=`background-image: url(/resources/${course.id}/hero.jpg)`)
-            .sidebar-hero-gradient
-            .sidebar-title= course.title
+block body
+  include components.html
+  .body
+    x-course(id=course.id)
+      .sidebar(style="background: #" + course.color)
+        .sidebar-hero(style=`background-image: url(/resources/${course.id}/hero.jpg)`)
+          .sidebar-hero-gradient
+          .sidebar-title= course.title
 
-          .sidebar-body
-            for s in course.sections
-              if s.id === section.id
-                .sidebar-row.on
-                  +sidebarRow(s)
-              else
-                a.sidebar-row(href=`/course/${course.id}/${s.id}`)
-                  +sidebarRow(s)
-          .sidebar-footer Hosted by #[a(href="https://mathigon.org" target="_blank") Mathigon]
+        .sidebar-body
+          for s in course.sections
+            if s.id === section.id
+              .sidebar-row.on
+                +sidebarRow(s)
+            else
+              a.sidebar-row(href=`/course/${course.id}/${s.id}`)
+                +sidebarRow(s)
+        .sidebar-footer Hosted by #[a(href="https://mathigon.org" target="_blank") Mathigon]
 
-        .sidebar-shadow
-        .sidebar-toggle: +icon('progress', 24)
+      .sidebar-shadow
+      .sidebar-toggle: +icon('progress', 24)
 
-        article(class=section.background)
-          if section.background
-            .page-background
-          h1= section.title
-          div!= course.getSectionHTML(section.id)
-          footer
+      article(class=section.background)
+        if section.background
+          .page-background
+        h1= section.title
+        div!= course.getSectionHTML(section.id)
+        footer
+          p.skip-step(hidden): a.skip
 
-        x-tutor
+      x-tutor
 
-        script(type="application/json")#glossary!= course.getJSON('glossary')
-        script(type="application/json")#bios!= course.getJSON('bios')
-        script(type="application/json")#hints!= course.getJSON('hints')
-        script(type="application/json")#userdata {}
+      script(type="application/json")#glossary!= course.getJSON('glossary')
+      script(type="application/json")#bios!= course.getJSON('bios')
+      script(type="application/json")#hints!= course.getJSON('hints')
+      script(type="application/json")#userdata {}
 
-    script user = null;
-    script(src='/polyfill.js')
-    script(src='/resources/' + course.id + '/functions.js')
-    script(src='/course.js')
+  for src in course.scripts
+    script(src=src)
+
+  script user = null;
+  script(src='/polyfill.js')
+  script(src='/resources/' + course.id + '/functions.js')
+  script(src='/course.js')

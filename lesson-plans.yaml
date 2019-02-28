@@ -4,35 +4,44 @@
 
 
 
-co2-calculus:
+- id: co2-calculus
   title: Calculus and CO2 Emissions
   description: Learn to solve calculus  and tangent line problems using atmospheric CO2 data and the Greenhouse effect.
   grade: High School, Undergraduate
   time: 120 min
   color: 2ea5cc
 
-human-health:
+- id: demo
+  title: Demo Lesson Plan
+  description: <demo>
+  color: cc0000
+  scripts:
+    - https://d3js.org/d3.v3.min.js
+    - https://d3js.org/d3.geo.projection.v0.min.js
+    - https://d3js.org/topojson.v1.min.js
+
+- id: human-health
   title: Malaria and Human Health
   description: Learn about Protozoa, vectors, vector-borne diseases, the Spread of Malaria and human health.
   grade: High School
   time: 180 min
   color: f7931e
 
-tragedy-of-commons:
+- id: tragedy-of-commons
   title: Tragedy of the Commons
   description: Learn about the Economics of Climate Change, as well as Policy, Politics and Environmental Governance.
   grade: Undergraduate
   time: 120 min
   color: 5ba400
 
-microbial-life:
+- id: microbial-life
   title: Microbial Life
   description: Learn about Microbes, Bacterial Growth and Adaptation, Gas Cycling and Greenhouse Gases.
   grade: High School, Undergraduate
   time: 150 min
   color: 203b96
 
-phenology:
+- id: phenology
   title: Phenology in Plants
   description: Learn about life-cycle and phenological events in plants, as well as leaf-out in plants.
   grade: High School, Undergraduate

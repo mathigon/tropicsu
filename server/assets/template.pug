@@ -1,0 +1,31 @@
+mixin icon(url, width, height)
+  - height = height || width
+  svg(viewBox="0 0 " + width + ' ' + height, class="icon", width=width, height=height)
+    use(xlink:href="/icons.svg#" + url)
+
+block vars
+
+doctype html
+html
+  head
+    meta(charset="utf-8")
+    title=title
+    meta(name="viewport", content="width=device-width, initial-scale=1, user-scalable=no")
+    link(href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,300,400italic', rel='stylesheet', type='text/css')
+    link(href='/course.css', rel='stylesheet')
+    link(href='/tropicsu.css', rel='stylesheet')
+    block head
+
+  body
+    header
+      a#logo(href="/")
+        include images/logo.svg
+        nav
+          .nav-item: a.nav-link(href="/lessons")
+            +icon('library', 28)
+            span.nav-text Lesson Plans
+          .nav-item: a.nav-link(href="/tools")
+            +icon('settings', 28)
+            span.nav-text Teaching Tools
+
+    block body

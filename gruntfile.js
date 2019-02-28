@@ -51,12 +51,24 @@ grunt.initConfig({
     },
     app: {
       files: {'server/assets/tropicsu.css': 'server/assets/*.less'}
+    },
+    courses: {
+      files: [{
+        expand: true,
+        cwd: 'content',
+        src: ['*/*.less', '!node_modules/**'],
+        dest: 'server/assets/resources',
+        ext: '.css'
+      }]
     }
   },
 
   autoprefixer: {
     app: {
-      files: [{src: 'server/assets/tropicsu.css'}]
+      files: [{
+        expand: true,
+        src: 'server/assets/**/*.css'
+      }]
     }
   },
 
@@ -83,6 +95,10 @@ grunt.initConfig({
   },
 
   watch: {
+    css: {
+      files: ['content/**/*.less'],
+      tasks: ['less', 'autoprefixer']
+    },
     js: {
       files: ['content/**/*.js'],
       tasks: ['rollup']
@@ -94,8 +110,8 @@ grunt.initConfig({
   },
 
   concurrent: {
-    options: {limit: 2, logConcurrentOutput: true},
-    app: { tasks: ['watch:js', 'watch:textbooks'] }
+    options: {limit: 3, logConcurrentOutput: true},
+    app: { tasks: ['watch:css', 'watch:js', 'watch:textbooks'] }
   }
 });
 

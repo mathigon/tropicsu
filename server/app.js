@@ -19,13 +19,17 @@ const COURSE_YAML = yaml.safeLoad(
 
 class Course {
 
-  constructor(id) {
-    const data = require(path.join(COURSE_PATH, id, 'en/data.json'));
-    this.id = id;
+  constructor(course) {
+    this.id = course.id;
+    this.time = course.time;
+    this.grade = course.grade;
+    this.color = course.color;
+    this.description = course.description;
+    this.scripts = course.scripts || [];
+
+    const data = require(path.join(COURSE_PATH, course.id, 'en/data.json'));
     this.sections = data.sections;
     this.title = data.title;
-    this.color = COURSE_YAML[id].color;
-    this.description = COURSE_YAML[id].description;
 
     for (let s of this.sections) {
       const step = data.steps.find(step => step.section === s.id);
@@ -53,8 +57,9 @@ class Course {
 }
 
 const courses = {};
-const courseIds = fs.readdirSync(COURSE_PATH).filter(f => f in COURSE_YAML);
-for (let c of courseIds) courses[c] = new Course(c);
+for (let c of COURSE_YAML) {
+  courses[c.id] = new Course(c);
+}
 
 
 // -----------------------------------------------------------------------------
@@ -72,9 +77,14 @@ app.use(express.static(path.join(__dirname, 'assets')));
 app.use('/resources', express.static(path.join(__dirname, '../content')));
 app.use('/images/emoji', express.static(path.join(
     __dirname, '../node_modules/emojione-assets/png/64')));
-
-app.get('/', (req, res) => res.render('index', {courses: COURSE_YAML}));
 app.get('/_ah/health', (req, res) => res.status(200).send('ok'));
+
+
+app.get('/', (req, res) => {
+  const courseData = COURSE_YAML.map(c => courses[c.id]);
+  res.render('index', {courses: courseData})
+});
+
 
 app.get('/course/:course', function(req, res, next) {
   const course = courses[req.params.course];
