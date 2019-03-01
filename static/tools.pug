@@ -1,0 +1,46 @@
+extends ./_template
+
+mixin course(course)
+  a.lesson-plan(href="/course/" + course.id style="background: #" + course.color)
+    .lesson-plan-img(style="background-image: url(/resources/" + course.id + "/hero.jpg)")
+    h2= course.title
+    p= course.description
+    p #{course.grade} &nbsp;•&nbsp; #{course.time}
+
+block vars
+  - var title = "TROP ICSU Teaching Tools"
+
+block body
+  .hero
+    .hero-img(style="background-image: url(/images/hero.jpg)")
+    .hero-shadow
+    .container: .hero-title
+      h1 Teaching Tools for Climate Change
+
+  .container
+    .row.padded
+      .tools-filter
+        .tools-category Discipline
+        .tools-option Biological Sciences
+        .tools-option Chemistry
+        .tools-option Earth Science
+        .tools-option Economics
+        .tools-option Environmental Science
+        .tools-option General
+        .tools-option Geography
+        .tools-option Humanities
+        .tools-option Lesson Plan
+        .tools-option Mathematics
+        .tools-option Media and Communication
+        .tools-option Physics
+        .tools-option Social Sciences
+        .tools-option Statistics
+
+      .grow.tools-list
+        for t in tools
+          a(href="/tool/" + t.id)
+            .thumbnail(style=`background-image: url(/tools/images/${t.img})`)
+            h2= t.title
+            .meta= t.type
+
+  +footer()

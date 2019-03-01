@@ -13,6 +13,15 @@ integrate it with the core curriculum of Science, Mathematics, and Social
 Sciences.
 
 
+## Task List
+
+* [ ] __Enable Firebase Hosting, Fix Glossary__
+* [ ] Filtering for Tools + Lesson Plan
+* [ ] Fix <a> inside lists, Different Sidebar Icons
+* [ ] Button to Hide Teacher Notes
+* [ ] Print Pages, Export PDF
+
+
 ## Getting Started
 
 After forking and cloning this repository, install all dependencies using
@@ -22,12 +31,12 @@ Now you can start a local development server by running `npm run local`. Wait
 for a few seconds and then open [localhost:5000](http://localhost:5000). The
 server will automatically watch for file changes and update.
 
-Every lesson plan is a subfolder in the [content](content) directory. The URL of
-the [CO2 and Calculus course](content/co2-calculus), for example, will be
-[localhost:5000/course/co2-calculus](http://localhost:5000/course/co2-calculus).
+Every lesson plan is a subfolder in the [lessons](lessons) directory. The URL of
+the [CO2 and Calculus lesson plan](lessons/co2-calculus), for example, will be
+[localhost:5000/lesson/co2-calculus](http://localhost:5000/lesson/co2-calculus).
 
 
-## Course Structure
+## Lesson Plan Structure
 
 Every lesson plan consists of a few different components:
 
@@ -38,7 +47,7 @@ Every lesson plan consists of a few different components:
 * `styles.less` contains all lesson plan specific styles, in
   [LESS](http://lesscss.org/) format.
 
-The [shared directory](content/shared) contains biographies, glossary and assets
+The [shared directory](lessons/shared) contains biographies, glossary and assets
 used by multiple lesson plan.
 
 Every lesson plan is divided into multiple steps, each with a unique ID. These
@@ -47,13 +56,3 @@ for every section.
 
 The [server directory](server) contains a simplified version of Mathigon's web
 server.
-
-
-## Contributing
-
-TODO
-
-
-## License
-
-TODO

@@ -1,0 +1,16 @@
+{
+  "hosting": {
+    "public": "_build",
+    "cleanUrls": true,
+    "trailingSlash": false,
+    "ignore": [
+      "assets/",
+      "lessons/",
+      "static/",
+      "tools/",
+      "firebase.json",
+      "**/node_modules/**",
+      "**/.*"
+    ]
+  }
+}

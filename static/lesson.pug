@@ -1,0 +1,64 @@
+extends ./_template
+
+mixin sidebarRow(s)
+  if s.id === 'overview'
+    +icon('glossary', 24, 24)
+    | #{s.title}
+  else
+    x-progress(r=10 p=0)
+    | #{s.title}
+    if s.format && s.duration
+      .meta #{s.format} &nbsp;•&nbsp; #{s.duration}
+    .connection
+
+block vars
+  - var title = course.title
+
+block head
+  link(href='/resources/' + course.id + '/styles.css', rel='stylesheet')
+
+block body
+  include ../assets/components.html
+  .body
+    x-course(id=course.id)
+      .sidebar(style="background: #" + course.color)
+        .sidebar-hero(style=`background-image: url(/resources/${course.id}/hero.jpg)`)
+          .sidebar-hero-gradient
+          .sidebar-title= course.title
+
+        .sidebar-body
+          for s in course.sections
+            if s.id === section.id
+              .sidebar-row.on
+                +sidebarRow(s)
+            else
+              a.sidebar-row(href=`/lesson/${course.id}/${s.id}`)
+                +sidebarRow(s)
+        .sidebar-footer Hosted by #[a(href="https://mathigon.org" target="_blank") Mathigon]
+
+      .sidebar-shadow
+      .sidebar-toggle: +icon('progress', 24)
+
+      article(class=section.background)
+        if section.background
+          .page-background
+        h1= section.title
+        div!= sectionHTML
+        footer
+          p.skip-step(hidden): a.skip
+
+      x-tutor
+
+      script(type="application/json")#glossary!= course.glossary
+      script(type="application/json")#bios!= course.bios
+      script(type="application/json")#hints!= course.hints
+      script(type="application/json")#userdata {}
+
+  if course.scripts
+    for src in course.scripts
+      script(src=src)
+
+  script user = null;
+  script(src='/polyfill.js')
+  script(src='/resources/' + course.id + '/functions.js')
+  script(src='/course.js')
