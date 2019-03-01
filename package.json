@@ -6,7 +6,7 @@
   "repository": "mathigon/tropicsu",
   "scripts": {
     "start": "firebase serve",
-    "serve": "grunt concurrent & http-server ./_build -p 5000 -d False -s",
+    "serve": "http-server ./_build -p 5000 -d False -s & grunt concurrent",
     "local": "grunt && npm run serve",
     "deploy": "grunt && firebase deploy"
   },
