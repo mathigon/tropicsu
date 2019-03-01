@@ -25,6 +25,13 @@
   time: 120 min
   color: 5ba400
 
+- id: buffers-oceans
+  title: Buffers, Buffer action and Ocean acidification
+  description: Learn about chemical buffer solutions, and how the CO2 in the atmosphere makes the oceans more acid.
+  grade: High School, Undergraduate
+  time: 40 min
+  color: d56452  
+  
 - id: microbial-life
   title: Microbial Life
   description: Learn about Microbes, Bacterial Growth and Adaptation, Gas Cycling and Greenhouse Gases.
