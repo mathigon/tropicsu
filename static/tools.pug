@@ -39,7 +39,7 @@ block body
       .grow.tools-list
         for t in tools
           a(href="/tool/" + t.id)
-            .thumbnail(style=`background-image: url(/tools/images/${t.img})`)
+            .thumbnail(style=`background-image: url(/tool/images/${t.img})`)
             h2= t.title
             .meta= t.type
 

@@ -5,7 +5,7 @@ block vars
 
 block body
   .hero.tool-hero
-    .hero-img(style=`background-image: url(/tools/images/${tool.img})`)
+    .hero-img(style=`background-image: url(/tool/images/${tool.img})`)
     .hero-shadow
     .container: .hero-title
       h1= tool.title
@@ -18,7 +18,7 @@ block body
         div!= tool.learningOutcomes
         if tool.img
           figure
-            img(src='/tools/images/'+tool.img)
+            img(src='/tool/images/'+tool.img)
             p.caption(style="text-align: center")= tool.imgCredit
         //- if tool.lessonPlans
           p= tool.lessonPlans

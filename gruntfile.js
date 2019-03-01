@@ -186,7 +186,7 @@ grunt.initConfig({
         const tools = [];
         const toolNames = grunt.file.expand('tools/*.yaml');
         for (let file of toolNames) {
-          const tool = grunt.file.read(file);
+          const tool = grunt.file.readYAML(file);
           tool.id = file.slice(6).replace('.yaml', '');
           tools.push(tool);
         }
@@ -210,7 +210,7 @@ grunt.initConfig({
       files: [
         {expand: true, cwd: 'assets', dest: BUILD, src: [MEDIA, '**/*.{css,js,html}']},
         {expand: true, cwd: 'lessons', dest: BUILD + '/resources', src: MEDIA},
-        {expand: true, cwd: 'tools/images', dest: BUILD + '/tools/images', src: MEDIA},
+        {expand: true, cwd: 'tools/images', dest: BUILD + '/tool/images', src: MEDIA},
         {expand: true, cwd: 'node_modules/emojione-assets/png/64', dest: BUILD + '/images/emoji', src: MEDIA},
       ],
     }
