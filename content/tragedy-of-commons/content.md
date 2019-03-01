@@ -8,18 +8,13 @@ This lesson plan will help students to understand the concept of tragedy of the 
 
 Thus, the use of this lesson plan allows you to integrate the teaching of a climate science topic with a topic in Economics.
 
-::: .teaching-notes
-|    |    |
-|:------------------|:-------------|
-| __Grade Level__ 	| Undergraduate |
-| __Discipline__		| Economics |
-| __Topic(s) in Discipline__	| Tragedy of the Commons, The Economics of Climate Change|
-| __Climate Topic__ 	| Energy, Economics, and Climate; Policy, Politics, and Environmental Governance |
-| __Location__		| Global |
-| __Languages__ 		| English |
-| __Access__  		| Online, offline |
-| __Approximate Time Required__	| 	120 min |
-:::
+__Grade Level:__ Undergraduate  
+__Discipline:__ Economics  
+__Topics in Discipline:__ Tragedy of the Commons, The Economics of Climate Change  
+__Climate Topic:__ Energy, Economics, and Climate; Policy, Politics, and Environmental Governance  
+__Location:__ Global  
+__Languages:__ English  
+__Access:__ Online, offline
 
 ### Learning Outcomes
 The tools in this lesson plan will enable students to :
@@ -34,18 +29,14 @@ The tools in this lesson plan will enable students to :
 
 ## Introduction
 > section: intro
-> id: video
 > format: Video
 > duration: 11 min
 
 ::: .teaching-notes
-__Video (11 min)__
-
 Play the video "The tragedy of the commons", which can be used as a  micro-lecture.
 
 * Play the micro-lecture [“Tragedy of the Commons”](https://www.coursera.org/lecture/sustainability/tragedy-of-the-commons-MtxUU), delivered by Dr. Jonathan Tomkin, to introduce the concept of tragedy of the commons.
 * Guide a brief discussionamong students to cite other examples of the tragedy of the commons problem,andto identify the “commons” and the “tragedy” in each example.
-
 :::
 
 What does it mean for you the expression "the tragedy of the commons"? Watch the following video and give examples to explain the terms “tragedy” and “commons”.
@@ -62,19 +53,14 @@ What does it mean for you the expression "the tragedy of the commons"? Watch the
 
 ## Classroom Activities
 > section: activities
-> id: activities
 > format: Classroom Activities
 > duration: 50 min
 
 
 ::: .teaching-notes
-__Classroom/Laboratory activities (50 min)__
-
-
 * Explore the topic in further detail through a classroom/laboratory activity [“Introducing the economic concept of ‘tragedy of the commons’ using global warming”](https://serc.carleton.edu/integrate/programs/implementation/program2/activities/135953.html), by Laura Triplett, from Gustavus Adolphus College.
 * In this activity, students will discuss case studies for different tragedy-of-the-commons problems. Then, they will examine Earth’s atmosphere as a commons and global warming as a tragedy, and will propose economic solutions to solve this tragedy.
 * Download the Teaching Materials and conduct the activity described on the page.
-
 :::
 
 {div.large-link}[Go to the Activity](https://serc.carleton.edu/integrate/programs/implementation/program2/activities/135953.html)
@@ -94,18 +80,15 @@ __Classroom/Laboratory activities (50 min)__
 
 ::: .teaching-notes
 
-__Reading (60 min)__
+Discuss the solutions though reading “Climate Change: The Ultimate Tragedy of the Commons” by Jouni Paavola.
 
-
-* Discuss the solutions though reading [“Climate Change: The Ultimate Tragedy of the Commons”](https://www.lincolninst.edu/sites/default/files/pubfiles/climate-change_0.pdf) by Jouni Paavola in “Property in Land and Other Resources”.
-
-* This reading describes climate change as a tragedy of the commons problem (atmospheric sinks for greenhouse gases are the commons) and analyzes the current state of climate change governance. It also discusses polycentricity as a governance approach to address global climate change at various levels and scales, providing specific examples ofthe Cities for Climate Change program and the Cement Sustainability Initiative.
+This reading describes climate change as a tragedy of the commons problem (atmospheric sinks for greenhouse gases are the commons) and analyzes the current state of climate change governance. It also discusses polycentricity as a governance approach to address global climate change at various levels and scales, providing specific examples ofthe Cities for Climate Change program and the Cement Sustainability Initiative.
 
 :::
 
- Read [“Climate Change: The Ultimate Tragedy of the Commons”](https://www.lincolninst.edu/sites/default/files/pubfiles/climate-change_0.pdf) by Jouni Paavola in “Property in Land and Other Resources”.
+Read “Climate Change: The Ultimate Tragedy of the Commons” by Jouni Paavola in “Property in Land and Other Resources”:
 
-{div.large-link}[Go to the Reading](https://www.lincolninst.edu/sites/default/files/pubfiles/climate-change_0.pdf)
+{div.large-link} [Go to the Reading](https://www.lincolninst.edu/sites/default/files/pubfiles/climate-change_0.pdf)
 
 {div.credit}
 [“Climate Change: The Ultimate Tragedy of the Commons”](https://www.lincolninst.edu/sites/default/files/pubfiles/climate-change_0.pdf), by Jouni Paavola in “Property in Land and Other Resources”, edited by Daniel H. Cole and Elinor Ostrom, Cambridge, MA: Lincoln Institute of Land Policy, pp. 417-433; 
@@ -138,12 +121,10 @@ Use the tools and the concepts learned so far to discuss and determine answers t
 If you or your students would like to explore the topic further, these additional resources will be useful.
 :::
 
-### Additional resource(s)
+Micro-lecture (video). “Tragedy of the Commons: Solutions”, delivered by Dr. Jonathan Tomkin, from the Introduction to Sustainability course by University of Illinois at Urbana-Champaign, on Coursera:
 
-1. 	Micro-lecture (video). [“Tragedy of the Commons: Solutions”](https://www.coursera.org/lecture/sustainability/tragedy-of-the-commons-solutions-wBRcA), delivered by Dr. Jonathan Tomkin, from the Introduction to Sustainability course by University of Illinois at Urbana-Champaign, on Coursera.
-
-{div.large-link}[Go to the Video](https://www.coursera.org/lecture/sustainability/tragedy-of-the-commons-solutions-wBRcA)
+{div.large-link} [Go to the Video](https://www.coursera.org/lecture/sustainability/tragedy-of-the-commons-solutions-wBRcA)
 
 {div.credit}
-[“Tragedy of the Commons: Solutions”](https://www.coursera.org/lecture/sustainability/tragedy-of-the-commons-solutions-wBRcA) by Dr. Jonathan Tomkin
+“Tragedy of the Commons: Solutions” by Dr. Jonathan Tomkin
 

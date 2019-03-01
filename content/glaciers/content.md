@@ -7,20 +7,17 @@ As a high school or undergraduate Geography or Earth Sciences teacher, you can u
 This lesson plan helps students learn about glaciers, and the factors that affect the movement and size of glaciers. The activity will also enable students to understand the possible impacts of climate change on glaciers and the climate-cryosphere link.
 Thus, the use of this lesson plan allows you to integrate the teaching of a climate science topic with a core topic in Earth Science or Geography.
 
-::: .teaching-notes
-|    |    |
-|:------------------|:-------------|
-| __Grade Level__ 	| High school, Undergraduate |
-| __Discipline__		| Geography, Earth Sciences |
-| __Topic(s) in Discipline__	| Glaciers, Cryosphere|
-| __Climate Topic__ 	| Climate and Cryosphere||
-| __Location__		| Global |
-| __Languages__ 		| English |
-| __Access__  		| Online|
-| __Approximate Time Required__	| 	120 min |
-:::
+__Grade Level:__ High school, Undergraduate  
+__Discipline:__ Geography, Earth Sciences  
+__Topics in Discipline:__ Glaciers, Cryosphere  
+__Climate Topica:__ Climate and Cryosphere  
+__Location:__ Global  
+__Languages:__ English  
+__Access:__ Online
+
 
 ### Learning Outcomes
+
 The tools in this lesson plan will enable students to :
 
 * describe glaciers and their formation
@@ -31,13 +28,10 @@ The tools in this lesson plan will enable students to :
 
 ## Introduction
 > section: intro
-> id: reading
 > format: Reading
 > duration: 20-30 min
 
 ::: .teaching-notes
-__Reading (20-30 min)__
-
 Introduce the topic through an online reading
 
 * Introduce the topic of glaciers and their formation.
@@ -57,21 +51,16 @@ Introduce the topic through an online reading
 ---
 
 ## Classroom Activity
-> section: activity1
-> id: activities
+> section: activity-1
 > format: Classroom Activities
 > duration: 15 min
 
 
 ::: .teaching-notes
-__Classroom/Laboratory Activitiy (15 min)__
-
-
 * Explore the topic in further detail through a classroom/laboratory activity [The Future of Glaciers](https://imaginary.org/program/future-of-glaciers-the-module), by IMAGINARY.
 * Conduct the activity and discuss how glaciers are affected by changes in temperature and snowfall.
 * Discuss how temperature changes caused by climate change may impact glaciers globally.
 * Discuss how the study of glaciers can help in drawing inferences about the Earth’s changing climate.
-
 :::
 
 This is an interactive visualization and associated activity to visualize the shrinking and growing of a Alpine Glaciers as a result of changes in snowfall and temperature.
@@ -85,23 +74,15 @@ This is an interactive visualization and associated activity to visualize the sh
 ---
 
 ## Classroom Activity
-> section: activity2
-> id: activities
+> section: activity-2
 > format: Classroom Activities
 > duration: 60 min
 
 ::: .teaching-notes
-
-__Classroom/Laboratory Activity (60 min)__
-
-
 * Help your students investigate the melting of glaciers through a classroom/laboratory activity, “When will there no longer be glaciers in Glacier National Park” from SERC Carleton, developed by Carol Ormand, Wittenberg University. In this activity, students will analyze and interpret historical data for the Grinnell Glacier to predict when the glacier might completely melt. 
 * Download the activity handout and share it with the students. 
 * This activity needs some images of the Grinnell Glacier provided by USGS, which are available here. Download them and print them for the students.
-
 :::
-
-{div.large-link}[Student's Handout](/resources/glaciers/downloads/glacier_retreat_investigation.pdf)
 
 ::: column(width=140)
 	x-media(src="images/Grinnell-Glacier-1938.jpg" width=140 height=200 credit="©USGS" lightbox )
@@ -128,6 +109,9 @@ __Classroom/Laboratory Activity (60 min)__
 {.caption} Grinnell Glacier 2015
 
 :::
+
+{div.large-link}[Student's Handout](/resources/glaciers/downloads/glacier_retreat_investigation.pdf)
+
 {div.credit}
 [Investigation: When will there no longer be glaciers in Glacier National Park?](https://serc.carleton.edu/quantskills/activities/glacial_retreat.html) From SERC Carleton, developed by Carol Ormand, Wittenberg University;
 [Grinnell Glacier from Mount Gould](https://www.usgs.gov/centers/norock/science/grinnell-glacier-mount-gould?qt-science_center_objects=7#qt-science_center_objects) by US Geological Survey
@@ -137,7 +121,6 @@ __Classroom/Laboratory Activity (60 min)__
 
 ## Questions and Assignments
 > section: exercises
-> id: exercises
 
 ::: .teaching-notes
 Propose the following questions to your students and help them to find some answers.
@@ -160,11 +143,9 @@ Use the tools and the concepts learned so far to discuss and determine answers t
 If you or your students would like to explore the topic further, these additional resources will be useful.
 :::
 
-### Additional resource(s)
-1. Reading : [Global Glacier Changes: facts and figures](http://www.grid.unep.ch/glaciers/)
-2. Mobile App : [wgms Glacier App](https://wgms.ch/glacierapp/) 
+* Reading: [Global Glacier Changes: facts and figures](http://www.grid.unep.ch/glaciers/)
+* Mobile App: [wgms Glacier App](https://wgms.ch/glacierapp/) 
 
 ::: .credit
-1. [Global Glacier Changes: facts and figures](http://www.grid.unep.ch/glaciers/) by United Nations Environment Programme
-2. [wgms Glacier App](https://wgms.ch/glacierapp/)  by World Glacier Monitoring Service (WGMS) and the University of Zurich
+United Nations Environment Programme, World Glacier Monitoring Service (WGMS), University of Zurich
 
