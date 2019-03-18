@@ -1,0 +1,30 @@
+title: Effect of Changes in Radiation on Planetary Temperature
+url: http://www.nuffieldfoundation.org/fsmqs/level-3-algebra#Climate%20prediction
+
+description: A classroom/laboratory activity to model how changes in the radiation entering or leaving the Earth affect the temperature of the planet.
+
+learningOutcomes: |
+  Students will model the data by using Excel spreadsheets and will then determine whether a polynomial function or an exponential function provides the best prediction.
+
+  Use this tool to help students find answers to:
+
+  1. How does the Earth’s temperature change for a 10% increase in radiation input?
+  2. Compare different functions (quadratic, cubic, quartic, exponential) to model the data (temperature vs time). 
+  3. Which function provides the best prediction?
+
+img: earth_radiation.jpg
+imgCredit: yachtchartermallorca.info
+
+discipline: Mathematics
+disciplineTopics: Model, Quadratic function, Cubic function, Quartic function, Exponential function
+climateTopics: Climate and the atmosphere, Planetary Climate
+type: Laboratory Activity
+grade: High school 
+location: Global
+language: English
+credit: Nuffield Foundation
+hosted: Nuffield Foundation
+access: Online, Offline
+computerSkills: Basic
+
+lessonPlans:

@@ -14,8 +14,9 @@
     "node": ">=8.0.0"
   },
   "dependencies": {
+    "express": "^4.16.4",
     "firebase": "^5.8.4",
-    "firebase-tools": "^6.4.0"
+    "firebase-tools": "^6.5.0"
   },
   "devDependencies": {
     "@mathigon/boost": "^0.2.4",
