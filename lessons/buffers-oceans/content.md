@@ -65,9 +65,6 @@ and calculate how much buffers can retain their pH as in the following examples
 [How Does A Buffer Maintain pH?](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_%28Physical_and_Theoretical_Chemistry%29/Acids_and_Bases/Buffers/How_Does_A_Buffer_Maintain_Ph%3F), from [LibreTexts](https://libretexts.org/).
 
 
-
-[Derivatives of polynomials](http://web.mit.edu/wwmath/calculus/differentiation/polynomials.html), from [World Wide Math](http://web.mit.edu/wwmath/index.html) at the Massachusetts Institute of Technology.
-
 ---
 
 ## Ocean buffer chemistry
@@ -94,60 +91,31 @@ Watch this micro-lecture about how oceans absorb atmospheric `CO_2` and the incr
 
 ---
 
-## Mauna Loa Observatory
-> section: activity
-> format: Classroom Activity
+## Surface Ocean pH Levels
+> section: applet
+> format: Web applet
 > duration: 60 min
 
-::: .teaching-notes
-Help your students apply the learned concepts through a classroom activity. This
-activity uses atmospheric `CO_2` data from the Mauna Loa Observatory for the period 1950 to 2017.
 
-This activity will help students to
-* observe the trend in increasing atmospheric `CO_2` levels.
-* infer the approximate year when atmospheric `CO_2` levels could cause global
-  temperatures to increase by 2°C (leading to serious climate change-related
-  problems).
-* determine the desired trends in atmospheric `CO_2` levels that could help in
-  avoiding or mitigating such climate change-related consequences.
+On this section you will use an applet to make simulations of the pH value of the oceans.
 
-On the worksheet, do exercises 1-6 to predict atmospheric `CO_2` levels in the
-future. Discuss the possible impact of these trends on global temperature and
-climate. You can expand this activity to introduce the concept of curve fitting.
-:::
+Open the applet “Surface Ocean pH Levels”. Select the “Resources” tab to read the background that provides a detailed explanation of the relationship between atmospheric CO2 and ocean pH values. Click on “Help” to read the instructions to run the applet.
 
-::: column.grow
-The [Mauna Loa Observatory](https://www.esrl.noaa.gov/gmd/obop/mlo/), in the
-Pacific islands of Hawaii (USA), is a research facility that monitors and
-collects data on the atmosphere since the 1950s.
+- Run the simulation to visualize the global pH value (as indicated on the pH indicator strip) of oceans for a given concentration of atmospheric CO2. You can vary the atmospheric CO2 levels by using the slider at the bottom left hand side to observe the corresponding changes in the pH value of the oceans.
+- Click the tab “Show Graph” to observe the graphs for concentrations of various species of carbonate ions in (i) a closed system and (ii) an open ocean; and the graph depicting the pH value of oceans for various atmospheric CO2 concentrations.
+- Go to the tab “Options” to view the different emission scenarios (Special Report on Emission Scenarios (SRES) projections) that can be selected. Select different SRES projection options and visualize the corresponding predicted ocean pH value on the pH indicator strip or on the aforementioned graphs.
 
-Here we will use some data on the concentration of carbon dioxide (`CO_2`) on
-the atmosphere. The observatory records values of the concentration regularly
-for long periods of time (years), so we end up with a collection of points
-(time, concentration).
+Note:  Detailed information about SRES projections can be obtained [here](http://ipcc-data.org/sim/gcm_clim/SRES_TAR/ddc_sres_emissions.html#a1b).
 
-::: column(width=240)
 
-    x-media.shift-1(src="images/Mauna-Loa-Observatory.jpg" width=240 height=160 credit="NOAA. Earth System Research Laboratory. Global Monitoring Division")
+Finally, discuss the implications of the predicted pH value of oceans for different emission scenarios and the possible impacts on the Earth’s biosphere.
 
-{.caption} Mauna Loa Observatory
-:::
 
-Using a technique called _curve fitting_, we can find the polynomial function
-that best describes the relation between the two variables, by passing the
-closest possible to all the points. 
 
-Once we have a mathematical description of the physical measures, we can use
-mathematical tools (such as the derivatives) to analyze and extract information
-from the data.
+{div.large-link} [Go to applet](http://www.kcvs.ca/site/projects/JS_files/OceanAcidification/oceanAcid.html)
 
-Solve exercises 1-6 on this sheet:
 
-{div.large-link} [Exercises](/resources/co2-calculus/downloads/Mauna-Loa-CO2.docx)
-
-<!-- * You will need this data: [Excel file](http://sustainabilitymath.org/excel/Mauna-Loa-CO2.xlsx) -->
-
-{div.credit} [Mauna Loa Yearly Average `CO_2`](http://sustainabilitymath.org/calculus-materials/) by Thomas J. Pfaff, from [Sustainability Math](http://sustainabilitymath.org/) ([exercise](http://sustainabilitymath.org/word/Mauna-Loa-CO2.docx)).
+{div.credit} Developed by [The King’s Centre for Visualization in Science (KCVS)](http://kcvs.ca/concrete/).
 
 ---
 
@@ -156,21 +124,31 @@ Solve exercises 1-6 on this sheet:
 
 Use the tools and the concepts learned so far to discuss and determine answers to the following questions:
 
-1. Plot a graph and find the polynomial equation to model the average yearly
-   atmospheric `CO_2` levels from 1950 to 2017 (using data records provided).
-2. Compare and analyze the rate of change of atmospheric `CO_2` levels by applying
-   polynomial differentiation.
-3. Based on observed trends, what will the atmospheric `CO_2` level be in 2100?
+1. What are buffers? Explain buffer action.
+2. Describe carbonate buffering in the ocean.
+3. What is ocean acidification?
+4. Discuss the possible global impact of higher levels of atmospheric CO2 on the pH of oceans.
+
 
 ---
 
 ## Additional resources
 > section: resources
 
-This visualisation, from Interactive Mathematics, shows Differentiation of a
-Polynomial Function. You can explore how the slope of a curve changes as the
-variable `x` changes.
+1. 	Laboratory Activity
 
-{div.large-link} [Interactive Graph](https://www.intmath.com/differentiation/derivative-graphs.php)
+	The activity “The Buffer Zone”, allows students to explore the buffering ability of seawater and discuss how this buffer action is affected by increasing levels of atmospheric CO2 and increasing global temperatures.
 
-{div.credit} [Interactive Mathematics](https://www.intmath.com)
+{div.large-link} [Go to the Laboratory Activity](https://aamboceanservice.blob.core.windows.net/oceanservice-prod/education/pd/climate/teachingclimate/acid_base_chemistry_teacher.pdf)
+
+{div.credit} “The Buffer Zone” by Stefani Hines, University of New Mexico, published in the Environmental Health Perspectives (EHP) Science Education Program.
+
+
+ 
+2. 	Video 	
+
+Use the animated video “Demystifying ocean acidification and biodiversity impacts” to learn about ocean acidification and its impacts on the biodiversity of the planet.
+
+{div.large-link} [Go to the Video](https://www.youtube.com/watch?v=GL7qJYKzcsk)
+
+{div.credit} “Demystifying ocean acidification and biodiversity impacts” from the California Academy of Sciences
