@@ -15,11 +15,13 @@ Sciences.
 
 ## Task List
 
-* [ ] __Enable Firebase Hosting, Fix Glossary__
-* [ ] Filtering for Tools + Lesson Plan
-* [ ] Fix <a> inside lists, Different Sidebar Icons
+* [ ] Filtering for Tools and Lesson Plan
+* [ ] Fix <a> inside lists, Fix Glossary
+* [ ] Different Sidebar Icons
 * [ ] Button to Hide Teacher Notes
 * [ ] Print Pages, Export PDF
+* [ ] Port static pages (surveys, resources, etc.)
+* [ ] Contact Form
 
 
 ## Getting Started
