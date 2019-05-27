@@ -1,0 +1,30 @@
+title: Sea-level rise on California
+url: http://data.pointblue.org/apps/ocof/cms/
+
+description: An interactive visualization to observe and understand the possible effects of sea-level rise and different storm scenarios on the coast of California.
+
+learningOutcomes: |
+    Students will configure parameters such as the amount of sea-level rise and the frequency of storm scenarios to observe the corresponding effects on specific locations along the Californian coast. They will compare and discuss various flooding scenarios and the vulnerability of different locations.
+
+    Use this tool to help your students find answers to:
+
+    1. What is the possible impact of a sea-level rise of 200 cm on Southern California?
+    2. Discuss the flooding potential of Northern California for a sea-level rise of 500 cm.
+
+
+img: sea-level-california.jpg
+imgCredit: Our Coast Our Future (OCOF)
+
+discipline: Geography, Earth Sciences
+disciplineTopics: Disasters; Floods; Sea-level Rise; Flood Potential
+climateTopics: Disasters and Hazards, Climate and the Hydrosphere
+type: Interactive Visualization
+grade: High school, Undergraduate
+location: North America, USA
+language: English
+credit: CoSMoS Project Team
+hosted: Our Coast Our Future
+access: Online
+computerSkills: Basic
+
+lessonPlans:
