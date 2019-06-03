@@ -1,0 +1,30 @@
+title: Future of carbon emissions
+url: http://climatemodels.uchicago.edu/kaya/kaya.doc.html
+
+description: A model/simulator to learn about and use the Kaya Identity to predict future carbon emissions.
+
+learningOutcomes: |
+    Students will customize parameters such as changes in population, GDP per capita, energy intensity, and carbon intensity of energy sources to observe the model’s predictions on future carbon emissions.
+
+    Use this tool to help your students find answers to:
+
+    1. Determine the amount of carbon emissions and the change in global surface temperature if the population of the Earth is doubled.
+    2. Determine the amount of carbon emissions and the change in global surface temperature if the rate of change of the GDP per capita is 2% per year.
+
+
+img: climatemodels_uchicago.jpg
+imgCredit: University of Chicago.
+
+discipline: Economics, Environmental Science
+disciplineTopics: Future Carbon Emissions, Climate and GDP, Population, Energy
+climateTopics: Energy, Economics, and Climate Change
+type: Model/Simulator
+grade: Undergraduate
+location: Global
+language: English
+credit: David Archer (University of Chicago)
+hosted: David Archer Climate Models
+access: Online
+computerSkills: Intermediate
+
+lessonPlans:

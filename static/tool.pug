@@ -19,7 +19,7 @@ block body
         if tool.img
           figure
             img(src='/tool/images/'+tool.img)
-            p.caption(style="text-align: center")= tool.imgCredit
+            p.caption(style="text-align: center")= ("Image credit: " + tool.imgCredit)
         //- if tool.lessonPlans
           p= tool.lessonPlans
 

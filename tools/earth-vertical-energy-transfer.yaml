@@ -1,0 +1,32 @@
+title: Earth's vertical energy transfer
+url: https://biocycle.atmos.colostate.edu/shiny/Layers/
+
+description: A model/simulator to learn about vertical energy (heat) transfer in the Earth’s system and planetary energy balance.
+
+learningOutcomes: |
+    Students will vary parameters such as the solar constant and the planetary albedo to observe the corresponding effects on energy transfer from the Sun to the Earth and from the Earth to the atmosphere. They will learn about a simple energy balance model and its underlying physics.
+
+    Use this tool to help your students find answers to:
+
+    1. For a given solar constant, how does an increase in the number of atmospheric layers affect the Earth’s surface temperature?
+    2. For a given solar constant, how does an increase in the planetary albedo affect the Earth’s surface temperature?
+
+
+
+img: cmmap-kauai.jpg
+imgCredit: Center for Multiscale Modeling of Atmospheric Processes, Colorado State University
+
+discipline: Earth Sciences, Physics
+disciplineTopics: Greenhouse Effect, Heat Transfer, Convective Heat Flux, Vertical Energy Transfer in Earth’s Atmosphere
+climateTopics: The Greenhouse Effect; Climate and the Atmosphere
+
+type: Model/Simulator
+grade: Undergraduate
+location: 
+language: English
+credit:  Scott Denning (Colorado State University)
+hosted: Denning Research Group Toy Models
+access: Online
+computerSkills: Intermediate
+
+lessonPlans:
