@@ -1,0 +1,29 @@
+title: Climate change, economy, and society
+url: http://webdice.rdcep.org/
+
+description: A model/simulator to understand the relationships between climate change, economics, and social factors.
+
+learningOutcomes: |
+    Students will customize parameters related to policy (such as emissions-related tax or treaty), climate (such as levels of climate sensitivity and harm), and economy (such as growth and energy efficiency) to observe the corresponding effects of climate change on the economy and society.
+
+    Use this tool to help your students find answers to:
+
+    1. Using the simulator, compare the abatement costs for different policy settings—a carbon tax scenario, a climate treaty scenario, and a “business as usual” scenario.
+    2. Using the simulator, observe and discuss how changes in the price of clean energy and changes in the extent of harms from climate change will affect the economy and society.
+
+img: climate-energy.jpg
+imgCredit: 
+
+discipline: Economics
+disciplineTopics: Consumption per capita, Total factor productivity, Social cost of carbon, Abatement, Carbon tax
+climateTopics: Energy, Economics, and Climate Change
+type: Model/Simulator
+grade: Undergraduate
+location:  Global
+language: English
+credit: The Center for Robust Decision Making on Climate and Energy Policy (RDCEP) at the University of Chicago
+hosted: The Center for Robust Decision Making on Climate and Energy Policy (RDCEP) at the University of Chicago
+access: Online
+computerSkills: Intermediate
+
+lessonPlans:
