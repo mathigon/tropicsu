@@ -1,0 +1,29 @@
+title: Economics of oil
+url: http://climatemodels.uchicago.edu/hubbert/hubbert.doc.html
+
+description: A model/simulator to understand the prediction of peak global oil production, and to learn about oil as an energy source, its peak and reserves, and the economics and geopolitics of oil.
+
+learningOutcomes: |
+    Students will customize parameters such as the peak year, peak width, and the total reservoir size to view the Hubbert curve that shows peak oil production. They can compare the generated curve with the data set for US oil production, global oil production, or whale oil production.
+
+    Use this tool to help your students find answers to:
+    
+    1. According to this model, when is maximum global oil production achieved?
+    2. According to this model, when is maximum U.S. oil production achieved?
+
+img: oil-production.jpg
+imgCredit: 
+
+discipline: Economics, Environmental Science
+disciplineTopics: Oil, Oil Peak Production, Hubbert’s Peak
+climateTopics: Energy, Economics, and Climate Change
+type: Model/Simulator
+grade: Undergraduate
+location:  Global
+language: English
+credit: David Archer (The university of Chicago)
+hosted: David Archer Climate Models
+access: Online
+computerSkills: Intermediate
+
+lessonPlans:
