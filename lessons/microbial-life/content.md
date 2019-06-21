@@ -127,7 +127,7 @@ Use the tools and the concepts learned so far to discuss and determine answers t
 If you or your students would like to explore the topic further, these additional resources will be useful.
 :::
 
-1. A reading, [Is Climate Change Putting World’s Microbiomes at Risk?](http://www.who.int/globalchange/environment/en/chapter6.pdf) by Jim Robbins on YaleEnvironment360, that briefly describes the impact of climate change on microbial growth.  
+1. A reading, [Is Climate Change Putting World's Microbiomes at Risk?](http://www.who.int/globalchange/environment/en/chapter6.pdf) by Jim Robbins on YaleEnvironment360, that briefly describes the impact of climate change on microbial growth.  
 
 2. A reading, The reading resources, [Carbon cycle](http://microbiologyonline.org/about-microbiology/microbes-and-the-outdoors/carbon-cycle) and [Nitrogen cycle](http://microbiologyonline.org/about-microbiology/microbes-and-the-outdoors/nitrogen-cycle) from the Microbiology Society, describe how microbes interact with the environment through the carbon and nitrogen cycle.
 

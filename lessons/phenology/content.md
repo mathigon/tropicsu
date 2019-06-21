@@ -31,7 +31,7 @@ The tools in this lesson plan will enable students to:
 ## Introduction to Phenology
 > section: intro
 > format: Reading
-> duration: 20–30 min
+> duration: 20-30 min
 
 ::: .teaching-notes
 
@@ -64,7 +64,7 @@ Create and analyze graphs by using data for the timing of red maple leaf-out in 
 
 Encourage the students to discuss the potential role of environmental factors such as climate change on leaf-out.
 
-{div.large-link}[Student Sctivity Sheet](https://extension.umaine.edu/signs-of-the-seasons/wp-content/uploads/sites/6/2014/08/Red-Maple_-Student-Activity-Sheet.docx)
+{div.large-link}[Student Activity Sheet](https://extension.umaine.edu/signs-of-the-seasons/wp-content/uploads/sites/6/2014/08/Red-Maple_-Student-Activity-Sheet.docx)
 
 
 
