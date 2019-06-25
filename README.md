@@ -18,9 +18,9 @@ Sciences.
 * [ ] Filtering for Tools and Lesson Plan
 * [ ] Fix <a> inside lists, Fix Glossary
 * [ ] Different Sidebar Icons
-* [ ] Button to Hide Teacher Notes
+* [ ] Button to Hide Teacher Notes (idea dropped as of now)
 * [ ] Print Pages, Export PDF
-* [ ] Port static pages (surveys, resources, etc.)
+* [ ] Port static pages (home,project info,resources,contact etc.)
 * [ ] Contact Form
 
 
