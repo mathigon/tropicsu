@@ -1,0 +1,31 @@
+title: Geologic carbon cycle and climate
+url: http://climatemodels.uchicago.edu/geocarb/geocarb.doc.html
+
+description: A model/simulator to learn about the geologic carbon cycle and its role in stabilizing the Earth’s climate.
+
+learningOutcomes: |
+    Students will run the model after configuring parameters such as the CO2 degassing rate, the existence of land plants, and the relative land areas. They will observe and analyze plots that show the weathering rate of CO2 uptake, CO2 degassing rates, CaCO3 weathering and burial rates in the ocean, and ocean chemistry.
+        
+
+    Use this tool to help your students find answers to:
+
+    1. What is the Earth’s silicate thermostat?
+    2. How does carbon cycle between the lithosphere and the atmosphere through volcanic degassing and weathering?
+
+
+img: carbon-cycle.jpg
+imgCredit: 
+
+discipline: Earth Sciences
+disciplineTopics: Carbon Cycle, Geologic Carbon Cycle, Volcanic Degassing, Weathering Reaction
+climateTopics: Long-term Cycles and Feedback Mechanisms
+type: Model/Simulator
+grade: Undergraduate
+location: Global
+language: English
+credit: David Archer
+hosted: The University of Chicago
+access: Online
+computerSkills: Intermediate
+
+lessonPlans:

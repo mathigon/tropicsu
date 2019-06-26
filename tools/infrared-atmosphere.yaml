@@ -1,0 +1,29 @@
+title: Infrared Light in the Atmosphere
+url: http://climatemodels.uchicago.edu/modtran/modtran.doc.html
+
+description: A model/simulator to understand the effect of greenhouse gases on outgoing energy flux, and to compare the absorption of infrared radiation by various greenhouse gases such as carbon dioxide (CO2), methane (CH4), and water vapor.
+
+learningOutcomes: |
+    Students will modify various parameters such as the concentrations of greenhouse gases, temperature, atmospheric settings, and cloud settings to observe and understand the emission and absorption of infrared radiation in the atmosphere. They will compare the effects of different greenhouse gases.
+
+    Use this tool to help your students find answers to:
+
+    1. Compare the greenhouse effect of carbon dioxide (CO2) to the greenhouse effect of methane (CH4) in the atmosphere. What is the effect of doubling the concentrations of atmospheric CO2 and CH4?
+    2. What are the wavelengths at which methane (CH4) and carbon dioxide (CO2) absorb infrared radiation? Explain the band saturation effect.
+
+img: greenhouse-nasa.jpg
+imgCredit: NASA Conceptual Image Lab
+
+discipline: Earth Sciences
+disciplineTopics: Greenhouse effect of Earth’s atmospheric gases
+climateTopics: Climate and the Atmosphere, The Greenhouse Effect
+type: Model/Simulator
+grade: Undergraduate
+location: Global
+language: English
+credit: David Archer
+hosted: The University of Chicago
+access: Online
+computerSkills: Intermediate
+
+lessonPlans:

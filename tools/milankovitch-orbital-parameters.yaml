@@ -1,0 +1,29 @@
+title: Milankovitch Orbital Parameters
+url: http://biocycle.atmos.colostate.edu/shiny/Milankovitch/
+
+description: A model/simulator to learn about changes in Earth’s climate caused by variations in the solar energy received by the planet over geological time scales and to understand the role of the orbital parameters (obliquity, precession, and eccentricity) in causing ice age cycles (Milankovitch cycles) on Earth.
+
+learningOutcomes: |
+    Students can vary orbital parameters (eccentricity, obliquity, longitude of the perihelion) of Earth to observe the corresponding effect on the incoming solar radiation (insolation). They can also compare the global and seasonal distribution of insolation at two different points in time, and observe orbital data for particular times in the past and future (based on the paper by Laskar et al.).
+
+    Use this tool to help your students find answers to:
+
+    1. What are Milankovitch Cycles?
+    2. How do changes in Earth’s obliquity, precession, and eccentricity of orbit affect its climate?
+
+img: orbital.jpg
+imgCredit: 
+
+discipline: Earth Sciences; Physics
+disciplineTopics: Milankovitch Cycles, Earth’s Orbital Paramaters, Eccentricity, Obliquity, Precession, Glacial Interglacial Cycles, Ice Ages
+climateTopics: Earth’s Orbital Parameters, Climate Variability Record
+type: Model/Simulator
+grade: High School, Undergraduate
+location: Global
+language: English
+credit: Scott Denning (Colorado State University)
+hosted: Denning Research Group Toy Models
+access: Online
+computerSkills: Intermediate
+
+lessonPlans:
