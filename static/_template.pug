@@ -6,15 +6,21 @@ mixin icon(url, width, height)
 block vars
 
 mixin footer()
-  .container
-    footer.global-footer
-      .footer-left
-        a(href='https://council.science/') International Science Council
+  footer: .container
+    .footer-left
+      p All pedagogical tools are owned by the corresponding creators, authors or organizations as listed on their websites. Please view the individual copyright and ownership details for each tool using the links provided. We do not claim ownership of or responsibility or liability for any of these tools. Images copyrights remain with the respective owners. #[a(href="/policies.pdf" target="_blank") Policy Document]
+    .footer-right
+      p
+        a(href="/contact") Contact us
         span.dot •
-        a(href='https://imaginary.org/') Imaginary
+        a(href="https://www.facebook.com/TROPICSUProject/") Facebook
         span.dot •
-        a(href='https://mathigon.org') Mathigon
-      .footer-right © TROP ICSU
+        a(href="https://twitter.com/TROP_ICSU") Twitter
+        span.dot •
+        a(href="http://eepurl.com/dE2ke5") Newsletter
+      p Powered by #[a(target="https://mathigon.org") Mathigon]
+      p © TROP ICSU
+
 
 doctype html
 html
@@ -24,7 +30,7 @@ html
     meta(name="viewport", content="width=device-width, initial-scale=1, user-scalable=no")
     link(href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,300,400italic', rel='stylesheet', type='text/css')
     link(href='/course.css', rel='stylesheet')
-    link(href='/tropicsu.css', rel='stylesheet')
+    link(href='/tropicsu.css?v=1', rel='stylesheet')
     block head
 
   body
@@ -36,7 +42,7 @@ html
             +icon('library', 28)
             span.nav-text Lesson Plans
           .nav-item: a.nav-link(href="/tools")
-            +icon('settings', 28)
-            span.nav-text Teaching Tool
+            +icon('teacher', 28)
+            span.nav-text Teaching Tools
 
     block body

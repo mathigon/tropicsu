@@ -73,6 +73,18 @@ grunt.registerMultiTask('tropicsuLessons', '', function() {
 // -----------------------------------------------------------------------------
 // Tools
 
+const toolColors = {
+  'Mathematics': '#c62828',
+  'Humanities': '#00838f',
+  'Earth Sciences': '#4e342e',
+  'Economics': '#ef6c00',
+  'Biology': '#2e7d32',
+  'Social Sciences': '#283593',
+  'Geography': '#f9a825',
+  'Physics': '#0277bd',
+  'Chemistry': '#ad1457'
+};
+
 grunt.registerMultiTask('tropicsuTools', '', function() {
   for (const f of this.files) {
     const tool = grunt.file.readYAML(f.src[0]);
@@ -121,13 +133,21 @@ grunt.initConfig({
     app: {
       files: [{
         expand: true,
-        src: 'assets/**/*.css'
+        src: BUILD + '**/*.css'
       }]
     }
   },
 
   rollup: {
     app: {
+      files: [{
+        expand: true,
+        cwd: 'assets',
+        dest: BUILD,
+        src: 'tropicsu.js'
+      }]
+    },
+    courses: {
       files: [{
         expand: true,
         cwd: 'lessons',
@@ -188,6 +208,7 @@ grunt.initConfig({
         for (let file of toolNames) {
           const tool = grunt.file.readYAML(file);
           tool.id = file.slice(6).replace('.yaml', '');
+          tool.color = toolColors[(tool.discipline.split(',')[0] || '').trim()] || '#242436';
           tools.push(tool);
         }
 
@@ -208,7 +229,7 @@ grunt.initConfig({
   copy: {
     app: {
       files: [
-        {expand: true, cwd: 'assets', dest: BUILD, src: [MEDIA, '**/*.{css,js,html}']},
+        {expand: true, cwd: 'assets', dest: BUILD, src: [MEDIA, '**/*.{css,min.js,html}']},
         {expand: true, cwd: 'lessons', dest: BUILD + '/resources', src: MEDIA},
         {expand: true, cwd: 'tools/images', dest: BUILD + '/tool/images', src: MEDIA},
         {expand: true, cwd: 'node_modules/emojione-assets/png/64', dest: BUILD + '/images/emoji', src: MEDIA},
@@ -218,11 +239,11 @@ grunt.initConfig({
 
   watch: {
     css: {
-      files: ['assets/*/*.less', 'lessons/*/*.less'],
+      files: ['assets/**/*.less', 'lessons/*/*.less'],
       tasks: ['less', 'autoprefixer']
     },
     js: {
-      files: ['lessons/*/*.js'],
+      files: ['lessons/*/*.js', 'assets/tropicsu.js'],
       tasks: ['rollup']
     },
     lessons: {

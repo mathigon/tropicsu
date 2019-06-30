@@ -15,32 +15,31 @@ block body
     .hero-img(style="background-image: url(/images/hero.jpg)")
     .hero-shadow
     .container: .hero-title
-      h1 Teaching Tools for Climate Change
+      h1
+        +icon('teacher', 64)
+        | Teaching Tools
 
   .container
-    .row.padded
-      .tools-filter
-        .tools-category Discipline
-        .tools-option Biological Sciences
-        .tools-option Chemistry
-        .tools-option Earth Science
-        .tools-option Economics
-        .tools-option Environmental Science
-        .tools-option General
-        .tools-option Geography
-        .tools-option Humanities
-        .tools-option Lesson Plan
-        .tools-option Mathematics
-        .tools-option Media and Communication
-        .tools-option Physics
-        .tools-option Social Sciences
-        .tools-option Statistics
+    .row(style="align-items: flex-start")
+      .filters
+        .filter-category Discipline
+        for x in ['Biology', 'Chemistry', 'Cognitive Psychology', 'Earth Sciences', 'Economics', 'Environmental Sciences', 'Geography', 'Humanities', 'Mathematics', 'Neuroscience', 'Physics', 'Social Sciences']
+          label.filter-option
+            input(type="checkbox" value=x data-category="discipline")
+            | #{x}
+        .filter-category Type
+        for x in ['Audio', 'Classroom Activity', 'Interactive Visualization', 'Laboratory Activity', 'Model/Simulator', 'Online Course', 'Reading', 'Teaching Module', 'Video']
+          label.filter-option
+            input(type="checkbox" value=x data-category="type")
+            | #{x}
 
       .grow.tools-list
         for t in tools
-          a(href="/tool/" + t.id)
+          a.filterable(href="/tool/" + t.id style=`background-color: ${t.color}` data-filter=(t.type + t.discipline))
             .thumbnail(style=`background-image: url(/tool/images/${t.img})`)
             h2= t.title
             .meta= t.type
 
   +footer()
+  script(src='/polyfill.min.js')
+  script(src="/tropicsu.js")

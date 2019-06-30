@@ -26,6 +26,8 @@ header { background: #002b2a; }
 .hero-img { background-position: center; background-size: cover; .fillParent(); }
 .hero .subtitle { opacity: 0.6; font-size: 20px; margin-top: -10px; }
 
+header .nav-link:hover, header .nav-link:focus { background: darken(#002b2a, 15%) }
+
 
 // -----------------------------------------------------------------------------
 // Homepage
@@ -36,7 +38,24 @@ header { background: #002b2a; }
 .lesson-plan h2 { color: white; font-size: 22px; margin: 12px 0 12px; }
 .lesson-plan p { color: rgba(255,255,255,0.8); font-size: 16px; margin: 0 0 14px; }
 
-footer { height: auto; }
+footer {
+  height: auto;
+  background: #002b2a;
+  color: white;
+  font-size: 14px;
+  margin-top: 50px;
+  padding: 20px 0 60px 0;
+
+  .container { white-space: normal; display: flex; flex-wrap: wrap; justify-content: center; }
+  p { margin-bottom: .3em; }
+  .dot { margin: 0 5px; }
+  p a:hover, p a:focus { color: lighten(#1f7aff, 20%); }
+
+  .footer-left { flex: 1 1 240px; }
+  .footer-right { text-align: right; width: 303px; }
+  @media screen and (max-width: 650px) { .footer-right { text-align: center; }}
+}
+
 
 
 // -----------------------------------------------------------------------------
@@ -135,19 +154,41 @@ x-tutor { display: none; }
 
 
 // -----------------------------------------------------------------------------
+// Filters
+
+.filters {
+  width: 220px;
+  border-right: 1px solid #ccc;
+  padding-right: 12px;
+  top: 64px;
+  position: sticky;
+  margin-right: 40px;
+  @media screen and (max-width: 800px) { font-size: 14px; width: 120px; margin-right: 18px; }
+  @media screen and (max-width: 420px) { display: none; }
+}
+
+.filter-category { font-weight: 600; text-transform: uppercase; font-size: 80%; margin-top: 2em; opacity: 60%; }
+.filter-category:first-child { margin-top: 0; }
+
+.filter-option {
+  display: block;
+  cursor: pointer;
+  line-height: 1.2;
+  padding: 4px 0;
+  input { margin: 2px 8px 6px 0; float: left; }
+}
+
+
+// -----------------------------------------------------------------------------
 // Tools Pages
 
 .tool-hero .hero-img { filter: blur(10px); }
 .tool a.btn { display: block; font-size: 28px; margin-bottom: 24px; }
 
-.tool-sidebar { width: 300px; }
+.tool-sidebar { width: 244px; }
 .tool-sidebar p { font-size: 15px; margin-bottom: 4px; }
 
-.tools-filter { width: 200px; border-right: 1px solid #ccc; padding-right: 12px; }
-.tools-category { font-weight: 600; text-transform: uppercase; font-size: 16px; margin-top: 2em; }
-.tools-category:first-child { margin-top: 0; }
-
-.row .grow.tools-list { display: flex; flex-wrap: wrap; margin: 12px; width: 300px; }
+.row .grow.tools-list { display: flex; flex-wrap: wrap; margin: -12px; width: 300px; }
 .tools-list > a {
   display: block;
   background: #242436;
@@ -156,8 +197,17 @@ x-tutor { display: none; }
   margin: 12px;
   border-radius: 4px;
   color: white;
-  .thumbnail { background-size: cover; background-position: center; height: 100px; border-radius: 4px 4px 0 0; }
-  h2 { margin: 8px 12px 4px; font-size: 18px; }
-  .meta { font-size: 14px; opacity: 0.6; margin-left: 12px; }
-}
 
+  .thumbnail {
+    background-size: cover;
+    background-position: center;
+    height: 100px;
+    border-radius: 4px 4px 0 0;
+    border: 1px solid fade(black, 20%);
+    background-clip: border-box;
+    border-bottom: none;
+  }
+
+  h2 { margin: 8px 12px 4px; font-size: 18px; }
+  .meta { font-size: 14px; opacity: 0.6; margin: 0 12px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+}
