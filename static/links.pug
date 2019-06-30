@@ -1,0 +1,69 @@
+extends ./_template
+
+mixin course(course)
+  a.lesson-plan(href="/lesson/" + course.id + '/overview' style="background: #" + course.color)
+    .lesson-plan-img(style="background-image: url(/resources/" + course.id + "/hero.jpg)")
+    h2= course.title
+    p= course.description
+    p #{course.grade} &nbsp;•&nbsp; #{course.time}
+
+block vars
+  - var title = "TROP ICSU Climate Change Curriculum"
+
+block body
+  .hero
+    .hero-img(style="background-image: url(/images/hero.jpg)")
+    .hero-shadow
+    .container: .hero-title
+      h1
+        +icon('glossary', 58)
+        | Resources
+
+  .container.narrow
+
+    h2 UN Resources
+
+    ul
+      li: a(href="https://www.wcrp-climate.org/" target="_blank") World Climate Research Program (WCRP)
+      li: a(href="https://public.wmo.int/en" target="_blank") World Meteorological Organization (WMO)
+      li: a(href="https://public.wmo.int/en/resources/training/wmolearn" target="_blank") WMOLearn: A Global Campus Resource
+      li: a(href="https://unccelearn.org/" target="_blank") One UN Climate Change Learning Partnership (UN CC:Learn)
+      li: a(href="http://www.ipcc.ch/" target="_blank") Intergovernmental Panel on Climate Change (IPCC)
+      li: a(href="https://unfccc.int/" target="_blank") United Nations Framework Convention on Climate Change (UNFCCC)
+      li: a(href="https://en.unesco.org/" target="_blank") United Nations Educational, Scientific and Cultural Organization (UNESCO)
+      li: a(href="https://www.unenvironment.org/" target="_blank") United Nations Environment Programme (UNEP)
+      li: a(href="http://www.yess-community.org/" target="_blank") Young Earth System Scientists Community (YESS)
+
+    h2 Third Party Resources
+
+    ul
+      li: a(href="https://acespace.org/" target="_blank") Alliance for Climate Education ACE
+      li: a(href="https://www.acs.org/content/acs/en/climatescience.html" target="_blank") American Chemical Society ACS Climate Science Toolkit
+      li: a(href="http://www.blueocean.watch/" target="_blank") Blue Ocean Watch
+      li: a(href="https://www.cakex.org/" target="_blank") Climate Adaptation Knowledge Exchange (CAKE)
+      li: a(href="http://climatechangeeducation.org/" target="_blank") Climate Change Education
+      li: a(href="http://sdwebx.worldbank.org/climateportal/" target="_blank") Climate Change Knowledge Portal
+      li: a(href="https://www.climateliteracyacademy.org/" target="_blank") Climate Literacy Academy
+      li: a(href="https://cleanet.org/clean/educational_resources/index.html" target="_blank") Climate Literacy and Energy Awareness Network
+      li: a(href="http://forecast.uchicago.edu/index.html" target="_blank") David Archer The University of Chicago
+      li: a(href="http://www.earthlearningidea.com/home/Teaching_strategies.html" target="_blank") Earth Learning Idea
+      li: a(href="https://iau-aiu.net/HESD" target="_blank") International Association of Universities
+      li: a(href="http://iridl.ldeo.columbia.edu/index.html?Set-Language=en" target="_blank") IRI/LDEO Climate Data Library Columbia University
+      li: a(href="http://madeclear.thinkport.org/#home.html" target="_blank") Maryland and Delaware Climate Change Education Assessment and Research MADE CLEAR
+      li: a(href="https://www.meted.ucar.edu/index.php" target="_blank") Comet MetEd
+      li: a(href="https://www.niehs.nih.gov/health/scied/teachers/cchh/index.cfm" target="_blank") National Institute of Environmental Heath Sciences: Climate Change and Human Health Lesson Plans
+      li: a(href="https://www.climate.gov/teaching" target="_blank") NOAA Climate
+      li: a(href="http://www.oce.global/" target="_blank") Office for Climate Education
+      li: a(href="https://phet.colorado.edu/en/simulations/category/new" target="_blank") PHET Simulations
+      li: a(href="http://resources4rethinking.ca/en/search/" target="_blank") Resources for Rethinking
+      li: a(href="https://serc.carleton.edu/climatechange/index.html" target="_blank") SERC Climate Change Collection
+      li: a(href="https://www.stem.org.uk/resources/search?resource_query=climate%20change&f%5B0%5D=type%3Aelibrary_resource" target="_blank") STEM Learning UK
+      li: a(href="http://sustainabilitymath.org/" target="_blank") Sustainability Math
+      li: a(href="https://teachers-climate-guide.fi/" target="_blank") Teacher's Climate Guide
+      li: a(href="https://www.theclimateweb.com/" target="_blank") The Climate Web
+      li: a(href="http://kcvs.ca/concrete/visualizations/global-climate-change" target="_blank") The King's Center for Visualization in Science
+      li: a(href="https://scied.ucar.edu/climate-change-activities" target="_blank") UCAR Center for Science Education
+      li: a(href="http://sepuplhs.org/middle/third-edition/weather/teacherlinks.html" target="_blank") University of California, Berkeley Science Education For Public Understanding Program
+      li: a(href="https://pcc.uw.edu/education/classroom-resources/" target="_blank") University of Washington Program on Cimate Change
+
+  +footer()

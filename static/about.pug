@@ -1,0 +1,136 @@
+extends ./_template
+
+mixin course(course)
+  a.lesson-plan(href="/lesson/" + course.id + '/overview' style="background: #" + course.color)
+    .lesson-plan-img(style="background-image: url(/resources/" + course.id + "/hero.jpg)")
+    h2= course.title
+    p= course.description
+    p #{course.grade} &nbsp;•&nbsp; #{course.time}
+
+block vars
+  - var title = "TROP ICSU Climate Change Curriculum"
+
+block body
+  .hero
+    .hero-img(style="background-image: url(/images/hero.jpg)")
+    .hero-shadow
+    .container: .hero-title
+      h1
+        +icon('user', 48)
+        | Our Team and Partners
+
+  .container.narrow
+
+    .row.padded-thin
+      .grow(style="width:300px")
+        p The TROP ICSU project is funded by the #[a(href="https://www.icsu.org/" target="_blank") International Science Council (ISC)]. The project is led by the #[a(href="https://www.iubs.org/" target="_blank") International Union of Biological Sciences (IUBS)], and the #[a(href="https://www.inqua.org/" target="_blank") International Union for Quaternary Research (INQUA)] is the co-lead partner.
+        p The project partners include other international unions, national academies of several countries, national research centers, and United Nations agencies.
+      div(style="width: 300px")
+        img(src="/images/partners.jpg" width=300 height=200)
+
+    h2 Project Partners
+    ul
+      li
+        strong Lead Partner:&nbsp&nbsp
+        a(href="https://www.iubs.org/" target="_blank") International Union of Biological Sciences (IUBS)
+        br
+        span Nathalie Fomproix, L S Shashidhara
+      li
+        strong CO-lead Partner:&nbsp&nbsp
+        a(href="https://www.inqua.org/" target="_blank") International Union for Quaternary Research (INQUA)
+        br
+        span Allan Ashworth
+      li
+        a(href="http://www.iugs.org/" target="_blank") International Union of Geological Sciences(IUGS)
+        br
+        span Chris King
+      li
+        a(href="http://iuhps.net/" target="_blank") International Union of History and Philosophy of Science and Technology (IUHPST)
+        br
+        span Catherine Jami
+      li
+        a(href="https://imaginary.org/" target="_blank") IMAGINARY
+        br
+        span Daniel Ramos
+      li
+        a(href="https://www.icsu.org/regions/roa" target="_blank") International Council for Science-Regional Office for Africa (ICSU ROA)
+        br
+        span Richard Glover
+      li
+        a(href="http://www.insa.nic.in/" target="_blank") Indian&nbsp;National Science Academy (INSA)
+        br
+        span Usha Vijayraghavan
+      li
+        a(href="https://twas.org/partner/national-research-foundation-nrf-south-africa" target="_blank") National Research Foundation of South Africa (NRF)
+        br
+        span Dorothy Ngila
+      li
+        a(href="http://www.iuss.org/" target="_blank") International Union of Soil Sciences (IUSS)
+        br
+        span Barbara Birli
+      li
+        a(href="http://www.mathunion.org/" target="_blank") International Mathematical Union (IMU)
+        br
+        span France Caron, Christiane Rousseau
+      li
+        a(href="http://www.iugg.org/" target="_blank") International Union of Geodesy and Geophysics (IUGG)
+        br
+        span Keith Alverson, Tom Beer, Moira Doyle, Laszlo Szarka
+      li
+        a(href="http://www.iufro.org/" target="_blank") International Union of Forest Research Organizations (IUFRO)
+        br
+        span Mika Rekola
+      li
+        a(href="http://www.codata.org/" target="_blank") International Council for Science: Committee on Data for Science and Technology (CODATA)
+        br
+        span Simon Hodson
+      li
+        a(href="https://www.science.org.au/" target="_blank") Australian Academy of Sciences (AAS)
+        br
+        span John Buckeridge
+      li
+        a(href="http://www.mas.ac.mn/" target="_blank") Mongolian Academy of Science (MAS)
+        br
+        span Tsendsuren Oyunsuren
+      li
+        a(href="https://www.utpl.edu.ec/" target="_blank") Universidad Técnica Particular de Loja, Ecuador (UTPL)
+        br
+        span Verónica Iñiguez
+      li
+        a(href="http://www.afruc.org/" target="_blank") African Union of Conservationists (AUC)
+        br
+        span Raymond Katebaka, Daniel Waiswa
+      li
+        a(href="http://www.nrc.sci.eg/" target="_blank") National Research Center, Plant Protection Department, Egypt
+        br
+        span Hussein Salama
+      li
+        a(href="http://en.unesco.org/" target="_blank") United Nations Educational, Scientific and Cultural Organization (UNESCO)
+        br
+        span Miguel Clusener-Godt
+      li
+        a(href="https://www.wcrp-climate.org/" target="_blank") World Climate Research Program (WCRP)
+        br
+        span Boram Lee
+      li
+        a(href="https://www.yess-community.org/" target="_blank") Young Earth System Scientists community (YESS)
+        br
+        span Valentina Rabanal
+
+    h2 Implementation Team
+    ul
+      li L S Shashidhara, IISER Pune
+      li Nathalie Fomproix, IUBS Paris
+      li Rahul Chopra, IISER Pune
+      li Aparna Joshi, IISER Pune
+      li Anita Nagarajan, IISER Pune
+
+    .row.padded-thin(style="margin-top: 32px")
+      div(style="width: 240px")
+        img(src="/images/team-1.jpg" width=300 height=200)
+      div(style="width: 240px")
+        img(src="/images/team-2.jpg" width=300 height=200)
+      div(style="width: 240px")
+        img(src="/images/team-3.jpg" width=300 height=200)
+
+  +footer()

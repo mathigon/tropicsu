@@ -1,0 +1,27 @@
+extends ./_template
+
+mixin course(course)
+  a.lesson-plan(href="/lesson/" + course.id + '/overview' style="background: #" + course.color)
+    .lesson-plan-img(style="background-image: url(/resources/" + course.id + "/hero.jpg)")
+    h2= course.title
+    p= course.description
+    p #{course.grade} &nbsp;•&nbsp; #{course.time}
+
+block vars
+  - var title = "TROP ICSU Climate Change Curriculum"
+
+block body
+  .hero
+    .hero-img(style="background-image: url(/images/hero.jpg)")
+    .hero-shadow
+    .container: .hero-title
+      h1
+        +icon('email', 48)
+        | Contact Us
+
+  .container.narrow(style="min-height: calc(100vh - 579px)")
+    p We welcome contributions to our suite of Teaching Tools and Lesson Plans that can be used to teach topics in the high school and undergraduate curriculum through climate-related examples. Many educators from different countries have contributed to our suite of Lesson Plans.
+
+    p If you have any queries or wish to recommend a relevant tool that you have developed, modified, or used, please write to us at #[a(href="mailto:tropicsu@iubs.org") tropicsu@iubs.org].
+
+  +footer()

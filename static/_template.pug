@@ -6,18 +6,20 @@ mixin icon(url, width, height)
 block vars
 
 mixin footer()
-  footer: .container
+  footer.tropicsu-footer: .container
     .footer-left
       p All pedagogical tools are owned by the corresponding creators, authors or organizations as listed on their websites. Please view the individual copyright and ownership details for each tool using the links provided. We do not claim ownership of or responsibility or liability for any of these tools. Images copyrights remain with the respective owners. #[a(href="/policies.pdf" target="_blank") Policy Document]
     .footer-right
       p
-        a(href="/contact") Contact us
+        a(href="/about") About us
+        span.dot •
+        a(href="/contact") Contact
         span.dot •
         a(href="https://www.facebook.com/TROPICSUProject/") Facebook
         span.dot •
         a(href="https://twitter.com/TROP_ICSU") Twitter
-        span.dot •
-        a(href="http://eepurl.com/dE2ke5") Newsletter
+      p
+        a(href="http://eepurl.com/dE2ke5") Sign up for our free newsletter
       p Powered by #[a(target="https://mathigon.org") Mathigon]
       p © TROP ICSU
 
@@ -38,11 +40,14 @@ html
       a#logo(href="/")
         include ../assets/images/logo.svg
         nav
-          .nav-item: a.nav-link(href="/")
+          .nav-item: a.nav-link(href="/lessons")
             +icon('library', 28)
             span.nav-text Lesson Plans
           .nav-item: a.nav-link(href="/tools")
             +icon('teacher', 28)
             span.nav-text Teaching Tools
+          .nav-item: a.nav-link(href="/links")
+            +icon('glossary', 24, 28)
+            span.nav-text Resources
 
     block body

@@ -19,6 +19,16 @@
   height: 100%;
 }
 
+.underline() {
+  content: " ";
+  left: 0;
+  display: block;
+  height: 1px;
+  position: absolute;
+  width: 0;
+  transition: width .2s;
+}
+
 header { background: #002b2a; }
 .container { user-select: text; }
 
@@ -26,11 +36,19 @@ header { background: #002b2a; }
 .hero-img { background-position: center; background-size: cover; .fillParent(); }
 .hero .subtitle { opacity: 0.6; font-size: 20px; margin-top: -10px; }
 
-header .nav-link:hover, header .nav-link:focus { background: darken(#002b2a, 15%) }
+header .nav-link { transition: background .2s; }
+header .nav-link:hover, header .nav-link:focus { background: fade(white, 15%); }
+
+ul {
+  a { color: @blue; transition: color .2s; position: relative; }
+  a:hover, a:focus { color: darken(@blue, 20%); }
+  a:after { .underline(); bottom: -1px; background: @blue; }
+  a:hover:after, a:focus:after { width: 100% }
+}
 
 
 // -----------------------------------------------------------------------------
-// Homepage
+// Static Pages
 
 .lesson-plan-list { display: flex; flex-wrap: wrap; }
 .lesson-plan { display: block; width: 265px; border-radius: 8px; padding: 0 18px; margin: 16px; }
@@ -38,7 +56,17 @@ header .nav-link:hover, header .nav-link:focus { background: darken(#002b2a, 15%
 .lesson-plan h2 { color: white; font-size: 22px; margin: 12px 0 12px; }
 .lesson-plan p { color: rgba(255,255,255,0.8); font-size: 16px; margin: 0 0 14px; }
 
-footer {
+.home-grid {
+  img { display: block; margin: 24px auto; border-radius: 4px; }
+  h2 { margin: 16px 0; text-align: center; font-size: 1.4em; }
+  p { font-size: 16px; text-align: center; }
+}
+
+
+// -----------------------------------------------------------------------------
+// Footer
+
+footer.tropicsu-footer {
   height: auto;
   background: #002b2a;
   color: white;
@@ -48,12 +76,12 @@ footer {
 
   .container { white-space: normal; display: flex; flex-wrap: wrap; justify-content: center; }
   p { margin-bottom: .3em; }
-  .dot { margin: 0 5px; }
+  .dot { margin: 0 6px; }
   p a:hover, p a:focus { color: lighten(#1f7aff, 20%); }
 
-  .footer-left { flex: 1 1 240px; }
-  .footer-right { text-align: right; width: 303px; }
-  @media screen and (max-width: 650px) { .footer-right { text-align: center; }}
+  .footer-left { flex: 1 1 312px; }
+  .footer-right { text-align: right; width: 270px; }
+  @media screen and (max-width: 630px) { .footer-right { text-align: center; }}
 }
 
 
@@ -182,7 +210,7 @@ x-tutor { display: none; }
 // -----------------------------------------------------------------------------
 // Tools Pages
 
-.tool-hero .hero-img { filter: blur(10px); }
+.tool-hero .hero-img { filter: blur(10px); transform: scale(1.1); }
 .tool a.btn { display: block; font-size: 28px; margin-bottom: 24px; }
 
 .tool-sidebar { width: 244px; }
