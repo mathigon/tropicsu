@@ -7,14 +7,14 @@ learningOutcomes: |
     Students will customize parameters such as the peak year, peak width, and the total reservoir size to view the Hubbert curve that shows peak oil production. They can compare the generated curve with the data set for US oil production, global oil production, or whale oil production.
 
     Use this tool to help your students find answers to:
-    
+
     1. According to this model, when is maximum global oil production achieved?
     2. According to this model, when is maximum U.S. oil production achieved?
 
 img: oil-production.jpg
-imgCredit: 
+imgCredit:
 
-discipline: Economics, Environmental Science
+discipline: Economics, Environmental Sciences
 disciplineTopics: Oil, Oil Peak Production, Hubbert’s Peak
 climateTopics: Energy, Economics, and Climate Change
 type: Model/Simulator
