@@ -59,3 +59,10 @@ food-security:
   grade: High School, Undergraduate
   time: 90-130 min
   color: af9450
+
+blackbody-radiation:
+  title: Planck's law and blackbody radiation
+  description: Planetary Climates, Planetary Energy Balance, The Greenhouse Effect
+  grade: High School, Undergraduate
+  time: 120-150 min
+  color: 353a42

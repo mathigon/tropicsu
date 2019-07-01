@@ -41,6 +41,8 @@ Introduce the topic with the help of a reading
 * Discuss a few phenological events (periodic life-cycle events) in plants and animals.
 
 :::
+Explore what is phenology, its significance, and the link between plant phenology and climate. Discuss phenological events in your locality.
+
 {div.large-link} [About Phenology](http://budburst.org/phenology-defined)
 
 {div.credit}
