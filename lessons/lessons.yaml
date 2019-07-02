@@ -55,14 +55,22 @@ glaciers:
   
 food-security:
   title: Food security, Agriculture
-  description: Climate Change and Food Security,Climate Change and Agriculture
+  description: Climate Change and Food Security,Climate Change and Agriculture.
   grade: High School, Undergraduate
   time: 90-130 min
   color: af9450
 
 blackbody-radiation:
   title: Planck's law and blackbody radiation
-  description: Planetary Climates, Planetary Energy Balance, The Greenhouse Effect
+  description: Planetary Climates, Planetary Energy Balance, The Greenhouse Effect.
   grade: High School, Undergraduate
   time: 120-150 min
   color: 353a42
+  
+coriolis-force:
+  title: Coriolis force
+  description: Understand the Coriolis force, and the effect of the Coriolis force on weather and climate.
+  grade: High School, Undergraduate
+  time: 40-50 min
+  color: 353a42
+  
