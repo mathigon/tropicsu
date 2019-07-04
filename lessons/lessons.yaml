@@ -6,7 +6,7 @@
 
 co2-calculus:
   title: Calculus and CO2 Emissions
-  description: Learn to solve calculus  and tangent line problems using atmospheric CO2 data and the Greenhouse effect.
+  description: Learn to solve calculus and tangent line problems using atmospheric CO2 data and the Greenhouse effect.
   grade: High School, Undergraduate
   time: 120 min
   color: 2ea5cc
@@ -66,3 +66,10 @@ blackbody-radiation:
   grade: High School, Undergraduate
   time: 120-150 min
   color: 353a42
+
+fertilizers-and-climate:
+  title: Fertilizers and Climate
+  description: Agriculture, Effects of the Use of Fertilizers on the Environment 
+  grade: Undergraduate
+  time: 30-50 min
+  color: 5ba400

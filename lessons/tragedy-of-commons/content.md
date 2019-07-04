@@ -51,19 +51,22 @@ What does it mean for you the expression "the tragedy of the commons"? Watch the
 
 ---
 
-## Classroom Activities
-> section: activities
-> format: Classroom Activities
+## Classroom Activity
+> section: activity
+> format: Classroom Activity
 > duration: 50 min
 
 
 ::: .teaching-notes
 * Explore the topic in further detail through a classroom/laboratory activity [“Introducing the economic concept of ‘tragedy of the commons’ using global warming”](https://serc.carleton.edu/integrate/programs/implementation/program2/activities/135953.html), by Laura Triplett, from Gustavus Adolphus College.
-* In this activity, students will discuss case studies for different tragedy-of-the-commons problems. Then, they will examine Earth’s atmosphere as a commons and global warming as a tragedy, and will propose economic solutions to solve this tragedy.
+* In this activity, students will discuss case studies for different tragedy-of-the-commons problems. 
 * Download the Teaching Materials and conduct the activity described on the page.
 :::
 
-{div.large-link}[Go to the Activity](https://serc.carleton.edu/integrate/programs/implementation/program2/activities/135953.html)
+* Use the following activity to understand the concept of tragedy of commons using the case study of global warming.
+* Examine Earth’s atmosphere as a commons and global warming as a tragedy, and try to propose economic solutions to solve this tragedy.
+
+{div.large-link}[Tragedy of the commons using global warming](https://serc.carleton.edu/integrate/programs/implementation/program2/activities/135953.html)
 
 {div.credit}
 [Introducing the economic concept of ‘Tragedy of the Commons’ using global warming](https://serc.carleton.edu/integrate/programs/implementation/program2/activities/135953.html) by Laura Triplett, from Gustavus Adolphus College; available on [SERC’s InTeGrate portal](https://serc.carleton.edu/integrate/index.html).

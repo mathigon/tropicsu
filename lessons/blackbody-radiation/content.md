@@ -135,7 +135,7 @@ Verify yours answers by cheking with the answer key.
 
  
 ::: column.grow
- * Explore that the Stefan-Boltzmann Law is a means of calculating the total flux of energy emitted by a blackbody. Explore how this law can be used to calculate surface temperatures of different blackbodies.
+ * The Stefan-Boltzmann Law is a means of calculating the total flux of energy emitted by a blackbody. Explore how this law can be used to calculate surface temperatures of different blackbodies.
  Discuss the topic of energy balance and planetary temperatures in the solar system and stress on calculating surface temperature of planet Earth based on solar energy flux received.
  
 ::: column(width=240)
