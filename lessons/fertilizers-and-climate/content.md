@@ -45,7 +45,8 @@ What are fertilizers and why are they used in agriculture?
 Watch the following video to know about fertilizers, types of fertilizers, their compositions and their relative advantages and disadvantages.
 
     .video-wrap
-      iframe(width="560" height="315" src="https://ifdc.org/2013/03/15/introduction-to-fertilizer/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen)
+      iframe(width="560" height="315" src="https://player.vimeo.com/video/21401959" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen)
+
 
 	  
 {div.credit}
@@ -64,12 +65,12 @@ Watch the following video to know about fertilizers, types of fertilizers, their
 * Explain the nitrogen cycle (with reference to agricultural practices) and supplement by using the simplified diagram suggested below.
 * Discuss how nitrogen fixation in the soil occurs through natural processes and how it can be carried out artificially through the usage of fertilizers.
 * Discuss the role of microbes in the nitrogen cycle.
-* Discuss the resultant emission of a GHG nitrous oxide (N20) by the application of nitrogen (N) fertilizers.
+* Discuss the resultant emission of a GHG nitrous oxide (`N_2O`) by the application of nitrogen (N) fertilizers.
 :::
 
 * Explore the nitrogen cycle (with reference to agricultural practices) and supplement by using this simplified diagram _N Cycle_. 
 * Microbes play an important role in natural nitrogen fixation in the soil. The process of nitrogen fixation in the soil can be carried out artificially through the usage of fertilizers.
-* The bacterial actions on N fertilizers added to the soil can cause the emission of nitrous oxide (N20) to the atmosphere.
+* The bacterial actions on N fertilizers added to the soil can cause the emission of nitrous oxide (`N_2O`) to the atmosphere.
 
 {div.large-link} [Visualization N Cycle](http://www.ipni.net/ipniweb/portal.nsf/e0f085ed5f091b1b852579000057902e/80d63105b8462c3c85257b670057917f/$FILE/N%20Cycle.002.pdf/N%20Cycle.pdf)   
 
@@ -84,13 +85,13 @@ Watch the following video to know about fertilizers, types of fertilizers, their
 > duration: 50 min
 
 ::: .teaching-notes
-* Use the visualization and associated data set to explain the global warming potential of greenhouse gases, specifically of N20, relative to that of carbon dioxide
-* Discuss the possible impact of N2O emissions from fertilizers on climate.
+* Use the visualization and associated data set to explain the global warming potential of greenhouse gases, specifically of `N_2O`, relative to that of carbon dioxide.
+* Discuss the possible impact of `N_2O` emissions from fertilizers on climate.
 :::
 
-* Use the visualization and associated data set _Global warming potential of greenhouse gases over 100-year timescale_ to explore the global warming potential (GWP), over a 100-year time-scale, of one-unit masses of various GHGs, and specifically of N20, relative to that of carbon dioxide.
-* With a much higher GWP than carbon dioxide per unit mass, the possible impact of N2O emissions from fertilizers on climate is more potent than that of carbon dioxide.
-* Discuss why a small change in N2O emissions could have a significant impact on global warming.
+* Use the visualization and associated data set _Global warming potential of greenhouse gases over 100-year timescale_ to explore the global warming potential (GWP), over a 100-year time-scale, of one-unit masses of various GHGs, and specifically of `N_2O`, relative to that of carbon dioxide.
+* With a much higher GWP than carbon dioxide per unit mass, the possible impact of `N_2O` emissions from fertilizers on climate is more potent than that of carbon dioxide.
+* Discuss why a small change in `N_2O` emissions could have a significant impact on global warming.
 
 {div.large-link} [Global warming potential of greenhouse gases over 100-year timescale](https://ourworldindata.org/grapher/global-warming-potential-of-greenhouse-gases-over-100-year-timescale-gwp)
 
@@ -98,7 +99,7 @@ Watch the following video to know about fertilizers, types of fertilizers, their
 
 ---
 
-## Relationship between fertilzers, plant growth and N2O
+## Relationship between fertilzers, plant growth and `N_2O`
 > section: video
 > format: Video
 > duration: 5 min
@@ -107,7 +108,7 @@ Watch the following video to know about fertilizers, types of fertilizers, their
 * Play the video for an overview of the need to use fertilizers in agriculture and best management practices (BMPs) to mitigate the adverse effects of fertilizer use on global warming.
 :::
 
-Watch the following video that briefly explains how fertilizers affect plant growth and how a GHG N2O is released to the atmosphere due to soil bacterial action on N fertilizers. Best management practices (BMPs) to mitigate these adverse effects of fertilizer use are also introduced here.
+Watch the following video that briefly explains how fertilizers affect plant growth and how a GHG `N_2O` is released to the atmosphere due to soil bacterial action on N fertilizers. Best management practices (BMPs) to mitigate these adverse effects of fertilizer use are also introduced here.
 
     .video-wrap
       iframe(width="560" height="315" src="https://www.youtube.com/embed/eD2SeH8IZZw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen)
