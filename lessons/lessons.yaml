@@ -6,7 +6,7 @@
 
 co2-calculus:
   title: Calculus and CO2 Emissions
-  description: Learn to solve calculus  and tangent line problems using atmospheric CO2 data and the Greenhouse effect.
+  description: Learn to solve calculus and tangent line problems using atmospheric CO2 data and the Greenhouse effect.
   grade: High School, Undergraduate
   time: 120 min
   color: 2ea5cc
@@ -74,3 +74,9 @@ coriolis-force:
   time: 40-50 min
   color: 353a42
   
+plant-physiology:
+  title: Plant Physiology
+  description: Learn about Photosynthetic Pathways, C3, C4, and CAM Plants, Photorespiration, Stomatal Conductance, Photosynthetic Efficiency, Homoeostasis
+  grade: Undergraduate
+  time: 80 min
+  color: 5ba400
