@@ -1,4 +1,4 @@
-# Plannks Law and Blackbody Radiation
+# Planck's Law and Blackbody Radiation
 
 ## Overview
 > section: overview
