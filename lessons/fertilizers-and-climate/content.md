@@ -67,7 +67,7 @@ Watch the following video to know about fertilizers, types of fertilizers, their
 * Discuss the resultant emission of a GHG nitrous oxide (N20) by the application of nitrogen (N) fertilizers.
 :::
 
-* Explore the nitrogen cycle (with reference to agricultural practices) and supplement by using this simplified diagram “N Cycle”. 
+* Explore the nitrogen cycle (with reference to agricultural practices) and supplement by using this simplified diagram _N Cycle_. 
 * Microbes play an important role in natural nitrogen fixation in the soil. The process of nitrogen fixation in the soil can be carried out artificially through the usage of fertilizers.
 * The bacterial actions on N fertilizers added to the soil can cause the emission of nitrous oxide (N20) to the atmosphere.
 
@@ -88,7 +88,7 @@ Watch the following video to know about fertilizers, types of fertilizers, their
 * Discuss the possible impact of N2O emissions from fertilizers on climate.
 :::
 
-* Use the visualization and associated data set “Global warming potential of greenhouse gases over 100-year timescale” to explore the global warming potential (GWP), over a 100-year time-scale, of one-unit masses of various GHGs, and specifically of N20, relative to that of carbon dioxide.
+* Use the visualization and associated data set _Global warming potential of greenhouse gases over 100-year timescale_ to explore the global warming potential (GWP), over a 100-year time-scale, of one-unit masses of various GHGs, and specifically of N20, relative to that of carbon dioxide.
 * With a much higher GWP than carbon dioxide per unit mass, the possible impact of N2O emissions from fertilizers on climate is more potent than that of carbon dioxide.
 * Discuss why a small change in N2O emissions could have a significant impact on global warming.
 
@@ -104,7 +104,7 @@ Watch the following video to know about fertilizers, types of fertilizers, their
 > duration: 5 min
 
 ::: .teaching-notes
-* Play the video “  for an overview of the need to use fertilizers in agriculture and best management practices (BMPs) to mitigate the adverse effects of fertilizer use on global warming.
+* Play the video for an overview of the need to use fertilizers in agriculture and best management practices (BMPs) to mitigate the adverse effects of fertilizer use on global warming.
 :::
 
 Watch the following video that briefly explains how fertilizers affect plant growth and how a GHG N2O is released to the atmosphere due to soil bacterial action on N fertilizers. Best management practices (BMPs) to mitigate these adverse effects of fertilizer use are also introduced here.

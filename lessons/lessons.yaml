@@ -73,7 +73,7 @@ fertilizers-and-climate:
   description: Agriculture, Effects of the Use of Fertilizers on the Environment 
   grade: Undergraduate
   time: 30-50 min
-
+  color: 5ba400
   
 coriolis-force:
   title: Coriolis force
