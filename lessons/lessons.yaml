@@ -3,6 +3,13 @@
 # ==============================================================================
 
 
+introduction-climate-change:
+  title: Introduction to Climate Change
+  description: Special introductory lesson for teachers and all public with basic resources to understand the science and challenges of Climate Change.
+  grade: All public
+  time: 
+  color: d79277
+
 
 co2-calculus:
   title: Calculus and CO2 Emissions
@@ -87,4 +94,4 @@ plant-physiology:
   description: Learn about Photosynthetic Pathways, C3, C4, and CAM Plants, Photorespiration, Stomatal Conductance, Photosynthetic Efficiency, Homoeostasis
   grade: Undergraduate
   time: 80 min
-  color: 5ba400
+  color: 5ba400 

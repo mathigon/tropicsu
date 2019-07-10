@@ -33,8 +33,8 @@ The tools in this lesson plan will enable students to:
 > format: Reading
 > duration: 30–45 min
 
-[Polynomials](gloss:polynomial) are some of the simplest [functions](gloss:function)
-we use. We can compute [derivatives](gloss:derivative) of polynomials easily with
+Polynomials are some of the simplest functions
+we use. We can compute derivatives of polynomials easily with
 some basic rules. Besides, many relations in the real world can be modeled as
 polynomial functions.
 
