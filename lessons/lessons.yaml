@@ -94,4 +94,11 @@ plant-physiology:
   description: Learn about Photosynthetic Pathways, C3, C4, and CAM Plants, Photorespiration, Stomatal Conductance, Photosynthetic Efficiency, Homoeostasis
   grade: Undergraduate
   time: 80 min
-  color: 5ba400 
+  color: 186e2c 
+ 
+climate-refugee:
+  title: Climate Refugee
+  description: Learn about Climate Change and Human Migration, Climate Justice, Social and Environmental Policy 
+  grade: High School, Undergraduate 
+  time: 120 min
+  color: 5c451e

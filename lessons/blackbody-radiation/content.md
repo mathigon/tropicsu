@@ -43,13 +43,21 @@ Such an ideal object absorbs and thus emits radiation of all frequencies equally
 A radiator/absorber of this kind is called a blackbody, and its radiation spectrum is referred to as blackbody radiation, which depends on only one parameter, its temperature. 
 Scientists devise and study such ideal objects because their properties can be known exactly. This information can then be used to determine and understand why real objects, such as a piece of iron or glass, a cloud, or a star, behave differently.
 
+::: column.grow
 Planck’s radiation law, a mathematical relationship formulated in 1900 by German physicist Max Planck to explain the spectral-energy distribution of radiation emitted by a blackbody (a hypothetical body that completely absorbs all radiant energy falling upon it, reaches some equilibrium temperature, and then reemits that energy as quickly as it absorbs it). 
+
 Planck assumed that the sources of radiation are atoms in a state of oscillation and that the vibrational energy of each oscillator may have any of a series of discrete values but never any value between. Planck further assumed that when an oscillator changes from a state of energy E1 to a state of lower energy E2, the discrete amount of energy E1 − E2, or quantum of radiation, is equal to the product of the frequency of the radiation, symbolized by the Greek letter ν and a constant h, now called Planck’s constant, that he determined from blackbody radiation data; i.e., E1 − E2 = hν. 
+::: column(width=240)
+
+    x-media.shift-1(src="images/Max_Planck_1933.jpg" width=240 height=160 credit="Wikipedia")
+
+{.caption} Max Planck
+:::
 
 {div.credit}
 [Electromagnetic Radiation](https://www.britannica.com/science/electromagnetic-radiation/Continuous-spectra-of-electromagnetic-radiation#ref156670), from Britannica Encyclopedia, 
 [Planck's Law](https://www.britannica.com/science/Plancks-radiation-law) from Britannica Encyclopedia, 
-[Image](http://www.simplyinfo.net/article.php?title=physics-black-body-radiation) www.simplyinfo.net
+[Images](http://www.simplyinfo.net/article.php?title=physics-black-body-radiation) www.simplyinfo.net, Wikipedia
 
 ---
 
