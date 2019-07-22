@@ -26,7 +26,7 @@ The tools in this lesson plan will enable students to:
 ---
 
 ## What is the Capitalism?
-> section: reading
+> section: reading1
 > format: Reading
 > duration: 40 min
 
@@ -78,7 +78,7 @@ Video 'The Story of Stuff'
 
 ## Capitalism and Climate Change
 
-> section: reading
+> section: reading2
 > format: Reading
 > duration: 20 min
 
