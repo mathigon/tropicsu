@@ -29,6 +29,7 @@ This "teacher-friendly" guide is aimed primarily to high school Earth science te
 {div.large-link} [The teacher friendly guide to Climate Change](https://www.priweb.org/downloads/pubs/TFG-ClimateChange-Complete.pdf)
 
 {div.credit} Ingrid H. H. Zabel, Don Duggan-Haas, & Robert M. Ross (Eds). [The teacher friendly guide to Climate Change](http://teacherfriendlyguide.org), from the Paleontological Research Institution, 2017.
+
 ---
 
 ## Evidence of Climate Change
@@ -36,8 +37,11 @@ This "teacher-friendly" guide is aimed primarily to high school Earth science te
 > format: Video
 
 This video series present the scientific evidences that the Climate Change is taking place.
+    
     .video-wrap
       iframe(width="560" height="315" src="https://www.youtube.com/embed/qEPVyrSWfQE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen)
+      
+See the complete video series:
 
 {div.large-link} [Climate Change, Lines of Evidence](https://www.youtube.com/watch?v=qEPVyrSWfQE&list=PL38EB9C0BC54A9EE2)
 
