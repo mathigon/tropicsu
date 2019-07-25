@@ -1,0 +1,40 @@
+extends ../_template
+
+mixin course(course)
+  a.lesson-plan(href="/lesson/" + course.id + '/overview' style="background: #" + course.color)
+    .lesson-plan-img(style="background-image: url(/resources/" + course.id + "/hero.jpg)")
+    h2= course.title
+    p= course.description
+    p #{course.grade} &nbsp;•&nbsp; #{course.time}
+
+block vars
+  - var title = "TROP ICSU Climate Change Curriculum"
+
+block body
+  .hero
+    .hero-img(style="background-image: url(/images/hero.jpg)")
+    .hero-shadow
+    .container: .hero-title
+      h1
+        +icon('progress', 58)
+        | Survey
+
+  .container
+
+    p TROP-ICSU, Trans-disciplinary Research Oriented Pedagogy for Improving Climate Studies and Understanding
+
+    p Hello! We are team members of the TROP-ICSU project (https://tropicsu.org/), a global project funded by the International Council of Science (ICSU).
+
+    p The project aims to integrate climate studies with the core curriculum in Science, Mathematics and other disciplines. To achieve this objective, we are creating free-to-download teaching toolkits for educators in various disciplines at the high school and undergraduate levels.
+
+    p These toolkits will introduce a topic in the core curriculum with the help of examples and case studies in climate change, with the objective of increasing climate awareness. Each teaching toolkit will consist of a curated collection of digital pedagogical tools such as video lectures, interactive simulators, models, visualizations, classroom and laboratory activities, and learning exercises. Each toolkit will include a step-by-step guide for usage and will include the option of creating customized toolkits.
+
+    p In this context, we are conducting a survey of school and undergraduate teachers (educators) to understand how topics related to climate change are currently discussed in the classroom in different parts of the world. We would also like to seek your inputs to identify challenges and opportunities in integrating climate studies with the core curriculum. Your responses will help us to enhance the effectiveness and usefulness of the teaching toolkits for educators across the world.
+
+    p This survey will also give you an option to sign up for our project updates, gain access to a variety of teaching tools and build customized teaching toolkits on our web portal.
+
+    a.btn.btn-large.btn-blue(href="https://docs.google.com/forms/d/e/1FAIpQLScPGEZj73msQg8Y-rUXjThSBKmBqPrEOZM2CpYAPRpbeTQvQA/viewform?hl=en") Go to survey
+
+
+
+  +footer()

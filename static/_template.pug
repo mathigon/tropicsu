@@ -40,14 +40,14 @@ html
       a#logo(href="/")
         include ../assets/images/logo.svg
         nav
-          .nav-item: a.nav-link(href="/lessons")
-            +icon('library', 28)
-            span.nav-text Lesson Plans
           .nav-item: a.nav-link(href="/tools")
             +icon('teacher', 28)
             span.nav-text Teaching Tools
-          .nav-item: a.nav-link(href="/links")
-            +icon('glossary', 24, 28)
-            span.nav-text Resources
+          .nav-item: a.nav-link(href="/lessons")
+            +icon('library', 28)
+            span.nav-text Lesson Plans  
+          // .nav-item: a.nav-link(href="/links")
+          //   +icon('glossary', 24, 28)
+          //   span.nav-text Resources
 
     block body

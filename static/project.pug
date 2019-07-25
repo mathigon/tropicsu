@@ -1,0 +1,64 @@
+extends ./_template
+
+mixin course(course)
+  a.lesson-plan(href="/lesson/" + course.id + '/overview' style="background: #" + course.color)
+    .lesson-plan-img(style="background-image: url(/resources/" + course.id + "/hero.jpg)")
+    h2= course.title
+    p= course.description
+    p #{course.grade} &nbsp;•&nbsp; #{course.time}
+
+block vars
+  - var title = "TROP ICSU Climate Change Curriculum"
+
+block body
+  .hero
+    .hero-img(style="background-image: url(/images/hero.jpg)")
+    .hero-shadow
+    .container: .hero-title
+      h1
+        +icon('star', 58)
+        | Project
+
+  .container
+
+    h2 Vision
+    .row.padded-thin
+        div(style="width: 300px")
+          img(src="/images/home-1.jpg" width=300 height=180)
+        .grow(style="width: 250px")
+          p We aim to integrate relevant education and science communication modules in the education system to help future citizens across the globe in improving their understanding of the science of climate change and in developing necessary skills to mitigate its impact.
+
+    h2 Project
+    .row.padded-thin
+        .grow(style="width: 250px")
+          p TROP ICSU (“Trans-disciplinary Research Oriented Pedagogy for Improving Climate Studies and Understanding”) is a global project funded by the International Council of Science. The project is led by International Union of Biological Sciences (IUBS) and co-led by International Union For Quaternary Research (INQUA).
+        div(style="width: 300px")
+          img(src="/images/home-2.jpg" width=300 height=180)
+    
+    h2 Strategy
+    .row.padded-thin
+        div(style="width: 300px")
+          img(src="/images/home-3.jpg" width=300 height=180)
+        .grow(style="width: 250px")
+          p We collate and curate digital/ICT-based teaching resources that integrate climate studies across the curriculum of Science, Mathematics, Social Sciences and Humanities. These teaching resources are locally rooted in their context, but globally relevant for their science.
+
+    h2 Sustainable Development Goals
+    .row.padded-thin
+        .grow(style="width: 250px")
+          p Our project directly aligns with #[a(href="https://www.un.org/development/desa/disabilities/envision2030.html" target="_blank") UN Sustainable Development Goals] (SDGs) 4 and 13.
+        div(style="width: 300px")
+          img(src="/images/home-5.jpg" width=300 height=180)    
+
+    h2 Methodology
+    .row.padded-thin
+        div(style="width: 300px")
+          img(src="/images/home-9.jpg" width=300 height=180)
+        .grow(style="width: 250px")
+          p TROP ICSU meticulously follows a methodology adopted along with various steps taken to review and validate the educational resources collated under this project.      
+
+
+
+
+
+
+  +footer()
