@@ -3,6 +3,8 @@
 // =============================================================================
 
 
+import '../shared/shared';
+
 export function reading($step) {
   const $charts = $step.$$('x-coordinate-system');
   $charts[0].setFunctions(x => x*x*x/3 + x*x - 2*x - 3);

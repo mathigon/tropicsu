@@ -105,14 +105,7 @@ footer.tropicsu-footer {
   opacity: 0.6;
 }
 
-.sidebar-footer {
-  display: block;
-  text-align: center;
-  padding: 8px 0;
-  font-size: 14px;
-  color: fade(white, 60%);
-  a { color: white; text-decoration: underline; }
-}
+.sidebar-footer a { display: block; fill: white; }
 
 .objectives {
   background: mix(@yellow, white);
@@ -170,6 +163,7 @@ x-tutor { display: none; }
 }
 
 .teaching-notes {
+  display: none;
   background: mix(@red, white, 30%);
   border-left: 6px solid @red;
   border-radius: 2px 4px 4px 2px;
@@ -179,6 +173,7 @@ x-tutor { display: none; }
   &:before { content: 'Teaching Notes'; color: @red; font-weight: 600; }
   > *:first-child { margin-top: 0; }
   > *:last-child { margin-bottom: 0; }
+  .show-teaching-notes & { display: block; }
 }
 
 
