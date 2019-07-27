@@ -247,7 +247,7 @@ grunt.initConfig({
       tasks: ['rollup']
     },
     lessons: {
-      files: ['content/*/*.md', 'content/*/*.yaml'],
+      files: ['lessons/*/*.md', 'lessons/*/*.yaml'],
       tasks: ['textbooks', 'tropicsuLessons']
     },
     tools: {
@@ -255,7 +255,7 @@ grunt.initConfig({
       tasks: ['tropicsuTools']
     },
     html: {
-      files: ['static/*.pug'],
+      files: ['static/**/*.pug'],
       tasks: ['pug']
     }
   },
