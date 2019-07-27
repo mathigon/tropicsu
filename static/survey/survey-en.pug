@@ -1,23 +1,10 @@
 extends ../_template
 
-mixin course(course)
-  a.lesson-plan(href="/lesson/" + course.id + '/overview' style="background: #" + course.color)
-    .lesson-plan-img(style="background-image: url(/resources/" + course.id + "/hero.jpg)")
-    h2= course.title
-    p= course.description
-    p #{course.grade} &nbsp;•&nbsp; #{course.time}
-
 block vars
-  - var title = "TROP ICSU Climate Change Curriculum"
+  - var title = "TROP ICSU – Survey"
 
 block body
-  .hero
-    .hero-img(style="background-image: url(/images/hero.jpg)")
-    .hero-shadow
-    .container: .hero-title
-      h1
-        +icon('progress', 58)
-        | Survey
+  +hero('Survey', 'progress')
 
   .container
 
@@ -34,7 +21,5 @@ block body
     p This survey will also give you an option to sign up for our project updates, gain access to a variety of teaching tools and build customized teaching toolkits on our web portal.
 
     a.btn.btn-large.btn-blue(href="https://docs.google.com/forms/d/e/1FAIpQLScPGEZj73msQg8Y-rUXjThSBKmBqPrEOZM2CpYAPRpbeTQvQA/viewform?hl=en") Go to survey
-
-
 
   +footer()

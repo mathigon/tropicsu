@@ -1,24 +1,10 @@
 extends ./_template
 
-mixin course(course)
-  a.lesson-plan(href="/course/" + course.id style="background: #" + course.color)
-    .lesson-plan-img(style="background-image: url(/resources/" + course.id + "/hero.jpg)")
-    h2= course.title
-    p= course.description
-    p #{course.grade} &nbsp;•&nbsp; #{course.time}
-
 block vars
-  - var title = "TROP ICSU Teaching Tools"
+  - var title = "TROP ICSU – Teaching Tools"
 
 block body
-  .hero
-    .hero-img(style="background-image: url(/images/hero.jpg)")
-    .hero-shadow
-    .container: .hero-title
-      h1
-        +icon('teacher', 48)
-        | Teaching Tools
-
+  +hero('Teaching Tools', 'teacher')
   .container
     .row(style="align-items: flex-start")
       .filters
@@ -42,4 +28,4 @@ block body
 
   +footer()
   script(src='/polyfill.min.js')
-  script(src="/tropicsu.js")
+  script(src="/tropicsu.js?v=2")

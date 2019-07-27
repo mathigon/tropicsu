@@ -1,12 +1,5 @@
 extends ./_template
 
-mixin course(course)
-  a.lesson-plan(href="/lesson/" + course.id + '/overview' style="background: #" + course.color)
-    .lesson-plan-img(style="background-image: url(/resources/" + course.id + "/hero.jpg)")
-    h2= course.title
-    p= course.description
-    p #{course.grade} &nbsp;•&nbsp; #{course.time}
-
 block vars
   - var title = "TROP ICSU Climate Change Curriculum"
 
@@ -25,7 +18,7 @@ block body
         .grow(style="width: 250px")
           p #[strong Climate change] is considered to be the most critical factor affecting sustainable and equitable development, increasing conflicts, and causing massive extinction of species. Its impact is inseparable from our day-to-day life, now and in future, so is both a problem to be addressed by action policies, and a problem that requires education and that can be adopted for more effective teaching.
 
-          p The quality of life of future generations is largely dependent on the quality of education that we impart to today’s students. 
+          p The quality of life of future generations is largely dependent on the quality of education that we impart to today’s students.
           //Educational methods are more effective when students are challenged to identify the cause and effect of a problem that they can relate to their life.
 
     p The #[strong TROP ICSU project] collects and curates educational resources for teachers and self-learners to learn about Climate Change. The goal is not to introduce Climate Education as a stand-alone topic, but to integrate it with the core curriculum of Science, Mathematics, and Social Sciences.
@@ -34,14 +27,12 @@ block body
       // div.text-center(style="font-size: 24px; margin-bottom: 24px") The goal is not to introduce Climate Education as a stand-alone topic, but to integrate it with the core curriculum of Science, Mathematics, and Social Sciences.
       //.btn-row.text-center
       .row.padded-thin.text-center
-        .grow(style="width: 300px") 
+        .grow(style="width: 300px")
           a.btn.btn-large.btn-blue(href="/tools") Teaching Tools
           p Individual resources from researchers and educators, that can be used to teach a topic in the core curriculum of a particular discipline with the help of a climate-related example.
-        .grow(style="width: 300px") 
+        .grow(style="width: 300px")
           a.btn.btn-large.btn-blue(href="/lessons") Lesson Plans
           p Each Lesson Plan consists of a set of teaching tools and a write-up, packaged in the form of a step-by-step guide for the classroom.
-        
-
 
     .row.padded.home-grid
       // .grow(style="width: 300px")
@@ -88,6 +79,6 @@ block body
         a(href="links")
           img(src="/images/books.jpg" width=300 height=180)
           h2 Resources
-          p Reliable and high quality resources from UN agencies and other organizations.  
+          p Reliable and high quality resources from UN agencies and other organizations.
 
   +footer()

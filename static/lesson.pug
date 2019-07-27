@@ -34,7 +34,19 @@ block body
             else
               a.sidebar-row(href=`/lesson/${course.id}/${s.id}`)
                 +sidebarRow(s)
-        .sidebar-footer Hosted by #[a(href="https://mathigon.org" target="_blank") Mathigon]
+        .sidebar-footer
+          .footer-link(data-modal="share")
+            +icon('share', 24)
+            .label Share
+          .footer-link.toggle-teacher-notes
+            +icon('lock', 24)
+            .label Toggle Teacher Notes
+          a.footer-link(href="/contact")
+            +icon('feedback', 24)
+            .label Send Feedback
+          a.footer-link(href="https://mathigon.org" target="_blank")
+            +icon('settings', 24)
+            .label Powered by Mathigon
 
       .sidebar-shadow
       .sidebar-toggle: +icon('progress', 24)
@@ -49,6 +61,17 @@ block body
 
       x-tutor
 
+      x-modal#share
+        .close: +icon('close', 24)
+        h2 #[+icon('share', 32)] Share
+        .share-row
+          - var shareUrl = 'https://climatescienceteaching.org/lesson/' + course.id;
+          - var shareTitle = 'TROP ICSU Climate Science Teaching'
+          a.btn.facebook(title="Facebook" href=`https://www.facebook.com/dialog/share?display=page&href=${shareUrl}` target="_blank"): +icon('facebook', 36)
+          a.btn.twitter(title="Twitter" href=`https://twitter.com/intent/tweet?url=${shareUrl}&text=${shareTitle}` target="_blank"): +icon('twitter', 36)
+          a.btn.reddit(title="Reddit" href=`https://reddit.com/submit?url=${shareUrl}&title=${shareTitle}` target="_blank"): +icon('reddit', 36)
+          a.btn.tumblr(title="Tumblr" href=`https://www.tumblr.com/widgets/share/tool?canonicalUrl=${shareUrl}&title=${shareTitle}` target="_blank"): +icon('tumblr', 36)
+
       script(type="application/json")#glossary!= course.glossary
       script(type="application/json")#bios!= course.bios
       script(type="application/json")#hints!= course.hints
@@ -60,5 +83,5 @@ block body
 
   script user = null;
   script(src='/polyfill.min.js')
-  script(src='/resources/' + course.id + '/functions.js')
+  script(src='/resources/' + course.id + '/functions.js?v=2')
   script(src='/course.min.js')

@@ -1,27 +1,18 @@
 extends ./_template
 
-mixin course(course)
-  a.lesson-plan(href="/lesson/" + course.id + '/overview' style="background: #" + course.color)
-    .lesson-plan-img(style="background-image: url(/resources/" + course.id + "/hero.jpg)")
-    h2= course.title
-    p= course.description
-    p #{course.grade} &nbsp;•&nbsp; #{course.time}
-
 block vars
-  - var title = "TROP ICSU Climate Change Curriculum"
+  - var title = "TROP ICSU – Lesson Plans"
 
 block body
-  .hero
-    .hero-img(style="background-image: url(/images/hero.jpg)")
-    .hero-shadow
-    .container: .hero-title
-      h1
-        +icon('library', 64)
-        | Lesson Plans
+  +hero('Lesson Plans', 'library')
 
   .container
     .row
-      for c in courses
-        +course(c)
+      for course in courses
+        a.lesson-plan(href="/lesson/" + course.id + '/overview' style="background: #" + course.color)
+          .lesson-plan-img(style="background-image: url(/resources/" + course.id + "/hero.jpg)")
+          h2= course.title
+          p= course.description
+          p #{course.grade} &nbsp;•&nbsp; #{course.time}
 
   +footer()

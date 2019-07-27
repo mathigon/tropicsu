@@ -1,37 +1,21 @@
 extends ./_template
 
-mixin course(course)
-  a.lesson-plan(href="/lesson/" + course.id + '/overview' style="background: #" + course.color)
-    .lesson-plan-img(style="background-image: url(/resources/" + course.id + "/hero.jpg)")
-    h2= course.title
-    p= course.description
-    p #{course.grade} &nbsp;•&nbsp; #{course.time}
-
 block vars
-  - var title = "TROP ICSU Climate Change Curriculum"
+  - var title = "TROP ICSU – For Teachers"
 
 block body
-  .hero
-    .hero-img(style="background-image: url(/images/hero.jpg)")
-    .hero-shadow
-    .container: .hero-title
-      h1
-        +icon('teacher', 58)
-        | For Teachers and Educators
+  +hero('For Teachers and Educators', 'teacher')
 
   .container
-
-    p Dear teachers,
-
     p These resources are by teachers and for teachers. The project is a proof of concept, it showcases a way of integrating climate change education with the core curriculum. You may have your own creative ways of achieving the same objective, please do share your ideas on this platform for the benefit of other teachers across the world. We are aware that not all lesson plans provided here may be suitable for use across the globe, but we sincerely hope that our efforts here will provide you with ideas to develop your own Lesson Plans. Your feedback after using these resources will greatly help us in further improving the educational resources for climate change education.
 
     h2 Workshops
-      
+
     p The TROP ICSU team aims to introduce the collection of digital teaching resources on the project website to teachers of various disciplines or subjects (Science, Mathematics, Social Sciences, and Humanities) through workshops organized in different countries. These workshops are being planned and organized with valuable support from our partners and collaborators.
 
     p The map shows the past TROP ICSU workshops:
 
-    <iframe src="https://www.google.com/maps/d/embed?mid=1K5FNuitAPiaPMFs8Hiqj9KIlY--aeaR8&hl=en" width="640" height="480"></iframe>
+    iframe(src="https://www.google.com/maps/d/embed?mid=1K5FNuitAPiaPMFs8Hiqj9KIlY--aeaR8&hl=en" width=640 height=480 style="border: 0; width: 100%")
 
     h2 Survey
 
@@ -42,9 +26,5 @@ block body
     ul
       li: a(href="survey/survey-en") English
       li: a(href="survey/survey-hi") हिन्दी (Hindi)
-
-
-
-
 
   +footer()

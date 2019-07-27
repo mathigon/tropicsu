@@ -1,23 +1,10 @@
 extends ../_template
 
-mixin course(course)
-  a.lesson-plan(href="/lesson/" + course.id + '/overview' style="background: #" + course.color)
-    .lesson-plan-img(style="background-image: url(/resources/" + course.id + "/hero.jpg)")
-    h2= course.title
-    p= course.description
-    p #{course.grade} &nbsp;•&nbsp; #{course.time}
-
 block vars
-  - var title = "TROP ICSU Climate Change Curriculum"
+  - var title = "TROP ICSU – Survey"
 
 block body
-  .hero
-    .hero-img(style="background-image: url(/images/hero.jpg)")
-    .hero-shadow
-    .container: .hero-title
-      h1
-        +icon('progress', 58)
-        | Survey
+  +hero('Survey', 'progress')
 
   .container
 
@@ -35,7 +22,6 @@ block body
 
     p यह सर्वेक्षण आपको हमारे परियोजना अद्यतन, विभिन्‍न शिक्षण टूल्‍स तक पहुँच प्राप्‍त करने, और हमारे वेब पोर्टल पर अनुकूलित शिक्षण टूलकिट बनाने के लिए साइन अप करने का विकल्‍प प्रदान करेगा।
 
-    a.btn.btn-large.btn-blue(href="https://docs.google.com/forms/d/e/1FAIpQLSfymbVnvLWAAqA-v3rQo65pYNBErxgxhnDBWftCSVaXPJX1JA/viewform?hl=hi") सर्वेक्षण 
-
+    a.btn.btn-large.btn-blue(href="https://docs.google.com/forms/d/e/1FAIpQLSfymbVnvLWAAqA-v3rQo65pYNBErxgxhnDBWftCSVaXPJX1JA/viewform?hl=hi") सर्वेक्षण
 
   +footer()

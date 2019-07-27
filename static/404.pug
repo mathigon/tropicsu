@@ -1,16 +1,10 @@
 extends ./_template
 
 block vars
-  - var title = "TROP ICSU Climate Change Curriculum"
+  - var title = "TROP ICSU – 404 Error"
 
 block body
-  .hero
-    .hero-img(style="background-image: url(/images/hero.jpg)")
-    .hero-shadow
-    .container: .hero-title
-      h1 404 ERROR
-
+  +hero('404 ERROR')
   .container
     p This page does not exist.
-
   +footer()

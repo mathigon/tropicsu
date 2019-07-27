@@ -1,28 +1,12 @@
 extends ./_template
 
-mixin course(course)
-  a.lesson-plan(href="/lesson/" + course.id + '/overview' style="background: #" + course.color)
-    .lesson-plan-img(style="background-image: url(/resources/" + course.id + "/hero.jpg)")
-    h2= course.title
-    p= course.description
-    p #{course.grade} &nbsp;•&nbsp; #{course.time}
-
 block vars
-  - var title = "TROP ICSU Climate Change Curriculum"
+  - var title = "TROP ICSU – Links"
 
 block body
-  .hero
-    .hero-img(style="background-image: url(/images/hero.jpg)")
-    .hero-shadow
-    .container: .hero-title
-      h1
-        +icon('glossary', 58)
-        | Resources
-
+  +hero('Resources', 'glossary')
   .container.narrow
-
     h2 UN Resources
-
     ul
       li: a(href="https://www.wcrp-climate.org/" target="_blank") World Climate Research Program (WCRP)
       li: a(href="https://public.wmo.int/en" target="_blank") World Meteorological Organization (WMO)
@@ -35,7 +19,6 @@ block body
       li: a(href="http://www.yess-community.org/" target="_blank") Young Earth System Scientists Community (YESS)
 
     h2 Third Party Resources
-
     ul
       li: a(href="https://acespace.org/" target="_blank") Alliance for Climate Education ACE
       li: a(href="https://www.acs.org/content/acs/en/climatescience.html" target="_blank") American Chemical Society ACS Climate Science Toolkit

@@ -23,6 +23,15 @@ mixin footer()
       p Powered by #[a(target="https://mathigon.org") Mathigon]
       p © TROP ICSU
 
+mixin hero(title, iconName)
+  .hero
+    .hero-img(style="background-image: url(/images/hero.jpg)")
+    .hero-shadow
+    .container: .hero-title
+      h1
+        if iconName
+          +icon(iconName, 48)
+        | #{title}
 
 doctype html
 html
@@ -32,7 +41,7 @@ html
     meta(name="viewport", content="width=device-width, initial-scale=1, user-scalable=no")
     link(href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,300,400italic', rel='stylesheet', type='text/css')
     link(href='/course.css', rel='stylesheet')
-    link(href='/tropicsu.css?v=2', rel='stylesheet')
+    link(href='/tropicsu.css?v=3', rel='stylesheet')
     block head
 
   body
@@ -45,7 +54,7 @@ html
             span.nav-text Teaching Tools
           .nav-item: a.nav-link(href="/lessons")
             +icon('library', 28)
-            span.nav-text Lesson Plans  
+            span.nav-text Lesson Plans
           // .nav-item: a.nav-link(href="/links")
           //   +icon('glossary', 24, 28)
           //   span.nav-text Resources
