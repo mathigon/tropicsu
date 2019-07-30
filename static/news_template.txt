@@ -1,0 +1,12 @@
+		h3 Title
+		h4 Date
+		.row.padded
+			div(style="width: 250px")
+				img(src="/images/news/IMG1.jpg" width=300 height=180)
+			.grow(style="width: 350px")
+				p Text
+		p More text
+		.row.padded
+			img(src="/images/news/IMG2.jpg" width=200 height=180)
+			img(src="/images/news/IMG3.jpg" width=200 height=180)
+		hr
