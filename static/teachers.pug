@@ -4,10 +4,16 @@ block vars
   - var title = "TROP ICSU – For Teachers"
 
 block body
-  +hero('For Teachers and Educators', 'teacher')
+  +hero('For Teachers and Educators')
 
   .container
-    p These resources are by teachers and for teachers. The project is a proof of concept, it showcases a way of integrating climate change education with the core curriculum. You may have your own creative ways of achieving the same objective, please do share your ideas on this platform for the benefit of other teachers across the world. We are aware that not all lesson plans provided here may be suitable for use across the globe, but we sincerely hope that our efforts here will provide you with ideas to develop your own Lesson Plans. Your feedback after using these resources will greatly help us in further improving the educational resources for climate change education.
+    .row.padded
+      div(style="width: 300px")
+        img(src="/images/home-7.jpg" width=300 height=180)
+      .grow(style="width: 250px")
+        h3 These resources are by teachers and for teachers. 
+        p The project is a proof of concept, it showcases a way of integrating climate change education with the core curriculum. You may have your own creative ways of achieving the same objective, please do #[a(href="contact") share your ideas] on this platform for the benefit of other teachers across the world. 
+    p We are aware that not all lesson plans provided here may be suitable for use across the globe, but we sincerely hope that our efforts here will provide you with ideas to develop your own Lesson Plans. Your feedback after using these resources will greatly help us in further improving the educational resources for climate change education.
 
     h2 Workshops
 
@@ -23,8 +29,20 @@ block body
 
     p This short survey would take approximately 8-10 minutes to complete, and all responses will be treated as confidential and will be used only for our research purposes in the project. The survey is currently available in several languages, please choose your preferred language from the list below:
 
-    ul
-      li: a(href="survey/survey-en") English
-      li: a(href="survey/survey-hi") हिन्दी (Hindi)
+    ul.row.padded
+      a(href="survey/survey-en") English
+      a(href="survey/survey-hi") हिन्दी (Hindi)
+      a(href="survey/survey-zh") 中文 (Chinese)
+      a(href="survey/survey-es") Español (Spanish)
+      a(href="survey/survey-fr") Français (French) 
+      a(href="survey/survey-de") Deutsch (German)
+      a(href="survey/survey-it") Italiano (Italian)
+      a(href="survey/survey-ja") 日本語 (Japanese)
+      a(href="survey/survey-pt") Português (Portuguese)
+      a(href="survey/survey-ca") Català (Catalan)
+
 
   +footer()
+
+
+
