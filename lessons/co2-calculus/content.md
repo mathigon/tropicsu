@@ -135,7 +135,7 @@ from the data.
 
 Solve exercises 1-6 on this sheet:
 
-{div.large-link} [Exercises](/resources/co2-calculus/downloads/Mauna-Loa-CO2.docx)
+{div.large-link} [Exercises](http://sustainabilitymath.org/word/Mauna-Loa-CO2.docx)
 
 <!-- * You will need this data: [Excel file](http://sustainabilitymath.org/excel/Mauna-Loa-CO2.xlsx) -->
 
