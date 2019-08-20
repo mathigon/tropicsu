@@ -105,7 +105,14 @@ climate-refugee:
 
 capitalism:
   title: Capitalism and Climate Change
-  description: Learn about Capitalism, Consumerism, Materials Economy and its effect on climate Change
+  description: Learn about Capitalism, Consumerism, Materials Economy and its effect on climate change
   grade: High School, Undergraduate 
   time: 90 min
   color: 5c451e
+
+carbon-pricing:
+  title: Carbon Pricing, Shadow and Market Prices
+  description: Learn about market prices and shadow prices,carbon pricing,costs of greenhouse gases
+  grade: Undergraduate 
+  time: 90-100 min
+  color: b38332
