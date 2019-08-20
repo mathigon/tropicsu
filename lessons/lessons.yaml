@@ -116,3 +116,10 @@ carbon-pricing:
   grade: Undergraduate 
   time: 90-100 min
   color: b38332
+
+abiotic-stress:
+  title: Abiotic Stress on Plants due to climate change
+  description: Learn about plant physiology, abiotic stress in plants
+  grade: High school, Undergraduate 
+  time: 40-150 min
+  color: 186e2c
