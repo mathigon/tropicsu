@@ -123,3 +123,10 @@ abiotic-stress:
   grade: High school, Undergraduate 
   time: 40-150 min
   color: 186e2c
+
+permafrost:
+  title: Permafrost and Climate Change
+  description: permafrost and its thawing due to rising global temperatures
+  grade: High School, Undergraduate
+  time: 50-60 min
+  color: 2ea5cc
