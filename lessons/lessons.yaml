@@ -130,3 +130,10 @@ permafrost:
   grade: High School, Undergraduate
   time: 50-60 min
   color: 2ea5cc
+
+natural-selection:
+  title: Natural Selection
+  description: Learn about  natural selection, its role in evolution and climate change as a selective pressure in natural selection
+  grade: High School, Undergraduate
+  time: 40-60 min
+  color: 5ba400
