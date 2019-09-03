@@ -136,4 +136,11 @@ natural-selection:
   description: Learn about  natural selection, its role in evolution and climate change as a selective pressure in natural selection
   grade: High School, Undergraduate
   time: 40-60 min
+  color: 353a42
+
+photosynthesis:
+  title: Impact of Climate Change on Photosynthesis
+  description: Learn about photosynthesis, influencing factors, C3-C4 plants, CAM Plants, Calvin Cycle
+  grade: High School, Undergraduate
+  time: 100-120 min
   color: 5ba400
