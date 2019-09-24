@@ -55,12 +55,12 @@ Watch this short video about microbes.
 
 ::: .teaching-notes
 * Play the animation/video (approx. 3 min) 'Food Pathogens and Temperature' to illustrate how microbial growth depends on various environmental factors. 
-* Use the graphs in the animation to explain the effect of changing temperature on microbial growth. 
-* Proceed to explain how global warming may affect microbial growth and establish a relationship between the environment and microbes.
+* Use the graphs in the animation to explain the effect of changing temperature on microbial growth.  
 :::
 
 * Watch this animation/video that describes the environmental factors required for microbial growth and explains the effects of changing environmental conditions on microbial growth by using temperature as an example.
 * Solve the short quiz provided with the animation.
+* Explore how global warming may affect microbial growth and establish a relationship between the environment and microbes.
 
 {div.large-link} [Food Pathegenes and Teperature](http://highered.mheducation.com/sites/0072501855/student_view0/chapter16/animation_quiz_1.html)   
 
@@ -74,11 +74,12 @@ Watch this short video about microbes.
 > duration: 50 min
 
 ::: .teaching-notes
-* Use the handout in the reading Microbes and Climate Change to explain the crucial role of microbes in the environment.
-* Discuss the role of microbes in gas cycling, the consumption and production of greenhouse gases by microbes, and the resulting effects on climate.
+Use the handout in the reading Microbes and Climate Change to explain the crucial role of microbes in the environment.
+
 :::
 
-This reading discusses the role of microbes in ecological systems and their role in the biogeochemical cycling of elements such as carbon and nitrogen.
+* This reading discusses the role of microbes in ecological systems and their role in the biogeochemical cycling of elements such as carbon and nitrogen.
+* Discuss the role of microbes in gas cycling, the consumption and production of greenhouse gases by microbes, and the resulting effects on climate.
 
 {div.large-link} [Microbes and Climate Change Handout](https://microbiologysociety.org/uploads/assets/uploaded/f4c5c7a3-3386-427b-a5cafc7d2102806c.pdf) 
 
@@ -96,7 +97,7 @@ This reading discusses the role of microbes in ecological systems and their role
 * They will then present their findings.
 :::
 
-Resources to identify the relationship between a specific marine microbe and the climate system
+Use this resource to identify the relationship between a specific marine microbe and the climate system. Note and disucss your findings.
 
 {div.large-link} [Microbes and Climate Activity](https://www.mbari.org/wp-content/uploads/2016/01/Microbe-climate_student.pdf) 
 

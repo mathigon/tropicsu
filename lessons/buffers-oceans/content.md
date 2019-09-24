@@ -83,6 +83,10 @@ Further, use the video micro-lecture to illustrate Le Chatelier’s Principle—
 :::
 
 Watch this micro-lecture about how oceans absorb atmospheric `CO_2` and the increase of acidity of sea water.
+understand how high levels of atmospheric `CO_2` could result in an excess of free hydrogen (H+) ions, thus potentially changing the pH values of seawater (acidification).
+Further, get information about Le Chatelier’s Principle—explain how increased `CO_2` concentration in seawater sequesters more carbonate (`CO_3^{2-}`) ions to keep the system in equilibrium. 
+Investigate how ocean biota may be affected in the absence of freely available carbonate (`CO_3^{2-}`) ions.
+
 
     .video-wrap
       iframe(width="560" height="315" src="http://www.kaltura.com/p/1090132/sp/109013200/embedIframeJs/uiconf_id/20652192/partner_id/1090132?iframeembed=true&playerId=1_16ghjcjg&entry_id=1_16ghjcjg" allowfullscreen webkitallowfullscreen mozAllowFullScreen frameborder="0")

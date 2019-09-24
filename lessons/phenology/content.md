@@ -60,11 +60,10 @@ Explore what is phenology, its significance, and the link between plant phenolog
 Explore the topic further by conducting a hands-on activity, [The Timing of Red Maple Leaf-out](https://extension.umaine.edu/signs-of-the-seasons/resources-for-educators/red-maple-leaf-out/), from Signs of the Seasons: A New England Phenology Program, the University of Maine Cooperative Extension. 
 :::
 
-Create and analyze graphs by using data for the timing of red maple leaf-out in New England.
+* Create and analyze graphs by using data for the timing of red maple leaf-out in New England.
+* Discuss the potential role of environmental factors such as climate change on leaf-out.
 
 {div.large-link}[Student Activity](https://extension.umaine.edu/signs-of-the-seasons/wp-content/uploads/sites/6/2014/09/Red-Maple-Leaf_-SA.pdf) 
-
-Encourage the students to discuss the potential role of environmental factors such as climate change on leaf-out.
 
 {div.large-link}[Student Activity Sheet](https://extension.umaine.edu/signs-of-the-seasons/wp-content/uploads/sites/6/2014/08/Red-Maple_-Student-Activity-Sheet.docx)
 

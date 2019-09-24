@@ -36,14 +36,15 @@ Introduce the topic through an online reading
 
 * Introduce the topic of glaciers and their formation.
 * Use the following resources as the primary or supplementary reading material to teach your students about glaciers, their formation, and the components of a glacier, by the National Snow and Ice Data Center (NSIDC):
+
+:::
+* Use the following resources to get introdiced to the topic of glaciers, their components and formation.
 * [What is a glacier](https://nsidc.org/cryosphere/glaciers/questions/what.html)
 * [How are glaciers formed]( https://nsidc.org/cryosphere/glaciers/questions/formed.html)
 * [What are the components of a glacier?](https://nsidc.org/cryosphere/glaciers/questions/components.html)
 
-:::
-   
-{div.large-link}[Go to the Reading](https://nsidc.org/cryosphere/glaciers/questions/what.html)
-
+ 
+{div.large-link}[Go to the Complete Reading](https://nsidc.org/cryosphere/glaciers/questions/what.html)
 
 {div.credit}
 [National Snow and Ice Data Center (NSIDC)](https://nsidc.org/cryosphere/glaciers)
@@ -65,7 +66,7 @@ Introduce the topic through an online reading
 
 This is an interactive visualization and associated activity to visualize the shrinking and growing of a Alpine Glaciers as a result of changes in snowfall and temperature.
 
-{div.large-link}[Go to the Activity](https://imaginary.org/program/future-of-glaciers-the-module)
+{div.large-link}[Activity"The Future of Galciers"](https://imaginary.org/program/future-of-glaciers-the-module)
 
 {div.credit}
 [The Future of Glaciers](https://imaginary.org/program/future-of-glaciers-the-module) by Guillaume Jouvet, Chantal Landry, Antonia Mey and [IMAGINARY](https://imaginary.org/)

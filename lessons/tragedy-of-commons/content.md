@@ -39,7 +39,7 @@ Play the video "The tragedy of the commons", which can be used as a  micro-lectu
 * Guide a brief discussionamong students to cite other examples of the tragedy of the commons problem,andto identify the “commons” and the “tragedy” in each example.
 :::
 
-What does it mean for you the expression "the tragedy of the commons"? Watch the following video and give examples to explain the terms “tragedy” and “commons”.
+What does it mean for you the expression "The tragedy of the commons"? Watch the following video and give examples to explain the terms “tragedy” and “commons”.
 
     .video-wrap
       iframe(width="560" height="315" src="https://www.youtube.com/embed/0b2Tl0x-niw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen)
@@ -64,7 +64,7 @@ What does it mean for you the expression "the tragedy of the commons"? Watch the
 :::
 
 * Use the following activity to understand the concept of tragedy of commons using the case study of global warming.
-* Examine Earth’s atmosphere as a commons and global warming as a tragedy, and try to propose economic solutions to solve this tragedy.
+* Examine Earth's atmosphere as a commons and global warming as a tragedy, and try to propose economic solutions to solve this tragedy.
 
 {div.large-link}[Tragedy of the commons using global warming](https://serc.carleton.edu/integrate/programs/implementation/program2/activities/135953.html)
 
@@ -83,13 +83,13 @@ What does it mean for you the expression "the tragedy of the commons"? Watch the
 
 ::: .teaching-notes
 
-Discuss the solutions though reading “Climate Change: The Ultimate Tragedy of the Commons” by Jouni Paavola.
-
-This reading describes climate change as a tragedy of the commons problem (atmospheric sinks for greenhouse gases are the commons) and analyzes the current state of climate change governance. It also discusses polycentricity as a governance approach to address global climate change at various levels and scales, providing specific examples ofthe Cities for Climate Change program and the Cement Sustainability Initiative.
+Discuss the how climate change is described as the tragedy of commons using the reading “Climate Change: The Ultimate Tragedy of the Commons” by Jouni Paavola.
+Discuss solutions to this problem with your students using the reading.
 
 :::
 
-Read “Climate Change: The Ultimate Tragedy of the Commons” by Jouni Paavola in “Property in Land and Other Resources”:
+* Read “Climate Change: The Ultimate Tragedy of the Commons” by Jouni Paavola in “Property in Land and Other Resources”:
+* This reading describes climate change as a tragedy of the commons problem (atmospheric sinks for greenhouse gases are the commons) and analyzes the current state of climate change governance. It also discusses polycentricity as a governance approach to address global climate change at various levels and scales, providing specific examples ofthe Cities for Climate Change program and the Cement Sustainability Initiative.
 
 {div.large-link} [Go to the Reading](https://www.lincolninst.edu/sites/default/files/pubfiles/climate-change_0.pdf)
 
