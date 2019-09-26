@@ -158,3 +158,10 @@ sea-turtles:
   grade: High School
   time: 80-90 min
   color: af9450
+
+hadley-circulation:
+  title: Hadley Circulation and Heat Transport
+  description: Hadley Circulation, Heat Transport, Global Precipitation Patterns, Geographical Distribution of Deserts 
+  grade: High School, Undergraduate
+  time: 80-100 min
+  color: 203b96
