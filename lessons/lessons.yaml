@@ -151,3 +151,10 @@ hydrocarbons:
   grade: High School
   time: 50-60 min
   color: f7931e
+
+sea-turtles:
+  title: Climate Change Impact on Sea Turtles
+  description: Impact of Climate Change on Sex Determination in Sea Turtles
+  grade: High School
+  time: 80-90 min
+  color: af9450
