@@ -18,10 +18,15 @@ block body
           label.filter-option
             input(type="checkbox" value=x data-category="type")
             | #{x}
+        .filter-category Grade
+        for x in ['High school', 'Undergraduate']
+          label.filter-option
+            input(type="checkbox" value=x data-category="grade")
+            | #{x}
 
       .grow.tools-list
         for t in tools
-          a.filterable(href="/tool/" + t.id style=`background-color: ${t.color}` data-filter=(t.type + t.discipline))
+          a.filterable(href="/tool/" + t.id style=`background-color: ${t.color}` data-filter=(t.type + t.discipline + t.grade))
             .thumbnail(style=`background-image: url(/tool/images/${t.img})`)
             h2= t.title
             .meta= t.type
