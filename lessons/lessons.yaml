@@ -5,6 +5,7 @@
 
 introduction-climate-change:
   title: Introduction to Climate Change
+  discipline: General
   description: Special introductory lesson for teachers and all public with basic resources to understand the science and challenges of Climate Change.
   grade: All public
   time: 
@@ -13,6 +14,7 @@ introduction-climate-change:
 
 co2-calculus:
   title: Calculus and CO2 Emissions
+  discipline: Mathematics
   description: Learn to solve calculus and tangent line problems using atmospheric CO2 data and the Greenhouse effect.
   grade: High School, Undergraduate
   time: 120 min
@@ -20,6 +22,7 @@ co2-calculus:
 
 human-health:
   title: Malaria and Human Health
+  discipline: Biology, Environmental Sciences
   description: Learn about Protozoa, vectors, vector-borne diseases, the Spread of Malaria and human health.
   grade: High School
   time: 180 min
@@ -27,6 +30,7 @@ human-health:
 
 tragedy-of-commons:
   title: Tragedy of the Commons
+  discipline: Economics
   description: Learn about the Economics of Climate Change, as well as Policy, Politics and Environmental Governance.
   grade: Undergraduate
   time: 120 min
@@ -34,6 +38,7 @@ tragedy-of-commons:
 
 buffers-oceans:
   title: Buffers, Buffer action and Ocean acidification
+  discipline: Chemistry, Environmental Sciences, Earth Sciences
   description: Learn about chemical buffer solutions, and how the CO2 in the atmosphere makes the oceans more acid.
   grade: High School, Undergraduate
   time: 40 min
@@ -41,6 +46,7 @@ buffers-oceans:
 
 microbial-life:
   title: Microbial Life
+  discipline: Biology
   description: Learn about Microbes, Bacterial Growth and Adaptation, Gas Cycling and Greenhouse Gases.
   grade: High School, Undergraduate
   time: 150 min
@@ -48,6 +54,7 @@ microbial-life:
 
 phenology:
   title: Phenology in Plants
+  discipline: Biology
   description: Learn about life-cycle and phenological events in plants, as well as leaf-out in plants.
   grade: High School, Undergraduate
   time: 110 min
@@ -55,6 +62,7 @@ phenology:
 
 glaciers:
   title: Glaciers, Glacial Retreat, Cryosphere
+  discipline: Geography, Earth Sciences
   description: Glaciology, Glaciers and Glacial Retreat, and the Cryosphere-Climate Relationship.
   grade: High School, Undergraduate
   time: 100 min
@@ -62,6 +70,7 @@ glaciers:
   
 food-security:
   title: Food security, Agriculture
+  discipline: Social Sciences, Environmental Sciences
   description: Climate Change and Food Security,Climate Change and Agriculture.
   grade: High School, Undergraduate
   time: 90-130 min
@@ -69,6 +78,7 @@ food-security:
 
 blackbody-radiation:
   title: Planck's law and blackbody radiation
+  discipline: Physics
   description: Planetary Climates, Planetary Energy Balance, The Greenhouse Effect.
   grade: High School, Undergraduate
   time: 120-150 min
@@ -77,6 +87,7 @@ blackbody-radiation:
 
 fertilizers-and-climate:
   title: Fertilizers and Climate
+  discipline: Chemistry
   description: Agriculture, Effects of the Use of Fertilizers on the Environment 
   grade: Undergraduate
   time: 30-50 min
@@ -84,6 +95,7 @@ fertilizers-and-climate:
   
 coriolis-force:
   title: Coriolis force
+  discipline: Physics, Earth Sciences
   description: Understand the Coriolis force, and the effect of the Coriolis force on weather and climate.
   grade: High School, Undergraduate
   time: 40-50 min
@@ -91,6 +103,7 @@ coriolis-force:
   
 plant-physiology:
   title: Plant Physiology
+  discipline: Biology
   description: Learn about Photosynthetic Pathways, C3, C4, and CAM Plants, Photorespiration, Stomatal Conductance, Photosynthetic Efficiency, Homoeostasis
   grade: Undergraduate
   time: 80 min
@@ -98,6 +111,7 @@ plant-physiology:
  
 climate-refugee:
   title: Climate Refugee
+  discipline: Social Sciences, Humanities, Environmental Sciences
   description: Learn about Climate Change and Human Migration, Climate Justice, Social and Environmental Policy 
   grade: High School, Undergraduate 
   time: 120 min
@@ -105,6 +119,7 @@ climate-refugee:
 
 capitalism:
   title: Capitalism and Climate Change
+  discipline: Social Sciences
   description: Learn about Capitalism, Consumerism, Materials Economy and its effect on climate change
   grade: High School, Undergraduate 
   time: 90 min
@@ -112,6 +127,7 @@ capitalism:
 
 carbon-pricing:
   title: Carbon Pricing, Shadow and Market Prices
+  discipline: Economics
   description: Learn about market prices and shadow prices,carbon pricing,costs of greenhouse gases
   grade: Undergraduate 
   time: 90-100 min
@@ -119,6 +135,7 @@ carbon-pricing:
 
 abiotic-stress:
   title: Abiotic Stress on Plants due to climate change
+  discipline: Biology
   description: Learn about plant physiology, abiotic stress in plants
   grade: High school, Undergraduate 
   time: 40-150 min
@@ -126,6 +143,7 @@ abiotic-stress:
 
 permafrost:
   title: Permafrost and Climate Change
+  discipline: Geography, Environmental Sciences, Earth Sciences
   description: permafrost and its thawing due to rising global temperatures
   grade: High School, Undergraduate
   time: 50-60 min
@@ -133,6 +151,7 @@ permafrost:
 
 natural-selection:
   title: Natural Selection
+  discipline: Biology
   description: Learn about  natural selection, its role in evolution and climate change as a selective pressure in natural selection
   grade: High School, Undergraduate
   time: 40-60 min
@@ -140,6 +159,7 @@ natural-selection:
 
 photosynthesis:
   title: Impact of Climate Change on Photosynthesis
+  discipline: Biology
   description: Learn about photosynthesis, influencing factors, C3-C4 plants, CAM Plants, Calvin Cycle
   grade: High School, Undergraduate
   time: 100-120 min
@@ -147,6 +167,7 @@ photosynthesis:
 
 hydrocarbons:
   title: Hydrocarbons and Climate Change
+  discipline: Chemistry, Environmental Sciences
   description: Learn about Hydrocarbons,Fossil fuels and impact of thier emissions 
   grade: High School
   time: 50-60 min
@@ -154,6 +175,7 @@ hydrocarbons:
 
 sea-turtles:
   title: Climate Change Impact on Sea Turtles
+  discipline: Biology
   description: Impact of Climate Change on Sex Determination in Sea Turtles
   grade: High School
   time: 80-90 min
@@ -161,6 +183,7 @@ sea-turtles:
 
 hadley-circulation:
   title: Hadley Circulation and Heat Transport
+  discipline: Geography, Earth Sciences, Physics
   description: Hadley Circulation, Heat Transport, Global Precipitation Patterns, Geographical Distribution of Deserts 
   grade: High School, Undergraduate
   time: 80-100 min
@@ -168,6 +191,7 @@ hadley-circulation:
 
 cost-benefit-analysis:
   title: Cost Benefit Analysis
+  discipline: Economics
   description: Principles of cost-benefit analysis, its appliation to global carbon abatement
   grade: Undergraduate
   time: 150-170 min
@@ -175,6 +199,7 @@ cost-benefit-analysis:
 
 william-blake-poems:
   title: William Blake's "Chimney Sweeper" Poems and Industrial Age 
+  discipline: Literature
   description: English Literature, Analysis of Poetic Texts, William Blake, Romantic Poetry, Child Labor, Industrial Revolution 
   grade: High school, Undergraduate 
   time: 50-60 min 
