@@ -8,15 +8,15 @@ block body
   .container
     .row(style="align-items: flex-start")
       .filters
-        .filter-category Discipline
-        for x in ['Biology', 'Chemistry', 'Cognitive Psychology', 'Earth Sciences', 'Economics', 'Environmental Sciences', 'Geography', 'Humanities', 'Mathematics', 'Neuroscience', 'Physics', 'Social Sciences', 'Literature']
-          label.filter-option
-            input(type="checkbox" value=x data-category="discipline")
-            | #{x}
         .filter-category Grade
         for x in ['High school', 'Undergraduate']
           label.filter-option
             input(type="checkbox" value=x data-category="grade")
+            | #{x}
+        .filter-category Discipline
+        for x in ['Biology', 'Chemistry', 'Cognitive Psychology', 'Earth Sciences', 'Economics', 'Environmental Sciences', 'Geography', 'Humanities', 'Mathematics', 'Neuroscience', 'Physics', 'Social Sciences', 'Literature']
+          label.filter-option
+            input(type="checkbox" value=x data-category="discipline")
             | #{x}
 
       .grow.lesson-plan-list
