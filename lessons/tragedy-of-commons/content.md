@@ -39,7 +39,7 @@ Play the video "The tragedy of the commons", which can be used as a  micro-lectu
 * Guide a brief discussionamong students to cite other examples of the tragedy of the commons problem,andto identify the “commons” and the “tragedy” in each example.
 :::
 
-What does it mean for you the expression "The tragedy of the commons"? Watch the following video and give examples to explain the terms “tragedy” and “commons”.
+What might be the meaning of the expression "The tragedy of the commons"? Watch the following video and give examples that explain the terms “tragedy” and “commons”.
 
     .video-wrap
       iframe(width="560" height="315" src="https://www.youtube.com/embed/0b2Tl0x-niw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen)

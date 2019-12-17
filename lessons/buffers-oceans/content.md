@@ -30,7 +30,7 @@ Want to know more about how to contribute? [Contact us](https://tropicsu.org/con
 
 ---
 
-## Buffer solutions
+## Buffer Solutions
 > section: intro
 > format: Reading
 > duration: 10 min
@@ -45,19 +45,10 @@ Discuss other examples of buffers in daily life, e.g., the buffering action of b
 
 
 In chemistry, a buffer solution is a solution that resists the changes of its pH when an acid or base is added. 
+Following reading introduces the topic of buffers and explains the chemistry of buffer action in solution through examples.
 
-On this lesson we introduce the topic of buffers and describe carbonate buffering in the ocean when atmospheric `CO_2` dissolves in seawater. The buffering capacity of the ocean is, however, limited, and therefore, higher concentrations of dissolved `CO_2` can lead to ocean acidification. We will use a computer-based activity/model to explore how higher atmospheric `CO_2` levels (resulting in an increase in dissolved `CO_2`) can lead to ocean acidification.
-
-
-
-Read this text about buffer solutions
-
-{div.large-link}[Introduction to Buffers](/resources/buffers-oceans/downloads/Introduction_to_Buffers.pdf)
-
-and calculate how much buffers can retain their pH as in the following examples
 
 {div.large-link}[How Does A Buffer Maintain pH?](/resources/buffers-oceans/downloads/How_Does_A_Buffer_Maintain_Ph.pdf)
-
 
 
 {div.credit} 
@@ -67,25 +58,23 @@ and calculate how much buffers can retain their pH as in the following examples
 
 ---
 
-## Ocean buffer chemistry
+## Ocean Buffer Chemistry
 > section: video
 > format: Video
 > duration: 10 min
 
 ::: .teaching-notes
-Use the video micro-lecture “Ocean Buffer Chemistry” to describe carbonate buffering in the ocean.
-
-Discuss how oceans behave as carbon sinks by absorbing atmospheric `CO_2`, and the maintenance of ocean pH levels owing to the buffering capacity of sea water. Further, use the video to explain the buffering range of oceans and the chemical implications of a higher concentration of dissolved `CO_2` (due to increased levels of atmospheric `CO_2`).
-
-Explain how high levels of atmospheric `CO_2` could result in an excess of free hydrogen (H+) ions, thus potentially changing the pH values of seawater (acidification).
-
-Further, use the video micro-lecture to illustrate Le Chatelier’s Principle—explain how increased `CO_2` concentration in seawater sequesters more carbonate (`CO_3^{2-}`) ions to keep the system in equilibrium. In conclusion, explain how ocean biota may be affected in the absence of freely available carbonate (`CO_3^{2-}`) ions.
+* Use the video micro-lecture “Ocean Buffer Chemistry” to describe carbonate buffering in the ocean.
+* Discuss how oceans behave as carbon sinks by absorbing atmospheric `CO_2`, and the maintenance of ocean pH levels owing to the buffering capacity of sea water. Further, use the video to explain the buffering range of oceans and the chemical implications of a higher concentration of dissolved `CO_2` (due to increased levels of atmospheric `CO_2`).
+* Explain how high levels of atmospheric `CO_2` could result in an excess of free hydrogen (H+) ions, thus potentially changing the pH values of seawater (acidification).
+* Further, use the video micro-lecture to illustrate Le Chatelier’s Principle—explain how increased `CO_2` concentration in seawater sequesters more carbonate (`CO_3^{2-}`) ions to keep the system in equilibrium. In conclusion, explain how ocean biota may be affected in the absence of freely available carbonate (`CO_3^{2-}`) ions.
 :::
 
-Watch this micro-lecture about how oceans absorb atmospheric `CO_2` and the increase of acidity of sea water.
+* Watch this micro-lecture about how oceans absorb atmospheric `CO_2` and the increase of acidity of sea water.
 understand how high levels of atmospheric `CO_2` could result in an excess of free hydrogen (H+) ions, thus potentially changing the pH values of seawater (acidification).
-Further, get information about Le Chatelier’s Principle—explain how increased `CO_2` concentration in seawater sequesters more carbonate (`CO_3^{2-}`) ions to keep the system in equilibrium. 
-Investigate how ocean biota may be affected in the absence of freely available carbonate (`CO_3^{2-}`) ions.
+* Further, get information about Le Chatelier’s Principle—explain how increased `CO_2` concentration in seawater sequesters more carbonate (`CO_3^{2-}`) ions to keep the system in equilibrium. 
+* Investigate how ocean biota may be affected in the absence of freely available carbonate (`CO_3^{2-}`) ions.
+
 
 
     .video-wrap
@@ -100,8 +89,11 @@ Investigate how ocean biota may be affected in the absence of freely available c
 > format: Web applet
 > duration: 60 min
 
+::: .teaching-notes
+This visualization allows students to explore changes in the pH levels of oceans for different levels of atmospheric CO2, including the CO2 levels corresponding to various emission scenarios (as published by the Intergovernmental Panel on Climate Change (IPCC)).
+:::
 
-On this section you will use an applet to make simulations of the pH value of the oceans.
+In this section you will use an applet to make simulations of the pH value of the oceans.
 
 Open the applet “Surface Ocean pH Levels”. Select the “Resources” tab to read the background that provides a detailed explanation of the relationship between atmospheric CO2 and ocean pH values. Click on “Help” to read the instructions to run the applet.
 

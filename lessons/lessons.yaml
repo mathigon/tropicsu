@@ -37,7 +37,7 @@ tragedy-of-commons:
   color: 5ba400
 
 buffers-oceans:
-  title: Buffers, Buffer action and Ocean acidification
+  title: Buffers, Buffer Action and Ocean Acidification
   discipline: Chemistry, Environmental Sciences, Earth Sciences
   description: Learn about chemical buffer solutions, and how the CO2 in the atmosphere makes the oceans more acid.
   grade: High School, Undergraduate
@@ -69,15 +69,15 @@ glaciers:
   color: 353a42
   
 food-security:
-  title: Food security, Agriculture
+  title: Climate Change, Food Security and Agriculture
   discipline: Social Sciences, Environmental Sciences
-  description: Climate Change and Food Security,Climate Change and Agriculture.
+  description: Relationship between Climate Change and Agriculture
   grade: High School, Undergraduate
   time: 90-130 min
   color: af9450
 
 blackbody-radiation:
-  title: Planck's law and blackbody radiation
+  title: Planck's Law and Blackbody Radiation
   discipline: Physics
   description: Planetary Climates, Planetary Energy Balance, The Greenhouse Effect.
   grade: High School, Undergraduate
@@ -94,7 +94,7 @@ fertilizers-and-climate:
   color: 5ba400
   
 coriolis-force:
-  title: Coriolis force
+  title: Coriolis Force
   discipline: Physics, Earth Sciences
   description: Understand the Coriolis force, and the effect of the Coriolis force on weather and climate.
   grade: High School, Undergraduate
@@ -110,7 +110,7 @@ plant-physiology:
   color: 186e2c 
  
 climate-refugee:
-  title: Climate Refugee
+  title: Climate Refugees
   discipline: Social Sciences, Humanities, Environmental Sciences
   description: Learn about Climate Change and Human Migration, Climate Justice, Social and Environmental Policy 
   grade: High School, Undergraduate 
@@ -134,7 +134,7 @@ carbon-pricing:
   color: b38332
 
 abiotic-stress:
-  title: Abiotic Stress on Plants due to climate change
+  title: Abiotic Stress on Plants due to Climate Change
   discipline: Biology
   description: Learn about plant physiology, abiotic stress in plants
   grade: High school, Undergraduate 

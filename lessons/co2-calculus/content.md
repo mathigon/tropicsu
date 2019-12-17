@@ -86,7 +86,7 @@ Watch this video about how to compute derivatives of polynomials.
 
 ---
 
-## Mauna Loa Observatory
+## Application of Polynomial Differentiation
 > section: activity
 > format: Classroom Activity
 > duration: 60 min
