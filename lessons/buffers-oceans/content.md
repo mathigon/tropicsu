@@ -75,9 +75,8 @@ understand how high levels of atmospheric `CO_2` could result in an excess of fr
 * Further, get information about Le Chatelier’s Principle—explain how increased `CO_2` concentration in seawater sequesters more carbonate (`CO_3^{2-}`) ions to keep the system in equilibrium. 
 * Investigate how ocean biota may be affected in the absence of freely available carbonate (`CO_3^{2-}`) ions.
 
+{div.large-link}[Go to the Video “Ocean Buffer Chemistry”](http://www.kaltura.com/index.php/extwidget/preview/partner_id/1090132/uiconf_id/20652192/entry_id/1_16ghjcjg/embed/auto)
 
-    .video-wrap
-      iframe(width="560" height="315" src="http://www.kaltura.com/index.php/extwidget/preview/partner_id/1090132/uiconf_id/20652192/entry_id/1_16ghjcjg/embed/auto" allowfullscreen webkitallowfullscreen mozAllowFullScreen frameborder="0")
 
 {div.credit} [Prof. David Archer](https://geosci.uchicago.edu/people/david-archer/), University of Chicago. 
 
