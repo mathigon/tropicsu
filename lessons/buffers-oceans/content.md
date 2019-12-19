@@ -103,15 +103,22 @@ Open the applet "Surface Ocean pH Levels". Select the "Background" tab to read t
 
 Note:  Detailed information about RCP projections is available in the same tab.
 
+::: column.grow
 
 Finally, discuss the implications of the predicted pH value of oceans for different emission scenarios and the possible impacts on the Earth’s biosphere.
 
+::: column(width=240)
+
+    x-media(src="images/carbonate-buffering-in-ocean.jpg" width=240 height=160 credit="NOAA OAP" lightbox)
+
+{.caption} Ocean Carbon Storage
+:::
 
 
-{div.large-link} [Go to applet](https://applets.kcvs.ca/OceanAcidification/oceanAcid.html)
+{div.large-link} [Go to applet "Surface Ocean pH Levels"](https://applets.kcvs.ca/OceanAcidification/oceanAcid.html)
 
 
-{div.credit} Developed by [The King’s Centre for Visualization in Science (KCVS)](http://www.kcvs.ca/).
+{div.credit} Applet developed by [The King’s Centre for Visualization in Science (KCVS)](http://www.kcvs.ca/); Image by [NOAA Ocean Acidification Program](https://oceanacidification.noaa.gov/OurChangingOcean.aspx)
 
 ---
 
