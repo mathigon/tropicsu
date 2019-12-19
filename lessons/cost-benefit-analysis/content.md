@@ -82,10 +82,10 @@ Use a reading to discuss the economic analysis of climate change and specificall
 
 :::
 
-{div.large-link} [Reading "The Economics of Global Climate Change"](http://www.ase.tufts.edu/gdae/education_materials/modules/The_Economics_of_Global_Climate_Change.pdf)
+{div.large-link} [Reading "The Economics of Global Climate Change"](http://www.bu.edu/eci/files/2019/06/The_Economics_of_Global_Climate_Change.pdf)
 
 {div.credit} 
- Jonathan M. Harris, Brian Roach, and Anne-Marie Codur, [Global Development and Environment Institute, Tufts University](http://ase.tufts.edu/gdae/);
+ Jonathan M. Harris, Brian Roach, and Anne-Marie Codur, [Global Development and Environment Institute, Tufts University](https://sites.tufts.edu/gdae/educational-modules/);
  Infographic [The Soaring Costs Of Climate Change](https://www.statista.com/chart/11673/the-soaring-costs-of-climate-change/) by Niall McCarthy
 
 ---
@@ -96,8 +96,8 @@ Use a reading to discuss the economic analysis of climate change and specificall
 > duration: 60-90 min
 
 ::: .teaching-notes
-* Explore the topic in an engaging manner by conducting the activity to perform cost-benefit analysis for carbon emissions abatement.
-* Download the activity Teaching Materials and reading material.
+* Exaplin the topic in an engaging manner by conducting the activity to perform cost-benefit analysis for carbon emissions abatement.
+* Download the activity teaching materials and reading material.
 * Conduct the activities as described in Part 1 and Part 2 of the unit.
 
 :::
@@ -105,8 +105,6 @@ Use a reading to discuss the economic analysis of climate change and specificall
 ::: column.grow
 
 * Carbon abatement is defined as the reduction of the amount of carbon dioxide that is produced when coal and oil are burned.
-* In this activity, carbon abatement is considered to be an action that will mitigate climate change, and the costs and benefits of abating carbon emissions are calculated.
-* Download the educational material and perform the activities as described in Part 1 and Part 2 of the unit. 
 
 ::: column(width=240)
 
@@ -115,10 +113,24 @@ Use a reading to discuss the economic analysis of climate change and specificall
 {.caption} Global Fossil Fuel Consumption
 :::
 
+::: column.grow
+
+* In this activity, carbon abatement is considered to be an action that will mitigate climate change, and the costs and benefits of abating carbon emissions are calculated.
+* Download the educational material and perform the activities as described in Part 1 and Part 2 of the unit. 
+
+::: column(width=240)
+
+    x-media(src="images/global-abatement-cost-curve.jpg" width=240 height=160 credit="Our World in Data" lightbox)
+
+{.caption} Global Carbon Abatement Cost Curve
+:::
+
+
+
 {div.large-link}[Activity "Abating Carbon Emissions"](https://serc.carleton.edu/integrate/teaching_materials/carbon_emissions/unit5.html)
 
 {div.credit} 
-Gautam Sethi (Bard College), Curt Gervich (SUNY Plattsburgh), and Robyn Smyth (Bard College); available on [SERC's InTeGrate portal](https://serc.carleton.edu/integrate/)
+Gautam Sethi (Bard College), Curt Gervich (SUNY Plattsburgh), and Robyn Smyth (Bard College); available on [SERC's InTeGrate portal](https://serc.carleton.edu/integrate/); Global carbon abatement cost curve image from [Our World in Data](https://ourworldindata.org/how-much-will-it-cost-to-mitigate-climate-change)
 
 ---
 

@@ -93,25 +93,25 @@ understand how high levels of atmospheric `CO_2` could result in an excess of fr
 This visualization allows students to explore changes in the pH levels of oceans for different levels of atmospheric CO2, including the CO2 levels corresponding to various emission scenarios (as published by the Intergovernmental Panel on Climate Change (IPCC)).
 :::
 
-In this section you will use an applet to make simulations of the pH value of the oceans.
+This section presents an applet to make simulations of the pH value of the oceans.
 
-Open the applet “Surface Ocean pH Levels”. Select the “Resources” tab to read the background that provides a detailed explanation of the relationship between atmospheric CO2 and ocean pH values. Click on “Help” to read the instructions to run the applet.
+Open the applet "Surface Ocean pH Levels". Select the "Background" tab to read the background that provides a detailed explanation of the relationship between atmospheric CO2 and ocean pH values. Click on “Instructions” tab to read the instructions to run the applet.
 
 - Run the simulation to visualize the global pH value (as indicated on the pH indicator strip) of oceans for a given concentration of atmospheric CO2. You can vary the atmospheric CO2 levels by using the slider at the bottom left hand side to observe the corresponding changes in the pH value of the oceans.
-- Click the tab “Show Graph” to observe the graphs for concentrations of various species of carbonate ions in (i) a closed system and (ii) an open ocean; and the graph depicting the pH value of oceans for various atmospheric CO2 concentrations.
-- Go to the tab “Options” to view the different emission scenarios (Special Report on Emission Scenarios (SRES) projections) that can be selected. Select different SRES projection options and visualize the corresponding predicted ocean pH value on the pH indicator strip or on the aforementioned graphs.
+- Click the tab "Show Graph" to observe the graphs for concentrations of various species of carbonate ions in (i) a closed system and (ii) an open ocean; and the graph depicting the pH value of oceans for various atmospheric CO2 concentrations.
+- Go to the tab "2100 C.E. Projections" to view the different emission scenarios (RCP Projections) that can be selected. Select different RCP projection options and visualize the corresponding predicted ocean pH value on the pH indicator strip or on the aforementioned graphs.
 
-Note:  Detailed information about SRES projections can be obtained [here](http://ipcc-data.org/sim/gcm_clim/SRES_TAR/ddc_sres_emissions.html#a1b).
+Note:  Detailed information about RCP projections is available in the same tab.
 
 
 Finally, discuss the implications of the predicted pH value of oceans for different emission scenarios and the possible impacts on the Earth’s biosphere.
 
 
 
-{div.large-link} [Go to applet](http://www.kcvs.ca/site/projects/JS_files/OceanAcidification/oceanAcid.html)
+{div.large-link} [Go to applet](https://applets.kcvs.ca/OceanAcidification/oceanAcid.html)
 
 
-{div.credit} Developed by [The King’s Centre for Visualization in Science (KCVS)](http://kcvs.ca/concrete/).
+{div.credit} Developed by [The King’s Centre for Visualization in Science (KCVS)](http://www.kcvs.ca/).
 
 ---
 
