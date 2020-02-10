@@ -228,3 +228,11 @@ phase-diagram:
   grade: High School, Undergraduate
   time: 45-60 min
   color: 353a42 
+
+simple-harmonic-motion:
+  title: Simple Harmonic Motion and Simple Harmonic Oscillators
+  discipline: Physics
+  description: Simple Harmonic Motion (SHM), Simple Harmonic Oscillators, Buoyancy in Fluids, Brunt–Väisälä Frequenc, Stratified Fluids, Density Gradient
+  grade: High School, Undergraduate
+  time: 50-60 min
+  color: 5D5F61 
