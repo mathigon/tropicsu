@@ -213,11 +213,18 @@ aerosols:
   time: 40-50 min 
   color: 5D5F61 
 
-
 mountains:
   title: Mountains and Climate Change
   discipline: Geography, Earth Sciences
   description: Characterisitcs of mountains, Relationship between climate factors and the mountains
   grade: High School, Undergraduate
   time: 50-60 min
-  color: 2ea5cc
+  color: 2ea5cc 
+
+phase-diagram:
+  title: Phase Diagrams and Phase Equilibria
+  discipline: Physics, Chemistry, Earth Sciences
+  description: Phase Equilibria, Phase Diagrams of Water, Degrees of Freedom, Feedback Mechanisms, Vapour Pressure, Runaway Greenhouse Effect
+  grade: High School, Undergraduate
+  time: 45-60 min
+  color: 353a42 

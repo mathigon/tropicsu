@@ -17,7 +17,7 @@
     "express": "^4.16.4",
     "firebase": "^5.8.4",
     "firebase-tools": "^6.5.0",
-    "npm": "^6.13.0"
+    "npm": "^6.13.6"
   },
   "devDependencies": {
     "@mathigon/boost": "^0.2.4",
