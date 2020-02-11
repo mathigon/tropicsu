@@ -236,3 +236,11 @@ simple-harmonic-motion:
   grade: High School, Undergraduate
   time: 50-60 min
   color: 5D5F61 
+
+thermodynamic-processes:
+  title: Thermodynamic Processes in the Atmosphere
+  discipline: Physics
+  description: Thermodynamics, Thermodynamic Systems, Thermodynamic Processes, Lapse Rates 
+  grade: Undergraduate
+  time: 50-60 min
+  color: 5D5F61 
