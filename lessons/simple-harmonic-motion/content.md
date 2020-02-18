@@ -5,13 +5,13 @@
 
 As a High School or Undergraduate Physics teacher, you can use this set of computer-based tools to teach about Simple Harmonic Motion (SHM) and Simple Harmonic Oscillators.
 
-This lesson plan will allow you to teach your students about Simple Harmonic Motion (SHM) and simple harmonic oscillators and engage them in a hands-on activity to explore these concepts. Simple harmonic oscillations, that occur in stratified fluids due to the Archimedes' principle of buoyancy, can affect the flow of energy within large scale systems such as the Earth's atmosphere and the oceans by the displacement of parcels of air/water. This lesson plan will thus, explain how natural oscillations in the atmosphere/oceans with the BruntñV‰is‰l‰ frequency affect cloud formation, occurrence of thunderstorms, and internal waves within oceans and thus, affect the climate.
+This lesson plan will allow you to teach your students about Simple Harmonic Motion (SHM) and simple harmonic oscillators and engage them in a hands-on activity to explore these concepts. Simple harmonic oscillations, that occur in stratified fluids due to the Archimedes' principle of buoyancy, can affect the flow of energy within large scale systems such as the Earth's atmosphere and the oceans by the displacement of parcels of air/water. This lesson plan will thus, explain how natural oscillations in the atmosphere/oceans with the Brunt-V√§is√§l√§ frequency affect cloud formation, occurrence of thunderstorms, and internal waves within oceans and thus, affect the climate.
 
 Thus, the use of this lesson plan allows you to integrate the teaching of a climate science topic with a core topic in Physics.
 
 __Grade Level__: Undergraduate  
 __Discipline__: Physics  
-__Topics__:  Simple Harmonic Motion (SHM), Simple Harmonic Oscillators, BruntñV‰is‰l‰ Frequency, Archimedes' Principle of Buoyancy in Fluids, Stratified Fluids, Density Gradient  
+__Topics__:  Simple Harmonic Motion (SHM), Simple Harmonic Oscillators, Brunt-V√§is√§l√§  Frequency, Archimedes' Principle of Buoyancy in Fluids, Stratified Fluids, Density Gradient  
 __Climate Topic__: Climate and the Atmosphere, Climate and the Hydrosphere   
 __Location__: Global  
 __Languages__: English  
@@ -23,8 +23,8 @@ The tools in this lesson plan will enable students to:
 
 * learn about Simple Harmonic Motion (SHM) and Simple Harmonic Oscillators
 * demonstrate SHM in the laboratory
-* explain how Archimedes' principle (buoyancy of objects in fluids) can cause parcels of air/water to oscillate in the atmosphere/ocean with the BruntñV‰is‰l‰ frequency
-* how the BruntñV‰is‰l‰ frequencycan be used to predict cloud formation and thunderstorms 
+* explain how Archimedes' principle (buoyancy of objects in fluids) can cause parcels of air/water to oscillate in the atmosphere/ocean with the Brunt-V√§is√§l√§  frequency
+* how the Brunt-V√§is√§l√§  frequency can be used to predict cloud formation and thunderstorms 
 
 ---
 
@@ -127,7 +127,7 @@ Classroom discussion for teachers and students:
 > duration: 4-5 min
 
 ::: .teaching-notes
- * Use a video micro-lecture that describes how oscillations with the BruntñV‰is‰l‰ frequency in the atmosphere and oceans cause many natural phenomena that can influence Earth's climate.
+ * Use a video micro-lecture that describes how oscillations with the Brunt-V√§is√§l√§  frequency in the atmosphere and oceans cause many natural phenomena that can influence Earth's climate.
  * Conclude with a discussion on how such a redistribution of energy within Earth's atmosphere and oceans, can impact its climate.
  
 :::
@@ -135,8 +135,8 @@ Classroom discussion for teachers and students:
 Use the video micro-lecture, 'What causes stripey clouds?' to explain how SHM in the atmosphere cause cloud patterns, cloud formations and results in thunderstorms. The air close to the earth's surface is denser than the air higher above - the reason why it is harder to breathe in the mountains. When parcels of air are displaced from their original position (maybe due to the presence of an obstacle like a mountain), they oscillate up and down. When they move upward, they become cooler and when they move downward, they heat up. If an upward moving air parcel contains water vapour, this water vapour condenses and forms clouds. The downward moving air heats up and does not form clouds. This forms a wave-like pattern of clouds that are visible quite often in the sky.
  
 ::: column.grow
- * The video describes the BruntñV‰is‰l‰ frequency in SHM. The oscillation of air/water parcels depends on the rate of change of density with height and acceleration due to gravity. If the density decreases with height, the force always points to the position of rest and parcels exhibit SHM. If the density decreases rapidly, the oscillation is faster (can you explain why?) and vice versa. 
- * This frequency of oscillation is called the BruntñV‰is‰l‰ Frequency. In such a situation, the atmosphere is said to be stable. If the density increases with height, then the parcel always experiences a force upward. In this case, no SHM is possible and the atmosphere is unstable. In such a situation cloud formation and thunderstorms occur.
+ * The video describes the Brunt-V√§is√§l√§  frequency in SHM. The oscillation of air/water parcels depends on the rate of change of density with height and acceleration due to gravity. If the density decreases with height, the force always points to the position of rest and parcels exhibit SHM. If the density decreases rapidly, the oscillation is faster (can you explain why?) and vice versa. 
+ * This frequency of oscillation is called the Brunt-V√§is√§l√§  Frequency. In such a situation, the atmosphere is said to be stable. If the density increases with height, then the parcel always experiences a force upward. In this case, no SHM is possible and the atmosphere is unstable. In such a situation cloud formation and thunderstorms occur.
  
 ::: column(width=240)
 
@@ -155,7 +155,7 @@ Use the video micro-lecture, 'What causes stripey clouds?' to explain how SHM in
 
     x-media(src="images/vilho-vaisala.jpg" width=240 height=300 credit="Wikipedia" lightbox)
 
-{.caption} Vilho V‰is‰l‰ (1889-1969)
+{.caption} Vilho V√§is√§l√§  (1889-1969)
 
 :::
 
@@ -176,7 +176,7 @@ Use the tools and the concepts learned so far to discuss and determine answers t
 
 1. What is Simple Harmonic Motion (SHM)?
 2. What are simple harmonic oscillators? Discuss an example.
-3. What is the BruntñV‰is‰l‰ frequency and how can it be used to predict cloud formations and the occurrence of thunderstorms?
+3. What is the Brunt-V√§is√§l√§  frequency and how can it be used to predict cloud formations and the occurrence of thunderstorms?
 4. How can simple harmonic oscillations in the Earth's atmosphere and oceans be responsible for influencing the climate? 
 
 ---
