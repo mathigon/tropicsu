@@ -26,6 +26,9 @@ The tools in this lesson plan will enable students to:
 * explain how Archimedes' principle (buoyancy of objects in fluids) can cause parcels of air/water to oscillate in the atmosphere/ocean with the Brunt-Väisälä  frequency
 * how the Brunt-Väisälä  frequency can be used to predict cloud formation and thunderstorms 
 
+{div.credit}
+Teacher-contributed lesson plan by Joy Merwin Monteiro, India
+
 ---
 
 ## Introduction to simple harmonic motion and simple harmonic oscillators

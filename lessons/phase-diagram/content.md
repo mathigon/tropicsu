@@ -26,6 +26,9 @@ The tools in this lesson plan will enable students to:
 * compare the climates of Earth, Venus, and Mars with the help of the phase diagram of water
 * use the phase diagram to explain the water vapor feedback mechanism in the Earth's atmosphere and its role in making the planet habitable.
 
+{div.credit}
+Contributed by Dr. Upasana Issar, Assistant Professor, Kirori Mal College and Dr. Richa Arora, Assistant Professor, Shivaji College, (University of Delhi), India.
+
 ---
 
 ## Introduce the topic by playing a video micro-lecture
@@ -56,7 +59,7 @@ The tools in this lesson plan will enable students to:
 
 ::: column(width=240)
 
-    x-media(src="images/phase_diagram.jpg" width=240 height=160 credit="LibreTexts TM" lightbox)
+    x-media(src="images/phase_diagram.jpg" width=240 height=250 credit="LibreTexts TM" lightbox)
 
 {.caption} Phase Diagram
 :::
@@ -86,9 +89,9 @@ Micro-lecture (video), 'Phase Diagrams' Presented by Sal Khan for [Khan Academy]
  
 ::: column(width=240)
 
-    x-media(src="images/phase_diagram_water.jpg" width=240 height=160 credit="WikiMedia" lightbox)
+    x-media(src="images/phase_diagram_water.jpg" width=240 height=250 credit="WikiMedia" lightbox)
 
-{.caption} Phase Diagram
+{.caption} Phase Diagram of water
 
 :::
 
@@ -99,9 +102,9 @@ Micro-lecture (video), 'Phase Diagrams' Presented by Sal Khan for [Khan Academy]
 
 ::: column(width=240)
 
-    x-media(src="images/phase_diagram_co2.jpg" width=240 height=160 credit="WikiMedia" lightbox)
+    x-media(src="images/phase_diagram_co2.jpg" width=240 height=250 credit="WikiMedia" lightbox)
 
-{.caption} Phase Diagram
+{.caption} Phase Diagram of CO2
 
 :::
 {div.large-link} [Reading, 'Phase Diagrams'](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_%28Petrucci_et_al.%29/12%3A_Intermolecular_Forces%3A_Liquids_And_Solids/12.4%3A_Phase_Diagrams)
