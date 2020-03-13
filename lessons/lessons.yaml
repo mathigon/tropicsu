@@ -123,7 +123,7 @@ capitalism:
   description: Learn about Capitalism, Consumerism, Materials Economy and its effect on climate change
   grade: High School, Undergraduate 
   time: 90 min
-  color: 5c451e
+  color: d56452
 
 carbon-pricing:
   title: Carbon Pricing, Shadow and Market Prices
@@ -204,6 +204,15 @@ william-blake-poems:
   grade: High school, Undergraduate 
   time: 50-60 min 
   color: 5D5F61 
+
+beer-lambert-law:
+  title: Beer-Lambert Law and Earth's Atmosphere
+  discipline: Chemistry
+  description: Beer-Lambert Law, Molar Absorptivity, Absorbance and Transmittance of Incident Light, Molar Absorption Coefficient, Molar Extinction Coefficient
+  grade: Undergraduate
+  time: 50-60 min
+  color: 203b96 
+
 
 aerosols:
   title: Aerosols and Climate 
