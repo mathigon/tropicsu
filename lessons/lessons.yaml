@@ -253,3 +253,11 @@ thermodynamic-processes:
   grade: Undergraduate
   time: 50-60 min
   color: 203b96 
+
+isotopes:
+  title: Isotopic Compositions
+  discipline: Chemistry, Earth Sciences
+  description: Atomic Number, Mass Number, Isotopes, Isotopic Ratios and Compositions, Isotopes and past climate
+  grade: High School,Undergraduate
+  time: 120 min
+  color: 5ba400  
