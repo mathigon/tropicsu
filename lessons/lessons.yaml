@@ -257,6 +257,14 @@ simple-harmonic-motion:
   time: 50-60 min
   color: 5D5F61 
 
+carbon-cycle:
+  title: Carbon Cycle
+  discipline: Chemistry
+  description: Environmental Chemistry, Carbon Cycle, Biogeochemical Cycles
+  grade: High School, Undergraduate
+  time: 80-100 min
+  color: 2ea5cc 
+
 thermodynamic-processes:
   title: Thermodynamic Processes in the Atmosphere
   discipline: Physics
