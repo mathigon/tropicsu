@@ -108,7 +108,7 @@ Reading by [Columbia University, New York](https://www.columbia.edu/); Image cre
 
 ::: column.grow
 * Read the overview of the Carbon Lab [here](https://www.learner.org/courses/envsci/interactives/carbon/index.php).
-* Take the activity described in The Carbon Cycle (Step 1, Step 2, and For Your Consideration) [here](https://www.learner.org/courses/envsci/interactives/carbon/carbon_cycle_1.php).
+* Take the activity described in The Carbon Cycle as Step 1, Step 2, and For Your Consideration.
 * Questions/assignments are available at the end of the activities in The Carbon Cycle (Step 1, Step 2, and For Your Consideration). 
 
 
