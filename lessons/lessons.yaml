@@ -117,6 +117,7 @@ climate-refugee:
   time: 120 min
   color: 5c451e
 
+
 capitalism:
   title: Capitalism and Climate Change
   discipline: Social Sciences
@@ -124,6 +125,16 @@ capitalism:
   grade: High School, Undergraduate 
   time: 90 min
   color: d56452
+
+
+greenhouse-effect:
+  title: The Greenhouse effect
+  discipline: Environmental Sciences, Chemistry
+  description: Greenhouse Effect, Greenhouse Gases (GHGs)and Emission,Global Warming
+  grade: Middle School or High School
+  time: 50-60 min
+  color: 5c451e
+
 
 carbon-pricing:
   title: Carbon Pricing, Shadow and Market Prices
