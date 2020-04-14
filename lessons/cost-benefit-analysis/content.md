@@ -24,6 +24,15 @@ The tools in this lesson plan will enable students to:
 * apply cost-benefit analysis to global climate change
 * apply cost-benefit analysis to carbon emissions abatement
 
+### How to use this Lesson Plan 
+
+This video presents a Video Guide for this Lesson Plan. The first 3 min 52 sec of the video introduce how to use TROP ICSU resources followed by description of this Lesson Plan in Economics about Cost-Benefit Analysis.
+    
+    .video-wrap
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/5cPjEDoMhw8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen)
+
+
+
 ---
 
 ## What is Cost-Benefit Analysis

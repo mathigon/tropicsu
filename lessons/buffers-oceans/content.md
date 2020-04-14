@@ -23,6 +23,14 @@ The tools in this lesson plan will enable students to:
 * Explain ocean acidification and discuss its possible impact on the biosphere.
 
 
+### How to use this Lesson Plan 
+
+
+This video presents a Video Guide for this Lesson Plan. The first 3 min 52 sec of the video introduce how to use TROP ICSU resources followed by description of this Lesson Plan in Chemistry.
+    
+    .video-wrap
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/KmWKQaiufas" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen)
+
 	
 {div.credit}
 Lesson plan based on an idea submitted by **Dr. Pragya Gahlot, Sri Venkateswara College (University of Delhi), India**.
@@ -36,17 +44,24 @@ Want to know more about how to contribute? [Contact us](https://tropicsu.org/con
 > duration: 10 min
 
 ::: .teaching-notes
-Introduce the topic of buffers. Use the reading “Introduction to Buffers” to explain buffer action and the maintenance of pH in a buffer solution.
-
-Explain the term buffer capacity, buffer range, and the pH equation of a given buffer. Use examples in the text “How Does A Buffer Maintain pH?” to calculate changes in the pH values when a weak acid or base is added to a buffer solution.
-
-Discuss other examples of buffers in daily life, e.g., the buffering action of blood.
+* With the help of the reading, introduce the topic of buffers, explain buffer action and the maintenance of pH in a buffer solution.
+* Explain the term buffer capacity, buffer range, and the pH equation of a given buffer. 
+* Discuss other examples of buffers in daily life, e.g., the buffering action of blood.
 :::
 
 
-In chemistry, a buffer solution is a solution that resists the changes of its pH when an acid or base is added. 
-Following reading introduces the topic of buffers and explains the chemistry of buffer action in solution through examples.
+* In Chemistry, a buffer solution is a solution that resists the changes of its pH when an acid or base is added. 
+* Following reading introduces the topic of buffers and explains the chemistry of buffer action in solution through examples.
 
+::: column.grow
+* The reading will be helpful to understand buffer action and the maintenance of pH in a buffer solution.
+* Use examples (Examples 1 and 2) in the text “How Does A Buffer Maintain pH?” to calculate changes in the pH values when a weak acid or base is added to a buffer solution.
+::: column(width=240)
+
+    x-media(src="images/ph-scale.jpg" width=240 height=180 credit="SLCUSD" lightbox)
+
+{.caption} The pH Scale
+:::
 
 {div.large-link}[How Does A Buffer Maintain pH?](/resources/buffers-oceans/downloads/How_Does_A_Buffer_Maintain_Ph.pdf)
 
@@ -64,21 +79,31 @@ Following reading introduces the topic of buffers and explains the chemistry of 
 > duration: 10 min
 
 ::: .teaching-notes
-* Use the video micro-lecture “Ocean Buffer Chemistry” to describe carbonate buffering in the ocean.
-* Discuss how oceans behave as carbon sinks by absorbing atmospheric `CO_2`, and the maintenance of ocean pH levels owing to the buffering capacity of sea water. Further, use the video to explain the buffering range of oceans and the chemical implications of a higher concentration of dissolved `CO_2` (due to increased levels of atmospheric `CO_2`).
-* Explain how high levels of atmospheric `CO_2` could result in an excess of free hydrogen (H+) ions, thus potentially changing the pH values of seawater (acidification).
-* Further, use the video micro-lecture to illustrate Le Chatelier’s Principle—explain how increased `CO_2` concentration in seawater sequesters more carbonate (`CO_3^{2-}`) ions to keep the system in equilibrium. In conclusion, explain how ocean biota may be affected in the absence of freely available carbonate (`CO_3^{2-}`) ions.
+* Use this video micro-lecture explains carbonate buffering in the ocean. It also briefly discusses the change in the chemical composition of the ocean caused by a higher concentration of dissolved CO2, and the resulting effect on ocean biota.
+* Further, use the video micro-lecture to illustrate Le Chatelier’s Principle—explain how increased `CO_2` concentration in seawater sequesters more carbonate (`CO_3^{2-}`) ions to keep the system in equilibrium.
+* In conclusion, explain how ocean biota may be affected in the absence of freely available carbonate (`CO_3^{2-}`) ions.
 :::
 
 * Watch this micro-lecture about how oceans absorb atmospheric `CO_2` and the increase of acidity of sea water.
-understand how high levels of atmospheric `CO_2` could result in an excess of free hydrogen (H+) ions, thus potentially changing the pH values of seawater (acidification).
-* Further, get information about Le Chatelier’s Principle—explain how increased `CO_2` concentration in seawater sequesters more carbonate (`CO_3^{2-}`) ions to keep the system in equilibrium. 
+* Explore how high levels of atmospheric `CO_2` could result in an excess of free hydrogen (H+) ions, thus potentially changing the pH values of seawater (acidification).
+
+::: column.grow
+* Le Chatelier’s Principle states that, When any system at equilibrium for a long period of time is subjected to change in concentration, temperature, volume, or pressure, the system changes to a new equilibrium and this change partly counteracts the applied change.
+* Explore how Le Chatelier’s Principle is applicable here — how increased `CO_2` concentration in seawater sequesters more carbonate (`CO_3^{2-}`) ions to keep the system in equilibrium. 
 * Investigate how ocean biota may be affected in the absence of freely available carbonate (`CO_3^{2-}`) ions.
 
-{div.large-link}[Go to the Video “Ocean Buffer Chemistry”](http://www.kaltura.com/index.php/extwidget/preview/partner_id/1090132/uiconf_id/20652192/entry_id/1_16ghjcjg/embed/auto)
+::: column(width=240)
+
+    x-media(src="images/le_chatelier.jpg" width=240 height=240 credit="Wikipedia" lightbox)
+
+{.caption} Henry Louis Le Chatelier (1850-1936, France)
+:::
 
 
-{div.credit} [Prof. David Archer](https://geosci.uchicago.edu/people/david-archer/), University of Chicago. 
+{div.large-link}[Go to the Video “Ocean Buffer Chemistry”](https://www.coursera.org/learn/global-warming/lecture/EJvEp/ocean-buffer-chemistry)
+
+
+{div.credit} [Prof. David Archer](https://geosci.uchicago.edu/people/david-archer/), University of Chicago; Wikipedia 
 
 ---
 
@@ -91,9 +116,8 @@ understand how high levels of atmospheric `CO_2` could result in an excess of fr
 This visualization allows students to explore changes in the pH levels of oceans for different levels of atmospheric CO2, including the CO2 levels corresponding to various emission scenarios (as published by the Intergovernmental Panel on Climate Change (IPCC)).
 :::
 
-This section presents an applet to make simulations of the pH value of the oceans.
-
-Open the applet "Surface Ocean pH Levels". Select the "Background" tab to read the background that provides a detailed explanation of the relationship between atmospheric CO2 and ocean pH values. Click on “Instructions” tab to read the instructions to run the applet.
+* This section presents an applet to make simulations of the pH value of the oceans.
+* Open the applet "Surface Ocean pH Levels". Select the "Background" tab to read the background that provides a detailed explanation of the relationship between atmospheric CO2 and ocean pH values. Click on “Instructions” tab to read the instructions to run the applet.
 
 - Run the simulation to visualize the global pH value (as indicated on the pH indicator strip) of oceans for a given concentration of atmospheric CO2. You can vary the atmospheric CO2 levels by using the slider at the bottom left hand side to observe the corresponding changes in the pH value of the oceans.
 - Click the tab "Show Graph" to observe the graphs for concentrations of various species of carbonate ions in (i) a closed system and (ii) an open ocean; and the graph depicting the pH value of oceans for various atmospheric CO2 concentrations.
@@ -103,7 +127,7 @@ Note:  Detailed information about RCP projections is available in the same tab.
 
 ::: column.grow
 
-Finally, discuss the implications of the predicted pH value of oceans for different emission scenarios and the possible impacts on the Earth’s biosphere.
+* Finally, discuss the implications of the predicted pH value of oceans for different emission scenarios and the possible impacts on the Earth’s biosphere.
 
 ::: column(width=240)
 
@@ -148,7 +172,7 @@ Use the tools and the concepts learned so far to discuss and determine answers t
  
 2. 	Video 	
 
-Use the animated video “Demystifying ocean acidification and biodiversity impacts” to learn about ocean acidification and its impacts on the biodiversity of the planet.
+	Use the animated video “Demystifying ocean acidification and biodiversity impacts” to learn about ocean acidification and its impacts on the biodiversity of the planet.
 
 {div.large-link} [Go to the Video](https://www.youtube.com/watch?v=GL7qJYKzcsk)
 

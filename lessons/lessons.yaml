@@ -79,7 +79,7 @@ food-security:
 blackbody-radiation:
   title: Planck's Law and Blackbody Radiation
   discipline: Physics
-  description: Planetary Climates, Planetary Energy Balance, The Greenhouse Effect.
+  description: Learn about Planetary Climates, Planetary Energy Balance,and the Greenhouse Effect. Available in multiple languages.
   grade: High School, Undergraduate
   time: 120-150 min
   color: 353a42
@@ -199,6 +199,14 @@ hadley-circulation:
   grade: High School, Undergraduate
   time: 80-100 min
   color: 203b96
+
+carbon-compounds:
+  title: Carbon Compounds
+  discipline: Chemistry
+  description: Learn about the molecular structure of Carbon Compounds (CO2, CH4), their interaction with Electromagnetic Radiation, Molecular Vibrations, Greehouse Gases. Available in various languages.
+  grade: High School
+  time: 80-100 min
+  color: 8c5ccc 
 
 cost-benefit-analysis:
   title: Cost Benefit Analysis
