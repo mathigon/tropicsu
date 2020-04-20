@@ -288,3 +288,11 @@ isotopes:
   grade: High School,Undergraduate
   time: 120 min
   color: 5ba400  
+
+water-cycle:
+  title: The Water Cycle in a Sustainable World
+  discipline: Chemistry, Earth Sciences, Geography
+  description: Learn about  Water Cycle, Biogeochemical Cycles, Effect of climate change on the water cycle 
+  grade: High School,Undergraduate
+  time: 60-90 min
+  color: 8c5ccc  

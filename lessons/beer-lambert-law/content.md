@@ -1,4 +1,4 @@
-﻿# Beer-Lambert Law and Earth’s Atmosphere
+﻿# Beer-Lambert Law and Earth’s Atmosphere  
 
 ## Overview
 > section: overview
