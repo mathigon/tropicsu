@@ -5,7 +5,7 @@
 
 
 __Grade Level__: Undergraduate  
-__Discipline__: Social Sciences  
+__Discipline__: Economics, Social Sciences  
 __Topics__: Capitalist Modes of Production, Rise of Capitalism, Consumerism, Materials Economy, Commodification, Production of Capital   
 __Climate Topic__: Climate and the Anthroposphere    
 __Location__: Global  
