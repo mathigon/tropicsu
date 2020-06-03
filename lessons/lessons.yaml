@@ -200,6 +200,14 @@ sea-turtles:
   time: 80-90 min
   color: af9450
 
+poems:
+  title: How to Read and Analyze Poetry 
+  discipline: Humanities, English  
+  description: A Lesson Plan about how to read and analyze poetry and to use these techniques to examine climate related poems
+  grade: High school  
+  time: 50-60 min 
+  color: b8270a 
+
 hadley-circulation:
   title: Hadley Circulation and Heat Transport
   discipline: Geography, Earth Sciences, Physics
