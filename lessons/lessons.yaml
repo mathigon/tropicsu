@@ -253,3 +253,10 @@ thermodynamic-processes:
   grade: Undergraduate
   time: 50-60 min
   color: 203b96 
+
+carbon-cycle:
+  title: Carbon Cycle 
+  discipline: Chemistry
+  description: Environmental Chemistry, Carbon Cycle, Biogeochemical Cycles
+  grade: High school, Undergraduate
+  time: 120-140 min
