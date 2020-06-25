@@ -205,15 +205,6 @@ william-blake-poems:
   time: 50-60 min 
   color: 5D5F61 
 
-beer-lambert-law:
-  title: Earth's Atmosphere and Beer-Lambert Law
-  discipline: Chemistry
-  description: Beer-Lambert Law, Molar Absorptivity, Absorbance and Transmittance of Incident Light, Molar Absorption Coefficient, Molar Extinction Coefficient
-  grade: Undergraduate
-  time: 50-60 min
-  color: 203b96 
-
-
 aerosols:
   title: Aerosols and Climate 
   discipline: Chemistry, Environmental Sciences
