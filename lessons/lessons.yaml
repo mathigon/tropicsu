@@ -213,6 +213,14 @@ aerosols:
   time: 40-50 min 
   color: 5D5F61 
 
+beer-lambert-law:
+  title: Beer-Lambert Law and Earth's Atmosphere 
+  discipline: Chemistry
+  description: Beer-Lambert Law, Molar Absorptivity, Absorbance and Transmittance of Incident Light, Molar Absorption Coefficient, Molar Extinction Coefficient
+  grade: Undergraduate
+  time: 50-60 min
+  color: 203b96 
+
 mountains:
   title: Mountains and Climate Change
   discipline: Geography, Earth Sciences
