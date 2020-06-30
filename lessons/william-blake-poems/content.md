@@ -10,7 +10,7 @@ Thus, the use of this lesson plan allows you to integrate the teaching of a clim
 
 
 __Grade Level__: High school, Undergraduate   
-__Discipline__:  English Literature  
+__Discipline__:  Humanities     
 __Topics__: Analysis of Poetic Texts, Romantic Poetry, William Blake, Industrial Revolution, Child Labor, Chimney Sweeper, Coal Burning, Soot  
 __Climate Topic__: Climate and the Anthroposphere, Climate and the Atmosphere	
 __Location__: Global  

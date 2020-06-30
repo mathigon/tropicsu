@@ -52,6 +52,14 @@ microbial-life:
   time: 150 min
   color: 203b96
 
+greta-talk:
+  title: Listening Comprehension, Talk by Climate Activist Greta Thunberg
+  discipline: Humanities, Functional English
+  description: Explore how a talk by Climate Activist, Greta Thunberg can be used for listening comprehension, inferential questions and detecting emotive undertones.
+  grade: High school, Middle School
+  time: 50-60 min 
+  color: 5D5F61 
+
 phenology:
   title: Phenology in Plants
   discipline: Biology
@@ -79,7 +87,7 @@ food-security:
 blackbody-radiation:
   title: Planck's Law and Blackbody Radiation
   discipline: Physics
-  description: Planetary Climates, Planetary Energy Balance, The Greenhouse Effect.
+  description: Learn about Planetary Climates, Planetary Energy Balance,and the Greenhouse Effect. Available in multiple languages.
   grade: High School, Undergraduate
   time: 120-150 min
   color: 353a42
@@ -117,13 +125,24 @@ climate-refugee:
   time: 120 min
   color: 5c451e
 
+
 capitalism:
   title: Capitalism and Climate Change
-  discipline: Social Sciences
+  discipline: Economics, Social Sciences
   description: Learn about Capitalism, Consumerism, Materials Economy and its effect on climate change
   grade: High School, Undergraduate 
   time: 90 min
   color: d56452
+
+
+greenhouse-effect:
+  title: The Greenhouse effect
+  discipline: Environmental Sciences, Chemistry
+  description: Greenhouse Effect, Greenhouse Gases (GHGs)and Emission,Global Warming
+  grade: Middle School or High School
+  time: 50-60 min
+  color: 5c451e
+
 
 carbon-pricing:
   title: Carbon Pricing, Shadow and Market Prices
@@ -181,6 +200,14 @@ sea-turtles:
   time: 80-90 min
   color: af9450
 
+poems:
+  title: How to Read and Analyze Poetry 
+  discipline: Humanities, English  
+  description: A Lesson Plan about how to read and analyze poetry and to use these techniques to examine climate related poems
+  grade: High school  
+  time: 50-60 min 
+  color: b8270a 
+
 hadley-circulation:
   title: Hadley Circulation and Heat Transport
   discipline: Geography, Earth Sciences, Physics
@@ -188,6 +215,14 @@ hadley-circulation:
   grade: High School, Undergraduate
   time: 80-100 min
   color: 203b96
+
+carbon-compounds:
+  title: Carbon Compounds
+  discipline: Chemistry
+  description: Learn about the molecular structure of Carbon Compounds (CO2, CH4), their interaction with Electromagnetic Radiation, Molecular Vibrations, Greehouse Gases. Available in various languages.
+  grade: High School
+  time: 80-100 min
+  color: 8c5ccc 
 
 cost-benefit-analysis:
   title: Cost Benefit Analysis
@@ -199,7 +234,7 @@ cost-benefit-analysis:
 
 william-blake-poems:
   title: William Blake's "Chimney Sweeper" Poems and Industrial Age 
-  discipline: Literature
+  discipline: Humanities 
   description: English Literature, Analysis of Poetic Texts, William Blake, Romantic Poetry, Child Labor, Industrial Revolution 
   grade: High school, Undergraduate 
   time: 50-60 min 
@@ -214,7 +249,7 @@ aerosols:
   color: 5D5F61 
 
 beer-lambert-law:
-  title: Beer-Lambert Law and Earth's Atmosphere 
+  title: Beer-Lambert Law and Earth’s Atmosphere
   discipline: Chemistry
   description: Beer-Lambert Law, Molar Absorptivity, Absorbance and Transmittance of Incident Light, Molar Absorption Coefficient, Molar Extinction Coefficient
   grade: Undergraduate
@@ -245,6 +280,22 @@ simple-harmonic-motion:
   time: 50-60 min
   color: 5D5F61 
 
+climate-fiction-hermie:
+  title: Climate Fiction 'Hermie'- A Case of Climate Change
+  discipline: Humanities, English  
+  description: Climate fiction short story to teach literary analysis of fiction through narrative strategies
+  grade: High school, Middle school  
+  time: 50-60 min 
+  color: 353a42  
+
+carbon-cycle:
+  title: Carbon Cycle
+  discipline: Chemistry
+  description: Environmental Chemistry, Carbon Cycle, Biogeochemical Cycles
+  grade: High School, Undergraduate
+  time: 80-100 min
+  color: 2ea5cc 
+
 thermodynamic-processes:
   title: Thermodynamic Processes in the Atmosphere
   discipline: Physics
@@ -259,3 +310,36 @@ carbon-cycle:
   description: Environmental Chemistry, Carbon Cycle, Biogeochemical Cycles
   grade: High school, Undergraduate
   time: 120-140 min
+  color: 8c5ccc  
+
+isotopes:
+  title: Isotopic Compositions
+  discipline: Chemistry, Earth Sciences
+  description: Atomic Number, Mass Number, Isotopes, Isotopic Ratios and Compositions, Isotopes and past climate
+  grade: High School,Undergraduate
+  time: 120 min
+  color: 5ba400  
+
+water-cycle:
+  title: The Water Cycle in a Sustainable World
+  discipline: Chemistry, Earth Sciences, Geography
+  description: Learn about  Water Cycle, Biogeochemical Cycles, Effect of climate change on the water cycle 
+  grade: High School,Undergraduate
+  time: 60-90 min
+  color: 8c5ccc  
+
+note-making:
+  title: Note Making and Summary Writing Using Climate Literature
+  discipline: Humanities 
+  description: Learn how Climate Literature can be used to teach and learn note making skills and summary writing
+  grade: High school, Undergraduate 
+  time: 50-60 min 
+  color: 5D5F61 
+
+verbs-tenses:
+  title: Verb Tenses through Climate Literature
+  discipline: Humanities, English  
+  description: A Lesson Plan that can be used to teach/learn different types of verb tenses and discuss their usage in English language
+  grade: High school, Middle school  
+  time: 50-60 min 
+  color: 353a42  
