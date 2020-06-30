@@ -272,6 +272,14 @@ phase-diagram:
   time: 45-60 min
   color: 353a42 
 
+pollination:
+  title: Insect Pollination in a Warming World
+  discipline: Biological Sciences
+  description: A lesson plan about insect pollination and the impact of climate change on pollinators, pollinator systems and food security
+  grade: High School, Undergraduate
+  time: 2-3 sessions, 45-60 min each
+  color: 353a42   
+
 simple-harmonic-motion:
   title: Simple Harmonic Motion and Simple Harmonic Oscillators
   discipline: Physics
