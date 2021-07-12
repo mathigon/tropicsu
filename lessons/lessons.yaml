@@ -343,3 +343,21 @@ verbs-tenses:
   grade: High school, Middle school  
   time: 50-60 min 
   color: 353a42  
+
+# Addded by Prabodh Bharose
+
+bamboo-mountain-gorillas:
+  title: Ecological Niches and Biogeography:- Mountain Gorillas, Bamboo and Climate
+  discipline: Environmental Sciences, Biological Sciences
+  description: Learn about the Ecological niches and the Biogeographical distribution of Mountain Gorillas and their conservation.
+  grade: Undergraduate 
+  time: 70 min
+  color: 08bd49
+
+uncertainty-and-hurricanes:
+  title: Uncertainty and hurricanes
+  discipline: Statistics, Geography, Earth Sciences
+  description: A Lesson Plan that can be used to teach/learn disasters, hurricanes and the possible impact on climate change using statistical analysis topics such as Trends, Uncertainty, and Student’s t-distribution.
+  grade: High School, Undergraduate 
+  time: 90 – 120 min
+  color: 1dda60
