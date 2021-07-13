@@ -361,3 +361,11 @@ uncertainty-and-hurricanes:
   grade: High School, Undergraduate 
   time: 90 – 120 min
   color: 1dda60
+  
+infrared-spectroscopy-and-the-greenhouse-gas-effect:
+  title:  Infrared Spectroscopy and the Greenhouse Gas Effect
+  discipline: Chemistry
+  description: A Lesson Plan that can be used to teach/learn the use of infrared (IR) spectroscopy to study organic molecules of gases such as CO2 and water vapor on IR interactions & explaining the greenhouse effect.
+  grade: Undergraduate 
+  time: 45-60 min
+  color: EC9C15
