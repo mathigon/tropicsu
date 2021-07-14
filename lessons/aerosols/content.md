@@ -3,7 +3,7 @@
 ## Overview
 > section: overview
 
-As a High School Chemistry or Environmental Sciences teacher, you can use this set of computer-based tools to teach about aerosols, their sources, and their direct and indirect impact on climate.
+As a High school Chemistry or Environmental Sciences teacher, you can use this set of computer-based tools to teach about aerosols, their sources, and their direct and indirect impact on climate.
 This lesson plan will help students understand what aerosols are and what are the major sources of atmospheric aerosols. Students will learn the importance of atmospheric aerosols by evaluating their direct and indirect role in affecting climate. They will also learn how aerosol nano particles formation impacts Earth's climate by cloud seeding and precipitation. 
 
 Thus, the use of this lesson plan allows you to integrate the teaching of a climate science topic with a core topic in Chemistry or Environmental Sciences.
@@ -24,7 +24,7 @@ The tools in this lesson plan will enable students to:
 * what aerosols are and what are their main sources
 * the importance of the presence of aerosols in the atmosphere
 * the role of aerosols in cloud formation and precipitation
-* the mechanisms of the cooling or heating effects of atmospheric aerosols on the Earth’s surface
+* the mechanisms of the cooling or heating effects of atmospheric aerosols on the Earthï¿½s surface
 * the possible effect of various types of atmospheric aerosols on climate
 
 {div.credit} Lesson Plan contributed by Dr Shefali Shukla, Assistant Professor, Sri Venkateswara College (University of Delhi), India.

@@ -6,7 +6,7 @@
 As a high school or undergraduate Geography, Environmental Sciences or Earth Sciences teacher, you can use this set of computer-based tools to teach about permafrost, the nature and distribution of permafrost in the Earth’s cryosphere, thawing of permafrost due to global warming which in turn, results in the release of a potent greenhouse gas methane; and therefore, the possible impacts of permafrost thawing on climate.
 This lesson plan introduces the topic of permafrost and the observed thawing of permafrost in recent times due to rising global temperatures. A computer-based activity/model helps in exploring the possible impacts of permafrost thawing on the Earth’s climate. Thus, the use of this lesson plan allows you to integrate the teaching of a climate science topic with a core topic in Geography, Environmental Sciences or Earth Sciences.
 
-__Grade Level__: High School, undergraduate  
+__Grade Level__: High school, undergraduate  
 __Discipline__: Geography, Environmental Sciences, Earth Sciences  
 __Topics__: Permafrost, Methane, Thawing of Permafrost, Global Warming Methanogens, Greenhouse Gases Emissions  
 __Climate Topic__: Climate and the Cryosphere, The greenhouse effect  

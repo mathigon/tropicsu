@@ -3,7 +3,7 @@
 ## Overview
 > section: overview
 
-As a High School or Undergraduate Physics teacher, you can use this set of computer-based tools to teach about Simple Harmonic Motion (SHM) and Simple Harmonic Oscillators.
+As a High school or Undergraduate Physics teacher, you can use this set of computer-based tools to teach about Simple Harmonic Motion (SHM) and Simple Harmonic Oscillators.
 
 This lesson plan will allow you to teach your students about Simple Harmonic Motion (SHM) and simple harmonic oscillators and engage them in a hands-on activity to explore these concepts. Simple harmonic oscillations, that occur in stratified fluids due to the Archimedes' principle of buoyancy, can affect the flow of energy within large scale systems such as the Earth's atmosphere and the oceans by the displacement of parcels of air/water. This lesson plan will thus, explain how natural oscillations in the atmosphere/oceans with the Brunt-Väisälä frequency affect cloud formation, occurrence of thunderstorms, and internal waves within oceans and thus, affect the climate.
 

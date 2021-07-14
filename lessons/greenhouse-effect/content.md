@@ -3,7 +3,7 @@
 ## Overview
 > section: overview
 
-As a Middle School or High School Environmental Sciences teacher, you can use this lesson plan to teach about the Greenhouse Effect of the Earth’s atmosphere. This lesson plan will explain what are Greenhouse Gases (GHGs), what is the Global Warming Potential (GWP) of atmospheric Greenhouse
+As a Middle School or High school Environmental Sciences teacher, you can use this lesson plan to teach about the Greenhouse Effect of the Earth’s atmosphere. This lesson plan will explain what are Greenhouse Gases (GHGs), what is the Global Warming Potential (GWP) of atmospheric Greenhouse
 Gases, and how increased concentrations of greenhouse gases in the atmosphere can cause global warming of the planet.
 
 The Earth’s atmosphere is made up of several gases. It allows incoming solar radiation to enter and warm the Earth’s surface which then radiates energy back into space. Some gases in the atmosphere absorb the outgoing terrestrial radiation and re-radiate it back to the Earth, thereby increasing Earth’s

@@ -103,7 +103,7 @@ Following short video introduces the topics heat transport in the atmosphere and
 
 {div.large-link} [Activity "Hadley Circulation using NASA MERRA Reanalysis Model"](https://pcc.uw.edu/education/classroom-resources/climate-teaching-modules/uwhs-atms-211-hadley-circulation-using-nasa-merra-reanalysis-model/)
 
-{div.credit} Stephen Po-Chedley and Chris Terai, Atmospheric Sciences (2012) for the UW in the High School Climate Science Course; [Program on Climate Change, University of Washington](https://pcc.uw.edu/)
+{div.credit} Stephen Po-Chedley and Chris Terai, Atmospheric Sciences (2012) for the UW in the High school Climate Science Course; [Program on Climate Change, University of Washington](https://pcc.uw.edu/)
 
 ---
 
@@ -116,7 +116,7 @@ Use the tools and the concepts learned so far to discuss and determine answers t
 1. How does the Hadley Cell transport heat in the atmosphere?
 2. Describe the geographical distribution of deserts. How does Hadley Circulation influence this distribution?
 3. What are the possible effects of climate change on Hadley Circulation?
-4. What might be the potential impacts of Hadley Cell expansion on Earth’s climate, global precipitation patterns, and the geographical distribution of deserts?
+4. What might be the potential impacts of Hadley Cell expansion on Earthï¿½s climate, global precipitation patterns, and the geographical distribution of deserts?
 
 ---
 
