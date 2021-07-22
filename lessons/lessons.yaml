@@ -360,7 +360,7 @@ uncertainty-and-hurricanes:
   description: A Lesson Plan that can be used to teach/learn disasters, hurricanes and the possible impact on climate change using statistical analysis topics such as Trends, Uncertainty, and Student’s t-distribution.
   grade: High school, Undergraduate 
   time: 90 – 120 min
-  color: 1dda60
+  color: 375673
   
 infrared-spectroscopy-and-the-greenhouse-gas-effect:
   title:  Infrared Spectroscopy and the Greenhouse Gas Effect
@@ -376,4 +376,12 @@ trignometry-sea-rise:
   description: A Lesson Plan that can be used to teach/learn simple trigonometric functions to understand the phenomenon of global warming & it's effect on glaciers and ice sheets causing the sea levels to rise.
   grade: High school 
   time: 50-60 min
-  color: 751207 
+  color: dcd8d1
+
+hazards-and-disasters:
+  title: Hazards and Disasters
+  discipline: Geography, Earth Sciences
+  description: A Lesson Plan that can be used to teach/learn how the melting of polar ice due to climate change can result in an increase in sea levels globally. Also determine the reasons and visualize the climate change-related flooding & it's effects on vulnerable coastal regions.
+  grade: High school, Undergraduate
+  time: 140-200 min
+  color: d1945c
