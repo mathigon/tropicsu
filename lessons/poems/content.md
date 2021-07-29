@@ -3,7 +3,7 @@
 ## Overview
 > section: overview
 
-As a High School English Language teacher, you can use this lesson plan to teach your students how to read and analyze poetry and to use these techniques to examine climate related poems.
+As a High school English Language teacher, you can use this lesson plan to teach your students how to read and analyze poetry and to use these techniques to examine climate related poems.
 
 In this lesson plan, students will be taught how to read poetry and identify elements such as theme, structure, and tone. Through this lesson plan your students will also be introduced to one of the most significant issues of our times- Climate Change.
 Thus, the use of this lesson plan allows you to integrate the teaching of a climate science topic with a core topic in English Language.

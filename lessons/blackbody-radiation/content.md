@@ -6,7 +6,7 @@
 This lesson allows students to visualize the emission spectra associated with particular temperatures, to understand how Planck’s Law can be used to plot blackbody curves of objects with different temperatures, and to learn the relationship between temperature and peak wavelengths in the electromagnetic spectrum. The activity also introduces the topic of planetary temperatures of objects in the solar system and shows the greenhouse effect of Earth’s atmosphere.
 Thus, the use of this toolkit allows you to integrate the teaching of a climate science topic with a core topic in Physics.
 
-__Grade Level__: High School, undergraduate  
+__Grade Level__: High school, undergraduate  
 __Discipline__: Physics  
 __Topics__: Plannks Law, Wien's Law, Blackbody Radiation, Stefan-Boltzmann Law, Relationship between Temperature and Peak Wavelength of the Electromagnetic Spectrum, Planetary Temperatures as a function of solar energy received, Greenhouse Effect of Earth’s Atmosphere  
 __Climate Topic__: Planetary Climates, Planetary Energy Balance, The greenhouse effect  

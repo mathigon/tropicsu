@@ -4,7 +4,7 @@
 ## Overview
 > section: overview
 
-As a High School or Undergraduate Geography or Earth Sciences teacher, you can use this set of computer-based tools to teach about mountains that comprise one of Earth's major landforms and the factors that affect their climate. This lesson plan will teach your students about geomorphic characteristics of mountains, orogeny- formation of mountains through tectonic processes in the Earth's crust and enable them to describe different types of mountains (such as fold and fault-block mountains) and major mountain systems of the world.
+As a High school or Undergraduate Geography or Earth Sciences teacher, you can use this set of computer-based tools to teach about mountains that comprise one of Earth's major landforms and the factors that affect their climate. This lesson plan will teach your students about geomorphic characteristics of mountains, orogeny- formation of mountains through tectonic processes in the Earth's crust and enable them to describe different types of mountains (such as fold and fault-block mountains) and major mountain systems of the world.
 This lesson plan also includes a resource to explain how global climatic factors affect mountains and how mountains in turn, affect regional climate.
 
 Thus, the use of this lesson plan allows you to integrate the teaching of a climate science topic with a core topic in Geography or Earth Sciences.
@@ -118,7 +118,7 @@ Use a reading to describe the effect of climate change on mountains.
 
 ::: column(width=240)
 
-    x-media(src="images/jura-mountain-swiss-large.jpg" width=240 height=160 credit="Encyclopædia Britannica" lightbox)
+    x-media(src="images/jura-mountain-swiss-large.jpg" width=240 height=160 credit="Encyclopï¿½dia Britannica" lightbox)
 
 {.caption} Jura Mountains, Neuchatel canton, Switzerland
 

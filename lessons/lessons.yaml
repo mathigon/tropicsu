@@ -16,7 +16,7 @@ co2-calculus:
   title: Calculus and CO2 Emissions
   discipline: Mathematics
   description: Learn to solve calculus and tangent line problems using atmospheric CO2 data and the Greenhouse effect.
-  grade: High School, Undergraduate
+  grade: High school, Undergraduate
   time: 120 min
   color: 2ea5cc
 
@@ -24,7 +24,7 @@ human-health:
   title: Malaria and Human Health
   discipline: Biology, Environmental Sciences
   description: Learn about Protozoa, vectors, vector-borne diseases, the Spread of Malaria and human health.
-  grade: High School
+  grade: High school
   time: 180 min
   color: f7931e
 
@@ -40,7 +40,7 @@ buffers-oceans:
   title: Buffers, Buffer Action and Ocean Acidification
   discipline: Chemistry, Environmental Sciences, Earth Sciences
   description: Learn about chemical buffer solutions, and how the CO2 in the atmosphere makes the oceans more acid.
-  grade: High School, Undergraduate
+  grade: High school, Undergraduate
   time: 40 min
   color: d56452
 
@@ -48,7 +48,7 @@ microbial-life:
   title: Microbial Life
   discipline: Biology
   description: Learn about Microbes, Bacterial Growth and Adaptation, Gas Cycling and Greenhouse Gases.
-  grade: High School, Undergraduate
+  grade: High school, Undergraduate
   time: 150 min
   color: 203b96
 
@@ -64,7 +64,7 @@ phenology:
   title: Phenology in Plants
   discipline: Biology
   description: Learn about life-cycle and phenological events in plants, as well as leaf-out in plants.
-  grade: High School, Undergraduate
+  grade: High school, Undergraduate
   time: 110 min
   color: b8270a
 
@@ -72,7 +72,7 @@ glaciers:
   title: Glaciers, Glacial Retreat, Cryosphere
   discipline: Geography, Earth Sciences
   description: Glaciology, Glaciers and Glacial Retreat, and the Cryosphere-Climate Relationship.
-  grade: High School, Undergraduate
+  grade: High school, Undergraduate
   time: 100 min
   color: 353a42
   
@@ -80,7 +80,7 @@ food-security:
   title: Climate Change, Food Security and Agriculture
   discipline: Social Sciences, Environmental Sciences
   description: Relationship between Climate Change and Agriculture
-  grade: High School, Undergraduate
+  grade: High school, Undergraduate
   time: 90-130 min
   color: af9450
 
@@ -88,7 +88,7 @@ blackbody-radiation:
   title: Planck's Law and Blackbody Radiation
   discipline: Physics
   description: Learn about Planetary Climates, Planetary Energy Balance,and the Greenhouse Effect. Available in multiple languages.
-  grade: High School, Undergraduate
+  grade: High school, Undergraduate
   time: 120-150 min
   color: 353a42
 
@@ -105,7 +105,7 @@ coriolis-force:
   title: Coriolis Force
   discipline: Physics, Earth Sciences
   description: Understand the Coriolis force, and the effect of the Coriolis force on weather and climate.
-  grade: High School, Undergraduate
+  grade: High school, Undergraduate
   time: 40-50 min
   color: 353a42
   
@@ -121,7 +121,7 @@ climate-refugee:
   title: Climate Refugees
   discipline: Social Sciences, Humanities, Environmental Sciences
   description: Learn about Climate Change and Human Migration, Climate Justice, Social and Environmental Policy 
-  grade: High School, Undergraduate 
+  grade: High school, Undergraduate 
   time: 120 min
   color: 5c451e
 
@@ -130,7 +130,7 @@ capitalism:
   title: Capitalism and Climate Change
   discipline: Economics, Social Sciences
   description: Learn about Capitalism, Consumerism, Materials Economy and its effect on climate change
-  grade: High School, Undergraduate 
+  grade: High school, Undergraduate 
   time: 90 min
   color: d56452
 
@@ -139,7 +139,7 @@ greenhouse-effect:
   title: The Greenhouse effect
   discipline: Environmental Sciences, Chemistry
   description: Greenhouse Effect, Greenhouse Gases (GHGs)and Emission,Global Warming
-  grade: Middle School or High School
+  grade: Middle School or High school
   time: 50-60 min
   color: 5c451e
 
@@ -164,7 +164,7 @@ permafrost:
   title: Permafrost and Climate Change
   discipline: Geography, Environmental Sciences, Earth Sciences
   description: permafrost and its thawing due to rising global temperatures
-  grade: High School, Undergraduate
+  grade: High school, Undergraduate
   time: 50-60 min
   color: 2ea5cc
 
@@ -172,7 +172,7 @@ natural-selection:
   title: Natural Selection
   discipline: Biology
   description: Learn about  natural selection, its role in evolution and climate change as a selective pressure in natural selection
-  grade: High School, Undergraduate
+  grade: High school, Undergraduate
   time: 40-60 min
   color: 353a42
 
@@ -180,7 +180,7 @@ photosynthesis:
   title: Impact of Climate Change on Photosynthesis
   discipline: Biology
   description: Learn about photosynthesis, influencing factors, C3-C4 plants, CAM Plants, Calvin Cycle
-  grade: High School, Undergraduate
+  grade: High school, Undergraduate
   time: 100-120 min
   color: 5ba400
 
@@ -188,7 +188,7 @@ hydrocarbons:
   title: Hydrocarbons and Climate Change
   discipline: Chemistry, Environmental Sciences
   description: Learn about Hydrocarbons,Fossil fuels and impact of thier emissions 
-  grade: High School
+  grade: High school
   time: 50-60 min
   color: f7931e
 
@@ -196,7 +196,7 @@ sea-turtles:
   title: Climate Change Impact on Sea Turtles
   discipline: Biology
   description: Impact of Climate Change on Sex Determination in Sea Turtles
-  grade: High School
+  grade: High school
   time: 80-90 min
   color: af9450
 
@@ -212,7 +212,7 @@ hadley-circulation:
   title: Hadley Circulation and Heat Transport
   discipline: Geography, Earth Sciences, Physics
   description: Hadley Circulation, Heat Transport, Global Precipitation Patterns, Geographical Distribution of Deserts 
-  grade: High School, Undergraduate
+  grade: High school, Undergraduate
   time: 80-100 min
   color: 203b96
 
@@ -220,7 +220,7 @@ carbon-compounds:
   title: Carbon Compounds
   discipline: Chemistry
   description: Learn about the molecular structure of Carbon Compounds (CO2, CH4), their interaction with Electromagnetic Radiation, Molecular Vibrations, Greehouse Gases. Available in various languages.
-  grade: High School
+  grade: High school
   time: 80-100 min
   color: 8c5ccc 
 
@@ -260,7 +260,7 @@ mountains:
   title: Mountains and Climate Change
   discipline: Geography, Earth Sciences
   description: Characterisitcs of mountains, Relationship between climate factors and the mountains
-  grade: High School, Undergraduate
+  grade: High school, Undergraduate
   time: 50-60 min
   color: 2ea5cc 
 
@@ -268,7 +268,7 @@ phase-diagram:
   title: Phase Diagrams and Phase Equilibria
   discipline: Physics, Chemistry, Earth Sciences
   description: Phase Equilibria, Phase Diagrams of Water, Degrees of Freedom, Feedback Mechanisms, Vapour Pressure, Runaway Greenhouse Effect
-  grade: High School, Undergraduate
+  grade: High school, Undergraduate
   time: 45-60 min
   color: 353a42 
 
@@ -276,7 +276,7 @@ pollination:
   title: Insect Pollination in a Warming World
   discipline: Biological Sciences
   description: A lesson plan about insect pollination and the impact of climate change on pollinators, pollinator systems and food security
-  grade: High School, Undergraduate
+  grade: High school, Undergraduate
   time: 2-3 sessions, 45-60 min each
   color: 353a42   
 
@@ -284,7 +284,7 @@ simple-harmonic-motion:
   title: Simple Harmonic Motion and Simple Harmonic Oscillators
   discipline: Physics
   description: Simple Harmonic Motion (SHM), Simple Harmonic Oscillators, Buoyancy in Fluids, Brunt-Väisälä Frequency, Stratified Fluids, Density Gradient
-  grade: High School, Undergraduate
+  grade: High school, Undergraduate
   time: 50-60 min
   color: 5D5F61 
 
@@ -300,7 +300,7 @@ carbon-cycle:
   title: Carbon Cycle
   discipline: Chemistry
   description: Environmental Chemistry, Carbon Cycle, Biogeochemical Cycles
-  grade: High School, Undergraduate
+  grade: High school, Undergraduate
   time: 80-100 min
   color: 2ea5cc 
 
@@ -316,7 +316,7 @@ isotopes:
   title: Isotopic Compositions
   discipline: Chemistry, Earth Sciences
   description: Atomic Number, Mass Number, Isotopes, Isotopic Ratios and Compositions, Isotopes and past climate
-  grade: High School,Undergraduate
+  grade: High school,Undergraduate
   time: 120 min
   color: 5ba400  
 
@@ -324,7 +324,7 @@ water-cycle:
   title: The Water Cycle in a Sustainable World
   discipline: Chemistry, Earth Sciences, Geography
   description: Learn about  Water Cycle, Biogeochemical Cycles, Effect of climate change on the water cycle 
-  grade: High School,Undergraduate
+  grade: High school,Undergraduate
   time: 60-90 min
   color: 8c5ccc  
 
@@ -343,3 +343,37 @@ verbs-tenses:
   grade: High school, Middle school  
   time: 50-60 min 
   color: 353a42  
+
+# Addded by Prabodh Bharose
+
+bamboo-mountain-gorillas:
+  title: Ecological Niches and Biogeography:- Mountain Gorillas, Bamboo and Climate
+  discipline: Environmental Sciences, Biological Sciences
+  description: Learn about the Ecological niches and the Biogeographical distribution of Mountain Gorillas and their conservation.
+  grade: Undergraduate 
+  time: 70 min
+  color: 08bd49
+
+uncertainty-and-hurricanes:
+  title: Uncertainty and hurricanes
+  discipline: Statistics, Geography, Earth Sciences
+  description: A Lesson Plan that can be used to teach/learn disasters, hurricanes and the possible impact on climate change using statistical analysis topics such as Trends, Uncertainty, and Student’s t-distribution.
+  grade: High school, Undergraduate 
+  time: 90 – 120 min
+  color: 1dda60
+  
+infrared-spectroscopy-and-the-greenhouse-gas-effect:
+  title:  Infrared Spectroscopy and the Greenhouse Gas Effect
+  discipline: Chemistry
+  description: A Lesson Plan that can be used to teach/learn the use of infrared (IR) spectroscopy to study organic molecules of gases such as CO2 and water vapor on IR interactions & explaining the greenhouse effect.
+  grade: Undergraduate 
+  time: 45-60 min
+  color: EC9C15
+
+trignometry-sea-rise:
+  title:  Trigonometry and Sea Level Rise
+  discipline: Mathematics
+  description: A Lesson Plan that can be used to teach/learn simple trigonometric functions to understand the phenomenon of global warming & it's effect on glaciers and ice sheets causing the sea levels to rise.
+  grade: High school 
+  time: 50-60 min
+  color: 751207 

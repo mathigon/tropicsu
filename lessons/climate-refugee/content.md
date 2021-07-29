@@ -8,7 +8,7 @@ As a high school or undergraduate Social Sciences, Humanities, or Environmental 
 This lesson plan enables students to learn about human migration caused by climate change, and the term 'Climate Refugees' and its growing significance. The activity provides insights into geographic locations whose existence is threatened by climate change, and communities that are fleeing their homes, resulting in large-scale migration.
 Thus, the use of this lesson plan allows you to integrate the teaching of a climate science topic with a core topic in Social Sciences.
 
-__Grade Level__: High School, undergraduate  
+__Grade Level__: High school, undergraduate  
 __Discipline__:  Social Sciences, Humanities, Environmental Sciences  
 __Topics__:   Climate Change and Human Migration, Climate Refugees, Climate Justice   
 __Climate Topic__: Policies, Politics, and Environmental Governance; Climate Refugees; Climate Justice  

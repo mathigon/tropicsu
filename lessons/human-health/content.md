@@ -7,7 +7,7 @@ This lesson plan allows students to study the geographical distribution and spre
 
 Thus, the use of this lesson plan allows you to integrate the teaching of a climate science topic with a core topic in the Biological Sciences.
 
-__Grade Level__: High School  
+__Grade Level__: High school  
 __Discipline__:	 Biological Sciences, Environmental Sciences  
 __Topic(s) in Discipline__:	Protozoa, Vectors, Vector-borne Diseases, Malaria, Climate Change and the Spread of Malaria, Climate Change and Human Health  
 __Climate Topic__ : Climate and Health  
