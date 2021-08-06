@@ -22,7 +22,7 @@ co2-calculus:
 
 human-health:
   title: Malaria and Human Health
-  discipline: Biology, Environmental Sciences
+  discipline: Biological Sciences, Environmental Sciences
   description: Learn about Protozoa, vectors, vector-borne diseases, the Spread of Malaria and human health.
   grade: High school
   time: 180 min
@@ -46,7 +46,7 @@ buffers-oceans:
 
 microbial-life:
   title: Microbial Life
-  discipline: Biology
+  discipline: Biological Sciences
   description: Learn about Microbes, Bacterial Growth and Adaptation, Gas Cycling and Greenhouse Gases.
   grade: High school, Undergraduate
   time: 150 min
@@ -62,7 +62,7 @@ greta-talk:
 
 phenology:
   title: Phenology in Plants
-  discipline: Biology
+  discipline: Biological Sciences
   description: Learn about life-cycle and phenological events in plants, as well as leaf-out in plants.
   grade: High school, Undergraduate
   time: 110 min
@@ -111,7 +111,7 @@ coriolis-force:
   
 plant-physiology:
   title: Plant Physiology
-  discipline: Biology
+  discipline: Biological Sciences
   description: Learn about Photosynthetic Pathways, C3, C4, and CAM Plants, Photorespiration, Stomatal Conductance, Photosynthetic Efficiency, Homoeostasis
   grade: Undergraduate
   time: 80 min
@@ -154,7 +154,7 @@ carbon-pricing:
 
 abiotic-stress:
   title: Abiotic Stress on Plants due to Climate Change
-  discipline: Biology
+  discipline: Biological Sciences
   description: Learn about plant physiology, abiotic stress in plants
   grade: High school, Undergraduate 
   time: 40-150 min
@@ -170,7 +170,7 @@ permafrost:
 
 natural-selection:
   title: Natural Selection
-  discipline: Biology
+  discipline: Biological Sciences
   description: Learn about  natural selection, its role in evolution and climate change as a selective pressure in natural selection
   grade: High school, Undergraduate
   time: 40-60 min
@@ -178,7 +178,7 @@ natural-selection:
 
 photosynthesis:
   title: Impact of Climate Change on Photosynthesis
-  discipline: Biology
+  discipline: Biological Sciences
   description: Learn about photosynthesis, influencing factors, C3-C4 plants, CAM Plants, Calvin Cycle
   grade: High school, Undergraduate
   time: 100-120 min
@@ -194,7 +194,7 @@ hydrocarbons:
 
 sea-turtles:
   title: Climate Change Impact on Sea Turtles
-  discipline: Biology
+  discipline: Biological Sciences
   description: Impact of Climate Change on Sex Determination in Sea Turtles
   grade: High school
   time: 80-90 min
@@ -360,7 +360,7 @@ uncertainty-and-hurricanes:
   description: A Lesson Plan that can be used to teach/learn disasters, hurricanes and the possible impact on climate change using statistical analysis topics such as Trends, Uncertainty, and Student’s t-distribution.
   grade: High school, Undergraduate 
   time: 90 – 120 min
-  color: 375673
+  color: 01013d
   
 infrared-spectroscopy-and-the-greenhouse-gas-effect:
   title:  Infrared Spectroscopy and the Greenhouse Gas Effect
@@ -368,7 +368,7 @@ infrared-spectroscopy-and-the-greenhouse-gas-effect:
   description: A Lesson Plan that can be used to teach/learn the use of infrared (IR) spectroscopy to study organic molecules of gases such as CO2 and water vapor on IR interactions & explaining the greenhouse effect.
   grade: Undergraduate 
   time: 45-60 min
-  color: EC9C15
+  color: 859dd3
 
 trignometry-sea-rise:
   title:  Trigonometry and Sea Level Rise
@@ -376,7 +376,7 @@ trignometry-sea-rise:
   description: A Lesson Plan that can be used to teach/learn simple trigonometric functions to understand the phenomenon of global warming & it's effect on glaciers and ice sheets causing the sea levels to rise.
   grade: High school 
   time: 50-60 min
-  color: dcd8d1
+  color: bcbcba
 
 hazards-and-disasters:
   title: Hazards and Disasters
@@ -384,4 +384,13 @@ hazards-and-disasters:
   description: A Lesson Plan that can be used to teach/learn how the melting of polar ice due to climate change can result in an increase in sea levels globally. Also determine the reasons and visualize the climate change-related flooding & it's effects on vulnerable coastal regions.
   grade: High school, Undergraduate
   time: 140-200 min
-  color: d1945c
+  color: bfab8c
+
+biodiversity:
+  title: Biodiversity
+  discipline: Biological Sciences
+  description: This lesson plan helps students to learn about the current and past habitats of an animal (specifically, squirrels), and how changing habitats can affect the distribution of a species.
+  grade: Undergraduate
+  time: 120-150 min
+  color: 524a31
+  
