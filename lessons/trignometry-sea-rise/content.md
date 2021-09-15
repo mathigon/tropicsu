@@ -99,17 +99,19 @@ Discuss further
 A classroom/laboratory activity to use trigonometry to calculate how much the coastline has receded (and will recede in the future) because of sea level rise.
 :::
 
-::: column(width=540, align=center)
+::: column
+	x-media(src="images/ContinentalShelf.jpg" credit="Chirag Dhara Firstpost" lightbox )
+{.caption} Continental Shelf
 
-    x-media(src="images/ContinentalShelf.jpg" width=540 height=460 credit="Chirag Dhara Firstpost" lightbox)
-:::
-<hr />
-
+::: column.grow
 The gently sloping area adjoining the coast is called the Continental Shelf, where the average downward slope is only about 0.1<sup>o</sup> as shown in the graphic above. 
 
 * Use the figure provided above to explain how sea level rise results in large-scale inundation of the coastline.
 
+
 * Use this depiction to explain to your students how trigonometric functions can be used to calculate the extent of land intrusion by the rising sea levels.
+
+:::
 
 * Recall the NASA estimate of sea level rise to be about 3cm in 10 years as noted from the previous tool. Now ask your students to calculate the coastline retreat because of sea level rise. Use the tangent trigonometric function to calculate coastline retreat.
 
@@ -120,6 +122,7 @@ The gently sloping area adjoining the coast is called the Continental Shelf, whe
 * How much has the coastline approximately receded since the 1850s to the present times?
 
 * How much do we expect it to recede by 2100?
+
 
 **Answer key**: 
 
@@ -153,6 +156,14 @@ Suggested questions/assignments for learning evaluation :
 > section: resources
 
 If you or your students would like to explore the topic further, these additional resources will be useful.
+
+### Trigonometry By Mathigon
+An interactive introduction to trignometry by [Mathigon](https://mathigon.org/).
+
+{div.large-link} [Trigonometry By Mathigon](https://mathigon.org/course/triangles/trigonometry)
+
+{div.credit} [Mathigon](https://mathigon.org/)
+
 
 ### **Visualization** 
 An interactive visualization of NASA’s satellite measurements of ice melt from Greenland and Antarctica.
