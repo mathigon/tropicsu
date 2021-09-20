@@ -6,7 +6,7 @@
 As a high school Chemistry teacher, this set of computer-based tools will help you to introduce the topics of hydrocarbons in fossil fuels, carbon dioxide release by fossil fuel combustion and the effect of high atmospheric carbon dioxide on climate change.
 This lesson plan helps students to learn about hydrocarbons, different types of hydrocarbons, and how the products of their combustion reactions can potentially lead to climate change. Thus, the use of this lesson plan allows you to integrate the teaching of a climate science topic with a core topic in Chemistry.
 
-__Grade Level__: High school    
+__Grade Level__: High School    
 __Discipline__: Chemistry, Environmental Sciences  
 __Topics__: Chemistry: Fossil fuels, Hydrocarbons, Combustion reactions; Environmental Sciences: Carbon dioxide and global warming  
 __Climate Topic__: Climate and the Atmosphere, Climate and the anthroposphere, Energy sources and Climate change  

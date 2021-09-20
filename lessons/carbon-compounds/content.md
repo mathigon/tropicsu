@@ -9,7 +9,7 @@ This lesson plan allows students to visualize the molecular structure of atmosph
 This is a step-by-step guide to using this lesson plan in the classroom/laboratory. We have suggested these steps as a possible plan of action. You may customize the lesson plan according to your preferences and requirements.
 
  
-__Grade Level:__ Highechool   
+__Grade Level:__ High School   
 __Discipline:__ Chemistry   
 __Topics in Discipline:__ Interaction of Molecules with Electromagnetic Radiation, Molecular Vibrations and Molecular Structure of Carbon Compounds (CO2, CH4), Greehouse Gases   
 __Climate Topic:__ Climate and the Atmosphere, The Greenhouse Effect      

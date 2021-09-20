@@ -7,7 +7,7 @@ As a high school or undergraduate Biological Sciences teacher, you can use this 
 
 This lesson plan discusses abiotic stress in plants and their effect on plant physiology.  Students will learn about plant stress responses like acclimation and adaptation to environmental changes due to climate change. Thus, the use of this lesson plan allows you to integrate the teaching of a climate science topic with a core topic in Biological Sciences.
 
-__Grade Level__: High school, Undergraduate  
+__Grade Level__: High School, Undergraduate  
 __Discipline__: Biological Sciences  
 __Topics__: Abiotic Stress,Stress Physiology, Temperature Variation, Heat Stress, Phenotypic Plasticity, Acclimation in Plants, Adaptation in Plants, Physiological Plasticity  
 __Climate Topic__: Climate and the Biosphere  
@@ -145,4 +145,4 @@ If you or your students would like to explore the topic further, these additiona
 This long duration laboratory activity  will enable students to demonstrate the effect of environmental changes on the growth and development of some landscape and crop grasses.
 
 2. ['01: Introduction to stress physiology of plants'](https://www.youtube.com/watch?v=S5CYPwk4YN8):
-This video lecture, by Dr Nadine Rühr, Karlsruhe Institute of Technology (KIT), Germany, can be used as an alternative to introduce the topic of plant stress physiology.
+This video lecture, by Dr Nadine Rï¿½hr, Karlsruhe Institute of Technology (KIT), Germany, can be used as an alternative to introduce the topic of plant stress physiology.

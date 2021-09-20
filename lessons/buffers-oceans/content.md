@@ -6,7 +6,7 @@
 This lesson plan introduces the topic of buffers and describes carbonate buffering in the ocean when atmospheric `CO_2` dissolves in seawater. The buffering capacity of the ocean is, however, limited, and therefore, higher concentrations of dissolved `CO_2` can lead to ocean acidification. Students will use a computer-based activity/model to explore how higher atmospheric `CO_2` levels (resulting in an increase in dissolved CO2) can lead to ocean acidification. Thus, the use of this lesson plan allows you to integrate the teaching of a climate science topic with a core topic in Chemistry, Environmental Sciences, or Earth Sciences.
 
 
-__Grade Level__: High school, Undergraduate  
+__Grade Level__: High School, Undergraduate  
 __Discipline__: Chemistry, Environmental Sciences, Earth Sciences  
 __Topics__: Buffers, Buffer Action, pH Level, Buffer Capacity, Buffer Range, Acidification, Le Chatelier’s Principle  
 __Climate Topic__: Climate and the Hydrosphere, Climate and the Atmosphere, Climate and the Biosphere  

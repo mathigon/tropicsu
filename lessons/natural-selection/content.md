@@ -8,7 +8,7 @@ This lesson plan will enable the students to understand Darwin's theory of natur
 
 Thus, the use of this lesson plan allows you to integrate the teaching of a climate science topic with a core topic in the Biological Sciences.
 
-__Grade Level__: High school, Undergraduate  
+__Grade Level__: High School, Undergraduate  
 __Discipline__: Biological Sciences  
 __Topics__: Natural Selection, Selective Pressure, Evolution, Speciation,Evolutionary Hotspots, Genetic Polymorphism, Genetic Variants, Allelic Frequencies  
 __Climate Topic__: Climate and the Biosphere  

@@ -7,7 +7,7 @@ This lesson allows students to perform polynomial differentiation and solve
 tangent line problems using climate data such as atmospheric `CO_2`
 concentrations data since 1950.
 
-__Grade Level__: High school, undergraduate  
+__Grade Level__: High School, undergraduate  
 __Discipline__: Mathematics and Statistics  
 __Topics__: Introductory calculus, differentiation, derivatives of polynomials, tangent line problem  
 __Climate Topic__: Climate and the atmosphere, the greenhouse effect  

@@ -4,13 +4,13 @@
 ## Overview
 > section: overview
 
-As a High school or Undergraduate Geography or Earth Sciences teacher, you can use this set of computer-based tools to teach about mountains that comprise one of Earth's major landforms and the factors that affect their climate. This lesson plan will teach your students about geomorphic characteristics of mountains, orogeny- formation of mountains through tectonic processes in the Earth's crust and enable them to describe different types of mountains (such as fold and fault-block mountains) and major mountain systems of the world.
+As a High School or Undergraduate Geography or Earth Sciences teacher, you can use this set of computer-based tools to teach about mountains that comprise one of Earth's major landforms and the factors that affect their climate. This lesson plan will teach your students about geomorphic characteristics of mountains, orogeny- formation of mountains through tectonic processes in the Earth's crust and enable them to describe different types of mountains (such as fold and fault-block mountains) and major mountain systems of the world.
 This lesson plan also includes a resource to explain how global climatic factors affect mountains and how mountains in turn, affect regional climate.
 
 Thus, the use of this lesson plan allows you to integrate the teaching of a climate science topic with a core topic in Geography or Earth Sciences.
 
 
-__Grade Level__: High school, Undergraduate  
+__Grade Level__: High School, Undergraduate  
 __Discipline__: Geography, Earth Sciences  
 __Topics__: Orogeny, Tectonic Processes, Fold Mountains, Fault-Block Mountains, Volcanism, Crustal Shortening, Heating and Thermal Expansion, Alpine-Type Mountain Belts, Andean-Type Mountain Belts, Intracontinental Mountain Belts, Climate Factors- Latitude, Elevation and Continentality  
 __Climate Topic__: Climate and the Lithosphere  

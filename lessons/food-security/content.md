@@ -7,7 +7,7 @@ helps students understand the various aspects of food security, and the challeng
 
 Thus, the use of this lesson plan allows you to integrate the teaching of a climate science topic with a core topic in Social Sciences or Environmental Sciences.
 
-__Grade Level__: High school  
+__Grade Level__: High School  
 __Discipline__:	 Social Sciences, Environmental Sciences  
 __Topic(s) in Discipline__:	 Food Security, Agriculture, Climate Change and Food Security, Climate and the Food System, Climate Change and Agriculture  
 __Climate Topic__ : Climate and Food, Climate Change and Food Security, Climate Change and Agriculture  
@@ -50,7 +50,7 @@ Introduce the topic of food security and discuss the relationship between food p
 
 ---
 
-## For High school : Our changing climate and greenhouse gases
+## For High School : Our changing climate and greenhouse gases
 
 > section: reading
 > format: Reading

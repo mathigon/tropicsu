@@ -9,7 +9,7 @@ These poems may serve as an introduction to the genre of Romantic poetry that ga
 Thus, the use of this lesson plan allows you to integrate the teaching of a climate science topic with a core topic in English Literature.
 
 
-__Grade Level__: High school, Undergraduate   
+__Grade Level__: High School, Undergraduate   
 __Discipline__:  Humanities     
 __Topics__: Analysis of Poetic Texts, Romantic Poetry, William Blake, Industrial Revolution, Child Labor, Chimney Sweeper, Coal Burning, Soot  
 __Climate Topic__: Climate and the Anthroposphere, Climate and the Atmosphere	

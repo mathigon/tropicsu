@@ -8,7 +8,7 @@ As a high school or introductory undergraduate Chemistry, Geography or Earth Sci
 This lesson plan allows students to learn about the different stages of the water cycle and the factors that influence it. It includes resources that teach students about the different components of the water cycle in detail and how they can be affected by climate change. This lesson plan also enables students to learn about the distribution of water resources under a natural water cycle, how it could be altered due to anthropogenic practices, and what measures could be adopted for a sustainable future.
 The use of this lesson plan allows you to integrate the teaching of a climate science topic with a core topic in Chemistry, Geography or Earth Sciences.
 
-__Grade Level__: High school, Undergraduate   
+__Grade Level__: High School, Undergraduate   
 __Discipline__: Chemistry, Geography, Earth Sciences   
 __Topics__: Environmental Chemistry, Water Cycle, Biogeochemical Cycles, Hydrologic Cycle, Condensation, Evaporation, Evapotranspiration, Groundwater, Precipitation, Sublimation   
 __Climate Topic__: Climate and the Hydrosphere, Climate and the Atmosphere    
