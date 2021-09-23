@@ -8,7 +8,7 @@ This lesson plan allows students to understand isotopes, isotopic ratios, the re
 Thus, the use of this Lesson Plan allows you to integrate the teaching of a climate science topic with a core topic in Chemistry or Earth Sciences.
 
 
-__Grade Level__: High school, Undergraduate     
+__Grade Level__: High School, Undergraduate     
 __Discipline__: Chemistry, Earth Sciences  
 __Topics__: Atomic Number, Mass Number, Isotopes, Isotopic Ratios and Compositions  
 __Climate Topic__: Climate and the Cryosphere, Climate Variability Record  

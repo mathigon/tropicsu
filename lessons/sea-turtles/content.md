@@ -6,7 +6,7 @@
 As a high school Biological Sciences teacher, you can use this set of computer-based tools to help you in teaching about chromosomal and environmental sex determination in various species, and the factors that influence sex determination in sea turtles.
 This lesson plan allows students to learn about the mechanisms for determination of gender in different species, and specifically, in sea turtles. The activity will help students understand the possible effects of climate change (specifically, increase in temperature) on the sex ratio and population of sea turtles.
 
-__Grade Level__: High school    
+__Grade Level__: High School    
 __Discipline__: Biological Sciences  
 __Topics__: Sex Determination in Species, Chromosomal Sex Determination, Environmental Sex Determination (ESD), Sea Turtle Biology, Biodiversity, Ecology  
 __Climate Topic__: Climate and the Biosphere  

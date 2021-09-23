@@ -7,7 +7,7 @@ As a high school or undergraduate Geography or Earth Sciences teacher, you can u
 This lesson plan helps students learn about glaciers, and the factors that affect the movement and size of glaciers. The activity will also enable students to understand the possible impacts of climate change on glaciers and the climate-cryosphere link.
 Thus, the use of this lesson plan allows you to integrate the teaching of a climate science topic with a core topic in Earth Science or Geography.
 
-__Grade Level:__ High school, Undergraduate  
+__Grade Level:__ High School, Undergraduate  
 __Discipline:__ Geography, Earth Sciences  
 __Topics in Discipline:__ Glaciers, Cryosphere  
 __Climate Topica:__ Climate and Cryosphere  

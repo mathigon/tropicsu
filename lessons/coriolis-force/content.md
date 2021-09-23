@@ -7,7 +7,7 @@ As a high school or undergraduate Physics or Earth Sciences teacher, you can use
 
 This lesson plan allows students to understand the Coriolis Force, and the effect of the Coriolis Force on weather and climate. The videos and activity explain how the Coriolis effect determines the direction of trade winds and upwelling in the oceans.
 
-__Grade Level__: High school, undergraduate  
+__Grade Level__: High School, undergraduate  
 __Discipline__: Physics, Earth Sciences  
 __Topics__: Coriolis Force, Coriolis Effect, Trade Winds, Upwelling  
 __Climate Topic__: Climate and the atmosphere, Climate and the hydrosphere  

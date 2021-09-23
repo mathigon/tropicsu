@@ -8,7 +8,7 @@ Geography/Earth Sciences: The lesson plan also helps students to understand the 
 Physics: The lesson plan also helps students to apply the law of conservation of angular momentum and understand the concept of a thermally direct cell.
 Thus, the use of this lesson plan allows you to integrate the teaching of a climate science topic with a core topic in Geography, Earth Sciences, or Physics.
 
-__Grade Level__: High school, Undergraduate      
+__Grade Level__: High School, Undergraduate      
 __Discipline__: BGeography, Earth Sciences, Physics    
 __Topics__: Geography and Earth Sciences: Hadley Cell, Hadley Circulation, Heat Transport in the Atmosphere, Atmospheric Circulation, Global Precipitation Patterns, Geographical Distribution of Deserts, Coriolis Effect, Trade Winds, Intertropical Convergence Zone (ITCZ); Physics: Hadley Cell, Hadley Circulation, Heat Transport in the Atmosphere, Thermally Direct Cell, Law of Conservation of Angular Momentum  
 __Climate Topic__: Climate and the Atmosphere    
@@ -103,7 +103,7 @@ Following short video introduces the topics heat transport in the atmosphere and
 
 {div.large-link} [Activity "Hadley Circulation using NASA MERRA Reanalysis Model"](https://pcc.uw.edu/education/classroom-resources/climate-teaching-modules/uwhs-atms-211-hadley-circulation-using-nasa-merra-reanalysis-model/)
 
-{div.credit} Stephen Po-Chedley and Chris Terai, Atmospheric Sciences (2012) for the UW in the High school Climate Science Course; [Program on Climate Change, University of Washington](https://pcc.uw.edu/)
+{div.credit} Stephen Po-Chedley and Chris Terai, Atmospheric Sciences (2012) for the UW in the High School Climate Science Course; [Program on Climate Change, University of Washington](https://pcc.uw.edu/)
 
 ---
 

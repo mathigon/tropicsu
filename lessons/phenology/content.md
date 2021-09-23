@@ -7,7 +7,7 @@ This lesson plan allows students to to understand phenology and phenological eve
 
 Thus, the use of this lesson plan allows you to integrate the teaching of a climate science topic with a core topic in the Biological Sciences.
 
-__Grade Level__: High school, Undergraduate  
+__Grade Level__: High School, Undergraduate  
 __Discipline__: Biological Sciences  
 __Topics__: Phenology in Plants, Phenological Events in Plants, Life-cycle Events in Plants, Leaf-out in Plants  
 __Climate Topic__: Climate and the Biosphere  

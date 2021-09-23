@@ -3,7 +3,7 @@
 ## Overview
 > section: overview
 
-__Grade Level__: High school, Middle school   
+__Grade Level__: High School, Middle school   
 __Discipline__:  Humanities, Functional English, English for Academic Purposes (EAP)       
 __Topics__:  Listening Comprehension, Inferential Questions, Emotive Undertones, Vocabulary, Creative Writing, Letter Writing   
 __Climate Topic__: Introduction to climate change, Climate Activism    

@@ -3,7 +3,7 @@
 ## Overview
 > section: overview
 
-As a High school Mathematics teacher, you can use this set of computer-based tools to teach basic trigonometry.
+As a High School Mathematics teacher, you can use this set of computer-based tools to teach basic trigonometry.
 
 Global warming is causing glaciers and ice sheets to melt thus causing sea levels to rise. The rate of sea level rise is a few millimeters per year. 
 
@@ -14,7 +14,7 @@ This lesson plan will enable students to apply simple trigonometric functions to
 Thus, the use of this lesson plan allows you to integrate the teaching of a climate science topic with a core topic in Mathematics.
 
 
-__Grade Level__: High school  
+__Grade Level__: High School  
 
 __Discipline__: Mathematics
 

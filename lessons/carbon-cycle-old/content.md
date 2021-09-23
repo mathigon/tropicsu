@@ -8,7 +8,7 @@ This lesson plan allows students to understand the carbon cycle, its components,
 Thus, the use of this lesson plan allows you to integrate the teaching of a climate science topic with a core topic in Chemistry.
 
 
-__Grade Level__: High school, Undergraduate  
+__Grade Level__: High School, Undergraduate  
 __Discipline__: Chemistry    
 __Topics__: Environmental Chemistry, Carbon Cycle, Biogeochemical Cycles  
 __Climate Topic__: Long-term Cycles and Feedback Mechanisms    
@@ -25,7 +25,7 @@ The tools in this lesson plan will enable students to:
 * explain the flow among the components in the carbon cycle
 * discuss the role of the carbon cycle in climate
 * analyze and discuss the impact of human activities (such as the use of fossil fuels) on CO2 levels in the carbon cycle
-* predict the possible effects of excess carbon in the system on the Earth’s climate
+* predict the possible effects of excess carbon in the system on the Earthï¿½s climate
 
 ---
 
@@ -39,7 +39,7 @@ The tools in this lesson plan will enable students to:
 Use an interactive diagram that introduces the global carbon cycle, its components, and the flow among the various components through video clips and images.
 :::
 
-* Get introduced to the topic of the global carbon cycle by using the interactive diagram “Carbon Cycle”, from the Science Learning Hub (New Zealand).
+* Get introduced to the topic of the global carbon cycle by using the interactive diagram ï¿½Carbon Cycleï¿½, from the Science Learning Hub (New Zealand).
 * Observe the components of the carbon cycle and observe the flow among these parts. Interact with the components by clicking on them to learn more details.
 
 :::
@@ -51,20 +51,20 @@ Use an interactive diagram that introduces the global carbon cycle, its componen
 
 ---
 
-## The Carbon Cycle and Earth’s Climate
+## The Carbon Cycle and Earthï¿½s Climate
 > section: reading
 > id: reading
 > format: reading
 > duration: 20-30 min
 
 ::: .teaching-notes
-Use a reading that provides an overview of the carbon cycle, and explains the link between the carbon cycle and the Earth’s climate.
+Use a reading that provides an overview of the carbon cycle, and explains the link between the carbon cycle and the Earthï¿½s climate.
 :::
 
-Use the reading “The Carbon Cycle and Earth’s Climate” from Columbia University to discuss details of the carbon cycle, some of the chemical reactions involved in the cycle, and the role of the carbon cycle in the Earth’s climate.
+Use the reading ï¿½The Carbon Cycle and Earthï¿½s Climateï¿½ from Columbia University to discuss details of the carbon cycle, some of the chemical reactions involved in the cycle, and the role of the carbon cycle in the Earthï¿½s climate.
 :::
 
-{div.large-link} [Reading "The Carbon Cycle and Earth’s Climate"](http://www.columbia.edu/~vjd1/carbon.htm)
+{div.large-link} [Reading "The Carbon Cycle and Earthï¿½s Climate"](http://www.columbia.edu/~vjd1/carbon.htm)
 
 {div.credit} [Columbia University](https://www.columbia.edu/), New York
 
@@ -77,10 +77,10 @@ Use the reading “The Carbon Cycle and Earth’s Climate” from Columbia University 
 > duration: 60 min
 
 ::: .teaching-notes
-Use a classroom/laboratory activity using an interactive simulation and associated exercises to help the students to explore and analyze how human activities may affect the natural carbon cycle, and to discuss the potential effects on the Earth’s climate.
+Use a classroom/laboratory activity using an interactive simulation and associated exercises to help the students to explore and analyze how human activities may affect the natural carbon cycle, and to discuss the potential effects on the Earthï¿½s climate.
 
 :::
- * Next, conduct a classroom/laboratory activity “Carbon Lab” (from Annenberg Learner’s Habitable Planet) to further explore the topic in an engaging manner.
+ * Next, conduct a classroom/laboratory activity ï¿½Carbon Labï¿½ (from Annenberg Learnerï¿½s Habitable Planet) to further explore the topic in an engaging manner.
  * This activity uses a simulation and associated exercises for students to explore and analyze possible anthropogenic impacts on the carbon cycle, and how such changes may impact our climate.
  * Read the overview of the Carbon Lab at  https://www.learner.org/courses/envsci/interactives/carbon/index.php
  * Do the activity described in The Carbon Cycle (Step 1, Step 2, and For Your Consideration).
@@ -93,7 +93,7 @@ Use a classroom/laboratory activity using an interactive simulation and associat
   * Questions/assignments are available at the end of the activities in The Carbon Cycle (Step 1, Step 2, and For Your Consideration).
 
   
-{div.credit} [Annenberg Learner’s Habitable Planet](https://www.learner.org/courses/envsci/index.html)
+{div.credit} [Annenberg Learnerï¿½s Habitable Planet](https://www.learner.org/courses/envsci/index.html)
 
 ---
 

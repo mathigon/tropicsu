@@ -3,11 +3,11 @@
 ## Overview
 > section: overview
 
-As a Middle or High school English teacher or a teacher of English as a second language, you can use this set of computer-based tools to teach tenses using climate literature.
+As a Middle or High School English teacher or a teacher of English as a second language, you can use this set of computer-based tools to teach tenses using climate literature.
 Global warming is causing glaciers to melt thus causing a water crisis. Satellite imagery is used to record and measure these climate induced changes on the Earth’s surface over time. This lesson plan includes a reading resource that reports on the rapid melting of Himalayan glaciers over the past 40 years due to global warming. In the context of this lesson plan, this text can be used to identify different types of verb tenses and discuss their usage in English language.
 The use of this lesson plan allows you to integrate the teaching of a climate science topic with a core topic in English.
 
-__Grade Level__: High school, Middle school   
+__Grade Level__: High School, Middle school   
 __Discipline__:  Humanities, English Language        
 __Topics__: Verb Tenses- Past, Present and Future, Subtypes of tenses- Simple, Continuous (progressive)and Perfect    
 __Climate Topic__: Introduction to climate change   

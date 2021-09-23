@@ -8,7 +8,7 @@ The lesson involves training students to listen to an academic talk carefully, m
 
 Thus, the use of this lesson plan allows you to integrate the teaching of a climate science topic with a core topic in English Language, English for Academic Purposes (EAP) or Functional English.
 
-__Grade Level__: High school, Undergraduate   
+__Grade Level__: High School, Undergraduate   
 __Discipline__:  Humanities, Functional English, English for Academic Purposes (EAP)     
 __Topics__: Note Making Skills, Summary Writing, Climate Change Communication, Rhetorical or Persuasive Strategies in Communication   
 __Climate Topic__: Introduction to climate change  	
