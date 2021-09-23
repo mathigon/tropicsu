@@ -5,7 +5,7 @@
 
 As a high school Chemistry teacher, you can use this set of computer-based tools to help yourself in teaching the pH scale, acids and bases, acidification, and environmental chemistry.
 
-This lesson plan allows students to understand the pH scale and acidification by analyzing the effect of atmospheric carbon dioxide on ocean chemistry. 
+This lesson plan allows students to understand the pH scale and acidification by analyzing the effect of atmospheric carbon dioxide on ocean chemistry.
 
 The activity ,introduced further, will also explore the potential effects of climate change on ocean acidification, and the possible impacts of ocean acidification on marine organisms. 
 
@@ -22,6 +22,7 @@ __Climate Topic__: Climate and the Hydrosphere
 __Location__: Global, USA
 __Languages__: English  
 __Access__: Online (some material can be downloaded for offline use) 
+
 
 ### Learning outcomes
 
