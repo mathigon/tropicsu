@@ -410,3 +410,28 @@ black-carbon-and-climate:
   grade: High School, Undergraduate
   time: 90-120 min
   color: 7A6307
+
+
+agrarian-civilizations-in-nile:
+  title: Agrarian Civilizations in the Nile Basin
+  discipline: History, Economics, Agriculture
+  description:  This lesson plan helps students to learn about the rise of agriculture and the concomitant rise of agrarian societies/civilizations.
+  grade: High School
+  time: 40-50 min
+  color: FFFBE1
+
+ecosystems-and-food-webs:
+  title: Ecosystems and Food Webs 
+  discipline: Biological Sciences, Environmental Sciences
+  description:  This lesson plan helps students to learn about ecosystems, biomes, food chains, and food webs and how the balance of an ecosystem can be disrupted by climate change induced insect outbreak.
+  grade: High School, Undergraduate
+  time: 60-75 min
+  color: FBE5D6
+
+climate-change-and-sleep:
+  title: Impact of Climate Change on Circadian Rhythms and Sleep
+  discipline: 	Biological Sciences, Environmental Sciences, Health Sciences
+  description:  This lesson plan helps students to learn about circadian rhythms and the factors involved in maintaining the circadian rhythm in all living organisms. 
+  grade: High School
+  time: 30 – 40 min + 1-2 days
+  color: 7A6307
