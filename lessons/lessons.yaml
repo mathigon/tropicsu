@@ -418,7 +418,7 @@ agrarian-civilizations-in-nile:
   description:  This lesson plan helps students to learn about the rise of agriculture and the concomitant rise of agrarian societies/civilizations.
   grade: High School
   time: 40-50 min
-  color: FFFBE1
+  color: B5AA9D
 
 ecosystems-and-food-webs:
   title: Ecosystems and Food Webs 
@@ -435,3 +435,11 @@ climate-change-and-sleep:
   grade: High School
   time: 30 – 40 min + 1-2 days
   color: 7A6307
+
+how-to-read-and-analyze-poetry:
+  title: How to Read and Analyze Poetry
+  discipline: English, Humanities
+  description:  This lesson plan helps students to learn how to read and analyze poetry and to use these techniques to examine climate related poems.
+  grade: High School
+  time: 60-80 min
+  color: 121214
