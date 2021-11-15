@@ -272,13 +272,13 @@ phase-diagram:
   time: 45-60 min
   color: 353a42 
 
-pollination:
-  title: Insect Pollination in a Warming World
-  discipline: Biological Sciences
-  description: A lesson plan about insect pollination and the impact of climate change on pollinators, pollinator systems and food security
-  grade: High School, Undergraduate
-  time: 2-3 sessions, 45-60 min each
-  color: 353a42   
+# pollination:
+#   title: Insect Pollination in a Warming World
+#   discipline: Biological Sciences
+#   description: A lesson plan about insect pollination and the impact of climate change on pollinators, pollinator systems and food security
+#   grade: High School, Undergraduate
+#   time: 2-3 sessions, 45-60 min each
+#   color: 353a42   
 
 simple-harmonic-motion:
   title: Simple Harmonic Motion and Simple Harmonic Oscillators
@@ -288,13 +288,13 @@ simple-harmonic-motion:
   time: 50-60 min
   color: 5D5F61 
 
-climate-fiction-hermie:
-  title: Climate Fiction 'Hermie'- A Case of Climate Change
-  discipline: Humanities, English  
-  description: Climate fiction short story to teach literary analysis of fiction through narrative strategies
-  grade: High School, Middle school  
-  time: 50-60 min 
-  color: 353a42  
+# climate-fiction-hermie:
+#   title: Climate Fiction 'Hermie'- A Case of Climate Change
+#   discipline: Humanities, English  
+#   description: Climate fiction short story to teach literary analysis of fiction through narrative strategies
+#   grade: High School, Middle school  
+#   time: 50-60 min 
+#   color: 353a42  
 
 carbon-cycle:
   title: Carbon Cycle
@@ -436,10 +436,18 @@ climate-change-and-sleep:
   time: 30 – 40 min + 1-2 days
   color: 7A6307
 
-how-to-read-and-analyze-poetry:
-  title: How to Read and Analyze Poetry
+allegory-in-literature:
+  title: Allegory in Literature
   discipline: English, Humanities
-  description:  This lesson plan helps students to learn how to read and analyze poetry and to use these techniques to examine climate related poems.
+  description:  This lesson plan helps students to learn about the literary device of allegory and examine an allegory in climate literature.
   grade: High School
-  time: 60-80 min
-  color: 121214
+  time: 40 min
+  color: 925B30  
+  
+# how-to-read-and-analyze-poetry:
+#   title: How to Read and Analyze Poetry
+#   discipline: English, Humanities
+#   description:  This lesson plan helps students to learn how to read and analyze poetry and to use these techniques to examine climate related poems.
+#   grade: High School
+#   time: 60-80 min
+#   color: 121214
