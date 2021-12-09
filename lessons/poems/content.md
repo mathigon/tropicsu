@@ -38,24 +38,21 @@ The tools in this lesson plan will enable students to:
 
 ::: .teaching-notes
 A teaching module that provides a step-by-step guide to reading poetry and analyzing its various components such as tone, structure, and theme. It includes several links to teaching resources and a worksheet for poetry analysis.
-
 :::
+
 * Use the module, ‘Preparing for Poetry: A Reader’s First Steps’ by Jason Rhody, published by EDSITEment, National Endowment for the Humanities (NEH), to take your students through a step-by-step guide to reading poetry.
-
 ::: column.grow
-
 * Follow the instructions to facilitate the students’ understanding of the techniques involved in reading and analyzing poetry.
 * Use this teaching resource to also enable your students to learn how to prepare an essay about a poem.
-
 ::: column(width=240)
 
     x-media(src="images/poems.png" width=240 height=160 credit="TROP ICSU" lightbox)
-
 :::
 
-{div.large-link} [Module 'Preparing for Poetry: A Reader’s First Steps'](https://edsitement.neh.gov/lesson-plans/preparing-poetry-readers-first-steps)
 
-{div.credit} By Jason Rhody, published by EDSITEment, [National Endowment for the Humanities (NEH)](https://edsitement.neh.gov/)
+{div.large-link} [Go To Resource](https://edsitement.neh.gov/lesson-plans/preparing-poetry-readers-first-steps)
+
+{div.credit}  Jason Rhody, [published by EDSITEment, National Endowment for the Humanities (NEH)](https://edsitement.neh.gov/).
 
 ---
 
