@@ -57,7 +57,7 @@ Two reading resources and a quiz within a teaching module that introduce ecosyst
 * Use the tool to explain how matter and energy is conserved in ecosystems.
 ::: column(width=440)
 
-    x-media.shift-1(src="images/Foodweb.jpg" width=540 height=360 credit=" Tejal Vyas, for TROP ICSU")
+    x-media.shift-1(src="images/Foodweb.jpg" width=540 height=360 credit=" Tejal Vyas, for TROP ICSU" lightbox)
 
 {.caption} Food web consisting of whitebark pine tree, squirells and bears
 :::
@@ -118,7 +118,7 @@ An interactive infographic that shows the extent of Bark Beetle infestation in t
 
 ::: column(width=440)
 
-    x-media.shift-1(src="images/barkbeetle.jpg" width=440 height=360 credit=" Tejal Vyas, for TROP ICSU")
+    x-media.shift-1(src="images/barkbeetle.jpg" width=440 height=360 credit=" Tejal Vyas, for TROP ICSU" lightbox)
 
 {.caption} Beetle Infestation Of Whitebark Pine Tree
 :::
