@@ -16,12 +16,15 @@ This lesson plan includes resources to show how sleep is affected by higher nigh
 Thus, the use of this lesson plan allows you to integrate the teaching of a climate science topic with a core topic in Biological Sciences or Environmental Sciences or Health Sciences.
 
 __Grade Level__: High School
+
 __Discipline__: Biological Sciences, Environmental Sciences,Health Sciences  
+
 __Topics__: Circadian Rhythm, Biological Rhythms, Biological Clock, Photosensitive Ganglion Cells, Suprachiasmatic Nucleus (SCN), Sleep Disruption, Sleep Deprivation, Light Sensitivity, Body temperature  
-__Climate Topic__: 
-* Climate and the Anthroposphere
-* Climate and the Biosphere  
+
+__Climate Topic__: Climate and the Anthroposphere, Climate and the Biosphere  
+
 __Location__: Global, USA  
+
 __Languages__: English, Spanish  
 
 ### Learning Outcomes

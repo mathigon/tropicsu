@@ -12,10 +12,15 @@ This lesson plan will allow you to teach about the usage of allegory as a litera
 Thus, the use of this lesson plan allows you to integrate the teaching of a climate science topic with a core topic in English Language.
 
 __Grade Level__: High School
+
 __Discipline__: English, Humanities 
+
 __Topics__: Literary Devices, Allegory, Metaphors, Fables, Parables, Types of Allegory  
+
 __Climate Topic__: Introduction to climate change
+
 __Location__: Global
+
 __Languages__: English  
 
 ### Learning Outcomes
