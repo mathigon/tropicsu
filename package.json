@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "firebase": "^7.20.0",
+    "firebase": "^8.0.0",
     "firebase-tools": "^11.24.0",
     "npm": "^9.6.0"
   },
