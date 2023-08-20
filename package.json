@@ -20,7 +20,7 @@
     "npm": "^9.6.0"
   },
   "devDependencies": {
-    "@mathigon/boost": "^0.2.4",
+    "@mathigon/boost": "^0.6.0",
     "@mathigon/core": "^0.2.3",
     "@mathigon/fermat": "^0.2.4",
     "@mathigon/parser": "^0.2.14",
