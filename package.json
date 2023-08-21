@@ -22,7 +22,7 @@
   "devDependencies": {
     "@mathigon/boost": "^0.2.4",
     "@mathigon/core": "^0.2.3",
-    "@mathigon/fermat": "^0.2.4",
+    "@mathigon/fermat": "^0.6.0",
     "@mathigon/parser": "^0.2.14",
     "emojione-assets": "^4.5.0",
     "eslint": "^7.8.1",
